@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2111/trunk/Spec/Longslit/pro/Slits
+END
+long_fiddleslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1420/trunk/Spec/Longslit/pro/Slits/long_fiddleslits.pro
+END
+long_slitmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/2111/trunk/Spec/Longslit/pro/Slits/long_slitmask.pro
+END
+long_slits2x.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1411/trunk/Spec/Longslit/pro/Slits/long_slits2x.pro
+END
+long_stdslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/728/trunk/Spec/Longslit/pro/Slits/long_stdslits.pro
+END
+long_xcorr_slits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1231/trunk/Spec/Longslit/pro/Slits/long_xcorr_slits.pro
+END
+long_shiftslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/808/trunk/Spec/Longslit/pro/Slits/long_shiftslits.pro
+END
+long_slits2mask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1181/trunk/Spec/Longslit/pro/Slits/long_slits2mask.pro
+END
+long_wpix2image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1569/trunk/Spec/Longslit/pro/Slits/long_wpix2image.pro
+END
+long_slitillum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/808/trunk/Spec/Longslit/pro/Slits/long_slitillum.pro
+END
+long_slits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/728/trunk/Spec/Longslit/pro/Slits/long_slits.pro
+END

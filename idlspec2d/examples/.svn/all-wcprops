@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/127037/repo/idlspec2d/trunk/examples
+END
+g_codes_alignment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54522/repo/idlspec2d/trunk/examples/g_codes_alignment.txt
+END
+spFluxcalib-b2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56712/repo/idlspec2d/trunk/examples/spFluxcalib-b2.fits
+END
+opBC-55025.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/examples/opBC-55025.par
+END
+plPlugMapT-XXXX.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/54525/repo/idlspec2d/trunk/examples/plPlugMapT-XXXX.par
+END
+scattering-r1-00000.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/scattering-r1-00000.fits
+END
+spFluxTemplates-r1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/spFluxTemplates-r1.fits
+END
+batch1d.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/56508/repo/idlspec2d/trunk/examples/batch1d.par
+END
+opBC-51809.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56862/repo/idlspec2d/trunk/examples/opBC-51809.par
+END
+g_codes_lighttrap.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54522/repo/idlspec2d/trunk/examples/g_codes_lighttrap.txt
+END
+opECalib-50000.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56877/repo/idlspec2d/trunk/examples/opECalib-50000.par
+END
+cartridgeInfo.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/examples/cartridgeInfo.par
+END
+spFluxcalib-r2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56712/repo/idlspec2d/trunk/examples/spFluxcalib-r2.fits
+END
+opConfig-55025.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/examples/opConfig-55025.par
+END
+opConfig-55026.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/examples/opConfig-55026.par
+END
+scattering-b2-00000.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/scattering-b2-00000.fits
+END
+spFluxTemplates-b2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/spFluxTemplates-b2.fits
+END
+opBC-50000.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56862/repo/idlspec2d/trunk/examples/opBC-50000.par
+END
+g_codes_object.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/54522/repo/idlspec2d/trunk/examples/g_codes_object.txt
+END
+opECalib-51430.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56877/repo/idlspec2d/trunk/examples/opECalib-51430.par
+END
+plParam.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/57173/repo/idlspec2d/trunk/examples/plParam.par
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/52890/repo/idlspec2d/trunk/examples/Makefile
+END
+spFluxcalib-b1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56712/repo/idlspec2d/trunk/examples/spFluxcalib-b1.fits
+END
+opLimits.par
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/127037/repo/idlspec2d/trunk/examples/opLimits.par
+END
+opBC-51813.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56862/repo/idlspec2d/trunk/examples/opBC-51813.par
+END
+opECalib-blank.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56781/repo/idlspec2d/trunk/examples/opECalib-blank.par
+END
+scattering-r2-00000.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/scattering-r2-00000.fits
+END
+opECalib-51577.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56875/repo/idlspec2d/trunk/examples/opECalib-51577.par
+END
+spFluxTemplates-r2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/spFluxTemplates-r2.fits
+END
+opConfig-50000.par
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/54907/repo/idlspec2d/trunk/examples/opConfig-50000.par
+END
+batch2d.par
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/56508/repo/idlspec2d/trunk/examples/batch2d.par
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/53529/repo/idlspec2d/trunk/examples/README
+END
+opBC-empty.par
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/54801/repo/idlspec2d/trunk/examples/opBC-empty.par
+END
+spFluxcalib-r1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56712/repo/idlspec2d/trunk/examples/spFluxcalib-r1.fits
+END
+spFluxTemplates-b1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/spFluxTemplates-b1.fits
+END
+scattering-b1-00000.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/examples/scattering-b1-00000.fits
+END
+plPlugMapP-verify.par
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/examples/plPlugMapP-verify.par
+END
+opHdrFix.par
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/56843/repo/idlspec2d/trunk/examples/opHdrFix.par
+END
+g_codes_completion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54522/repo/idlspec2d/trunk/examples/g_codes_completion.txt
+END
+opECalib-55026.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/examples/opECalib-55026.par
+END

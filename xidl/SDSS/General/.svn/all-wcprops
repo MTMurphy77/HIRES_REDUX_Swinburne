@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/xidl/!svn/ver/1938/trunk/SDSS/General
+END
+sdss_chkbal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/552/trunk/SDSS/General/sdss_chkbal.pro
+END
+sdss_metals.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/223/trunk/SDSS/General/sdss_metals.pro
+END
+sdss_getqmag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/732/trunk/SDSS/General/sdss_getqmag.pro
+END
+sdss_compare.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/192/trunk/SDSS/General/sdss_compare.pro
+END
+sdss_comptst.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/221/trunk/SDSS/General/sdss_comptst.pro
+END
+sdss_fndqso.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/143/trunk/SDSS/General/sdss_fndqso.pro
+END
+qalcharstrct2__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/79/trunk/SDSS/General/qalcharstrct2__define.pro
+END
+sdss_fix_rep.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/79/trunk/SDSS/General/sdss_fix_rep.pro
+END
+sdss_qsoflux.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/732/trunk/SDSS/General/sdss_qsoflux.pro
+END
+sdss_balupdate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/1520/trunk/SDSS/General/sdss_balupdate.pro
+END
+sdss_wave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/732/trunk/SDSS/General/sdss_wave.pro
+END
+sdss_repeats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/732/trunk/SDSS/General/sdss_repeats.pro
+END
+sdss_qsotempl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/1286/trunk/SDSS/General/sdss_qsotempl.pro
+END
+sdss_newzem.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1439/trunk/SDSS/General/sdss_newzem.pro
+END
+sdss_qsolin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1237/trunk/SDSS/General/sdss_qsolin.pro
+END
+sdss_objinf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1841/trunk/SDSS/General/sdss_objinf.pro
+END
+qalcharstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/178/trunk/SDSS/General/qalcharstrct__define.pro
+END
+sdss_queryimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/1511/trunk/SDSS/General/sdss_queryimage.pro
+END
+parse_sdss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/1938/trunk/SDSS/General/parse_sdss.pro
+END
+sdss_newqsozem.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/650/trunk/SDSS/General/sdss_newqsozem.fits.gz
+END
+sdss_dr7qsozem.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/1462/trunk/SDSS/General/sdss_dr7qsozem.fits.gz
+END
+sdss_qsostrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/1427/trunk/SDSS/General/sdss_qsostrct.pro
+END

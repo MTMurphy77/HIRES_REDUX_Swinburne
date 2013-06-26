@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/124574/repo/idlutils/trunk/pro/bspline
+END
+bspline_iterfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113612/repo/idlutils/trunk/pro/bspline/bspline_iterfit.pro
+END
+bspline_valu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112068/repo/idlutils/trunk/pro/bspline/bspline_valu.pro
+END
+cholesky_solve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113384/repo/idlutils/trunk/pro/bspline/cholesky_solve.pro
+END
+bspline_action.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112174/repo/idlutils/trunk/pro/bspline/bspline_action.pro
+END
+bspline_workit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113429/repo/idlutils/trunk/pro/bspline/bspline_workit.pro
+END
+create_bsplineset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/112033/repo/idlutils/trunk/pro/bspline/create_bsplineset.pro
+END
+bspline_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113610/repo/idlutils/trunk/pro/bspline/bspline_fit.pro
+END
+bspline_radial_valu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113430/repo/idlutils/trunk/pro/bspline/bspline_radial_valu.pro
+END
+bspline_bkpts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113825/repo/idlutils/trunk/pro/bspline/bspline_bkpts.pro
+END
+bspline_psf_action.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124574/repo/idlutils/trunk/pro/bspline/bspline_psf_action.pro
+END
+fill_bspline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112029/repo/idlutils/trunk/pro/bspline/fill_bspline.pro
+END
+intrv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112170/repo/idlutils/trunk/pro/bspline/intrv.pro
+END
+bsplvn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113494/repo/idlutils/trunk/pro/bspline/bsplvn.pro
+END
+bspline_maskpoints.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/112067/repo/idlutils/trunk/pro/bspline/bspline_maskpoints.pro
+END
+cholesky_band.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112592/repo/idlutils/trunk/pro/bspline/cholesky_band.pro
+END
+bspline_radial.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113478/repo/idlutils/trunk/pro/bspline/bspline_radial.pro
+END
+bvalu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113503/repo/idlutils/trunk/pro/bspline/bvalu.pro
+END
+bvalu_slow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112029/repo/idlutils/trunk/pro/bspline/bvalu_slow.pro
+END
+bspline_indx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112054/repo/idlutils/trunk/pro/bspline/bspline_indx.pro
+END

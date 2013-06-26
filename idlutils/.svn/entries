@@ -1,0 +1,123 @@
+10
+
+dir
+128216
+https://www.sdss3.org/svn/repo/idlutils/trunk
+https://www.sdss3.org/svn
+
+
+
+2011-10-25T07:18:33.277203Z
+127907
+schlegel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b00c9580-4927-0410-8824-811d448ea4c7
+
+pro
+dir
+
+include
+dir
+
+goddard
+dir
+
+doc
+dir
+
+lib
+dir
+
+src
+dir
+
+ups
+dir
+
+bin
+dir
+
+RELEASE_NOTES
+file
+
+
+
+
+2011-11-07T03:16:52.000000Z
+b128f695f3d08821c9ab2b0f0433da3c
+2011-07-13T18:54:06.154001Z
+125771
+schlegel
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68287
+
+data
+dir
+
+Makefile
+file
+
+
+
+
+2011-11-07T03:16:53.000000Z
+8f5628b4424322c1e35335e775c21b07
+2009-07-07T06:22:50.783329Z
+113957
+cloomis
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2046
+

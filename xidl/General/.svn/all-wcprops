@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/xidl/!svn/ver/2189/trunk/General
+END
+x_chgbw.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/68/trunk/General/x_chgbw.pro
+END
+x_chkwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/173/trunk/General/x_chkwindow.pro
+END
+x_setddate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/236/trunk/General/x_setddate.pro
+END
+x_oplotcirc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/1286/trunk/General/x_oplotcirc.pro
+END
+x_splot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/2150/trunk/General/x_splot.pro
+END
+x_helpwidg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/68/trunk/General/x_helpwidg.pro
+END
+x_setjdate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1241/trunk/General/x_setjdate.pro
+END
+x_guinum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/202/trunk/General/x_guinum.pro
+END
+x_readimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/720/trunk/General/x_readimg.pro
+END
+x_golden.pro
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/xidl/!svn/ver/68/trunk/General/x_golden.pro
+END
+xgetxpix_plt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/68/trunk/General/xgetxpix_plt.pro
+END
+xpix_line.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/68/trunk/General/xpix_line.pro
+END
+x_readcol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/2189/trunk/General/x_readcol.pro
+END
+x_guistring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/68/trunk/General/x_guistring.pro
+END
+ps_open.pro
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/xidl/!svn/ver/909/trunk/General/ps_open.pro
+END
+x_cumulative.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/720/trunk/General/x_cumulative.pro
+END
+x_logticks.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1476/trunk/General/x_logticks.pro
+END
+ps_close.pro
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/xidl/!svn/ver/68/trunk/General/ps_close.pro
+END
+window_to_file.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/87/trunk/General/window_to_file.pro
+END
+x_mode.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/720/trunk/General/x_mode.pro
+END
+x_abtoflam.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1242/trunk/General/x_abtoflam.pro
+END
+xgetx_plt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/973/trunk/General/xgetx_plt.pro
+END
+x_calctb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1096/trunk/General/x_calctb.pro
+END
+xgety_plt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/68/trunk/General/xgety_plt.pro
+END
+xheadfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1363/trunk/General/xheadfits.pro
+END
+xspline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/74/trunk/General/xspline.pro
+END
+x_padstr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1627/trunk/General/x_padstr.pro
+END
+x_chkfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1778/trunk/General/x_chkfil.pro
+END
+writecol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1511/trunk/General/writecol.pro
+END
+xpix_circ.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/68/trunk/General/xpix_circ.pro
+END
+printcol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/xidl/!svn/ver/68/trunk/General/printcol.pro
+END
+x_psopen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/485/trunk/General/x_psopen.pro
+END
+x_tiffset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/87/trunk/General/x_tiffset.pro
+END
+x_fndreg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/690/trunk/General/x_fndreg.pro
+END
+x_uniqstr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/735/trunk/General/x_uniqstr.pro
+END
+x_psclose.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/68/trunk/General/x_psclose.pro
+END
+xgetypix_plt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/68/trunk/General/xgetypix_plt.pro
+END
+xmrdfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1779/trunk/General/xmrdfits.pro
+END
+x_pixminmax.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/720/trunk/General/x_pixminmax.pro
+END
+x_constants.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2150/trunk/General/x_constants.pro
+END
+x_radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/1590/trunk/General/x_radec.pro
+END
+x_guilist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1464/trunk/General/x_guilist.pro
+END
+general.prj
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/xidl/!svn/ver/2/trunk/General/general.prj
+END
+x_getmonth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/974/trunk/General/x_getmonth.pro
+END
+fits2asc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/720/trunk/General/fits2asc.pro
+END
+ps_replacetitle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/345/trunk/General/ps_replacetitle.pro
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/1466/trunk/Spec/Longslit/pro/MAGE/ARCHIVE
+END
+Piximg.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1466/trunk/Spec/Longslit/pro/MAGE/ARCHIVE/Piximg.fits.gz
+END
+OStr_mage.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1448/trunk/Spec/Longslit/pro/MAGE/ARCHIVE/OStr_mage.fits
+END
+arcimg.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1448/trunk/Spec/Longslit/pro/MAGE/ARCHIVE/arcimg.fits.gz
+END
+ObjStr_GD108.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1448/trunk/Spec/Longslit/pro/MAGE/ARCHIVE/ObjStr_GD108.fits
+END
+mage_archive_orders.fits
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/xidl/!svn/ver/1448/trunk/Spec/Longslit/pro/MAGE/ARCHIVE/mage_archive_orders.fits
+END
+GD108_mar09_std.sav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/1448/trunk/Spec/Longslit/pro/MAGE/ARCHIVE/GD108_mar09_std.sav
+END

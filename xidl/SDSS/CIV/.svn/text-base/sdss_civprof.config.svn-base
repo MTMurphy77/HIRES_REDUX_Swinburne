@@ -1,0 +1,10 @@
+13.0 15.0	| nlim		| Column density range
+5. 20.  	| blim		| km/s; Doppler parameter range
+-150. 150.	| dvabs		| km/s; Allowed component offset
+3     		| ndv          	| Number of comopnents
+5               | dndz          | line density
+0.3             | frac_rm       | Fraction to clean of original lines
+69.             | pixscale      | km/s; SDSS binning
+0.              | dvelo         | km/s; median resolution
+0               | nabs          | number of absorbers to input
+0. 5.           | zlim          | redshift range sensitive

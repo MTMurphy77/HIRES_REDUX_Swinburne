@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text
+END
+jhuapl.readme
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/jhuapl.readme
+END
+midas_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/111841/repo/idlutils/trunk/goddard/text/midas_notes.txt
+END
+astro.readme
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/astro.readme
+END
+math.readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112646/repo/idlutils/trunk/goddard/text/math.readme
+END
+tv.readme
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/tv.readme
+END
+mrdfits.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/mrdfits.txt
+END
+sdas.readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/sdas.readme
+END
+misc.readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/misc.readme
+END
+idl_stsdas.tex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/111841/repo/idlutils/trunk/goddard/text/idl_stsdas.tex
+END
+structure.readme
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/structure.readme
+END
+daophot.tex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111841/repo/idlutils/trunk/goddard/text/daophot.tex
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/README
+END
+sdas_table.readme
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/sdas_table.readme
+END
+idlphot.readme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/idlphot.readme
+END
+database.readme
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/database.readme
+END
+fits_bintable.readme
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/112646/repo/idlutils/trunk/goddard/text/fits_bintable.readme
+END
+fits.readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/fits.readme
+END
+astrom.readme
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/astrom.readme
+END
+database.tex
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/database.tex
+END
+fits_bintable.tex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112646/repo/idlutils/trunk/goddard/text/fits_bintable.tex
+END
+data.readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/data.readme
+END
+sockets.readme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/sockets.readme
+END
+ft.tex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/ft.tex
+END
+fits_table.readme
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112646/repo/idlutils/trunk/goddard/text/fits_table.readme
+END
+plot.readme
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112646/repo/idlutils/trunk/goddard/text/plot.readme
+END
+robust.readme
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/robust.readme
+END
+tape_io.readme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/tape_io.readme
+END
+disk_io.readme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112237/repo/idlutils/trunk/goddard/text/disk_io.readme
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112339/repo/idlutils/trunk/goddard/text/Makefile
+END
+image.readme
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113517/repo/idlutils/trunk/goddard/text/image.readme
+END

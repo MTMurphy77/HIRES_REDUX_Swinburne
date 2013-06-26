@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/xidl/!svn/ver/1791/trunk/IMG/Reduction
+END
+xdimg_dflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/769/trunk/IMG/Reduction/xdimg_dflat.pro
+END
+xdimg_darksub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/769/trunk/IMG/Reduction/xdimg_darksub.pro
+END
+x_calcgain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/282/trunk/IMG/Reduction/x_calcgain.pro
+END
+xdimg_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/769/trunk/IMG/Reduction/xdimg_proc.pro
+END
+xdimg_badpix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/769/trunk/IMG/Reduction/xdimg_badpix.pro
+END
+x_statarray.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/280/trunk/IMG/Reduction/x_statarray.pro
+END
+xdimg_twiflt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/727/trunk/IMG/Reduction/xdimg_twiflt.pro
+END
+x_addtwoflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/68/trunk/IMG/Reduction/x_addtwoflats.pro
+END
+xdimg_over.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/68/trunk/IMG/Reduction/xdimg_over.pro
+END
+xcombine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1791/trunk/IMG/Reduction/xcombine.pro
+END
+x_suboscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/519/trunk/IMG/Reduction/x_suboscan.pro
+END
+xdimg_skyflt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/845/trunk/IMG/Reduction/xdimg_skyflt.pro
+END
+xdimg_bias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/727/trunk/IMG/Reduction/xdimg_bias.pro
+END
+xregtovec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/189/trunk/IMG/Reduction/xregtovec.pro
+END
+x_medsigclip.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/711/trunk/IMG/Reduction/x_medsigclip.pro
+END
+x_avsigclip.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/68/trunk/IMG/Reduction/x_avsigclip.pro
+END
+xoverscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/744/trunk/IMG/Reduction/xoverscan.pro
+END
+xdimg_dark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/769/trunk/IMG/Reduction/xdimg_dark.pro
+END
+xdimg_skymsk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/68/trunk/IMG/Reduction/xdimg_skymsk.pro
+END
+xdimg_finddark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/769/trunk/IMG/Reduction/xdimg_finddark.pro
+END
+x_register.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/466/trunk/IMG/Reduction/x_register.pro
+END
+xmkmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1246/trunk/IMG/Reduction/xmkmask.pro
+END
+x_addimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/68/trunk/IMG/Reduction/x_addimg.pro
+END
+xdimg_nonlinear.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/68/trunk/IMG/Reduction/xdimg_nonlinear.pro
+END
+xdimg_objmsk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/68/trunk/IMG/Reduction/xdimg_objmsk.pro
+END
+xoffset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/236/trunk/IMG/Reduction/xoffset.pro
+END

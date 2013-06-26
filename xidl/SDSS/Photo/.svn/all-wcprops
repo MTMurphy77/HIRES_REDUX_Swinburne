@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/xidl/!svn/ver/544/trunk/SDSS/Photo
+END
+i.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/xidl/!svn/ver/178/trunk/SDSS/Photo/i.dat
+END
+z.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/xidl/!svn/ver/178/trunk/SDSS/Photo/z.dat
+END
+sdss_filter_nu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/544/trunk/SDSS/Photo/sdss_filter_nu.pro
+END
+sdss_r0.res
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/542/trunk/SDSS/Photo/sdss_r0.res
+END
+r.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/xidl/!svn/ver/178/trunk/SDSS/Photo/r.dat
+END
+sdss_u0.res
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/542/trunk/SDSS/Photo/sdss_u0.res
+END
+sdss_g0.res
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/542/trunk/SDSS/Photo/sdss_g0.res
+END
+u.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/xidl/!svn/ver/178/trunk/SDSS/Photo/u.dat
+END
+sdss_i0.res
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/542/trunk/SDSS/Photo/sdss_i0.res
+END
+g.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/xidl/!svn/ver/178/trunk/SDSS/Photo/g.dat
+END
+sdss_z0.res
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/542/trunk/SDSS/Photo/sdss_z0.res
+END

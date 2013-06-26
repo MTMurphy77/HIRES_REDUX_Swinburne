@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General
+END
+uves_headid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General/uves_headid.pro
+END
+uves_rslvall.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/605/trunk/VLT/UVES/pro/General/uves_rslvall.pro
+END
+uves_strct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General/uves_strct.pro
+END
+uves_setup.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General/uves_setup.pro
+END
+uves_ar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/527/trunk/VLT/UVES/pro/General/uves_ar.pro
+END
+uveskey__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/527/trunk/VLT/UVES/pro/General/uveskey__define.pro
+END
+uves_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General/uves_proc.pro
+END
+uves_wrstrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/527/trunk/VLT/UVES/pro/General/uves_wrstrct.pro
+END
+uves_delov.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/527/trunk/VLT/UVES/pro/General/uves_delov.pro
+END
+uvesstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/527/trunk/VLT/UVES/pro/General/uvesstrct__define.pro
+END
+uves_getfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General/uves_getfil.pro
+END
+uves_setgainrn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/527/trunk/VLT/UVES/pro/General/uves_setgainrn.pro
+END
+uves_getwcen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/1363/trunk/VLT/UVES/pro/General/uves_getwcen.pro
+END

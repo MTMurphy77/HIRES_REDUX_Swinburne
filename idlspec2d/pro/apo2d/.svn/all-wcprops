@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/127760/repo/idlspec2d/trunk/pro/apo2d
+END
+ccdtilt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/ccdtilt.pro
+END
+apoplotgeom.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/55984/repo/idlspec2d/trunk/pro/apo2d/apoplotgeom.pro
+END
+apo_log2html.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/apo_log2html.pro
+END
+guidermpeg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/guidermpeg.pro
+END
+plughistory.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/123476/repo/idlspec2d/trunk/pro/apo2d/plughistory.pro
+END
+remove2redo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/remove2redo.pro
+END
+apo_checklimits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/106720/repo/idlspec2d/trunk/pro/apo2d/apo_checklimits.pro
+END
+focushistory.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/focushistory.pro
+END
+smallcollimate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/smallcollimate.pro
+END
+quickextract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/123399/repo/idlspec2d/trunk/pro/apo2d/quickextract.pro
+END
+aporeduce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/123304/repo/idlspec2d/trunk/pro/apo2d/aporeduce.pro
+END
+quickbias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/116107/repo/idlspec2d/trunk/pro/apo2d/quickbias.pro
+END
+apoplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/57003/repo/idlspec2d/trunk/pro/apo2d/apoplot.pro
+END
+apod.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/116101/repo/idlspec2d/trunk/pro/apo2d/apod.pro
+END
+apofix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/apofix.pro
+END
+apoheader.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/apoheader.pro
+END
+guidermonfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/guidermonfile.pro
+END
+quicktrace.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/123398/repo/idlspec2d/trunk/pro/apo2d/quicktrace.pro
+END
+bestfocus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/bestfocus.pro
+END
+slithistory.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/slithistory.pro
+END
+quickwave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126310/repo/idlspec2d/trunk/pro/apo2d/quickwave.pro
+END
+combsmallcollimate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/127760/repo/idlspec2d/trunk/pro/apo2d/combsmallcollimate.pro
+END
+apo_color2hex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/apo_color2hex.pro
+END
+apoplotarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/55654/repo/idlspec2d/trunk/pro/apo2d/apoplotarc.pro
+END
+apoplotsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/55654/repo/idlspec2d/trunk/pro/apo2d/apoplotsky.pro
+END
+apo_appendlog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/116112/repo/idlspec2d/trunk/pro/apo2d/apo_appendlog.pro
+END
+apoall.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/apoall.pro
+END
+collimate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126491/repo/idlspec2d/trunk/pro/apo2d/collimate.pro
+END
+apofluxcalib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/apofluxcalib.pro
+END
+quickboxcar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52992/repo/idlspec2d/trunk/pro/apo2d/quickboxcar.pro
+END
+plugmap_tycho.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56628/repo/idlspec2d/trunk/pro/apo2d/plugmap_tycho.pro
+END
+apo_plotbias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/apo_plotbias.pro
+END
+apo_plotsn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/apo2d/apo_plotsn.pro
+END
+guidermovie.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/apo2d/guidermovie.pro
+END
+atvrawspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56613/repo/idlspec2d/trunk/pro/apo2d/atvrawspec.pro
+END

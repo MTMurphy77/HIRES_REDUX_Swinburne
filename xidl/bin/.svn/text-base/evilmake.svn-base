@@ -1,0 +1,107 @@
+#!/bin/sh
+
+# Do not use optimization for the IRIX platforms, since that
+# seems to fail at the build step.
+# Our Makefile's always build with $(SDSS_CFLAGS), so we can use that
+# variable to set optimization.
+
+UNAME=`uname`
+echo "OS type detected: "$UNAME
+case $UNAME in
+	"SunOS") if [  -d /proc ]; then
+		LDF77=g77
+			SO_EXT=so
+			X_CFLAGS="-KPIC"
+      X_FFLAGS="-e"
+			X_LD_FLAGS=-G
+		fi
+		SDSS_CFLAGS=-O3
+	;;
+	"HP-UX")
+		LDF77=g77
+		SO_EXT=sl
+		X_CFLAGS="+z -Aa -D_HPUX_SOURCE"
+	  X_FFLAGS="-extend_source"
+		X_LD_FLAGS=-b
+	;;
+	"IRIX" )
+		LDF77=g77
+		SO_EXT=so
+		X_CFLAGS="-32 -KPIC"
+    X_FFLAGS="-32 -extend_source"
+    MAKE_FTNLIB="-lftn"
+		X_LD_FLAGS="-shared -32"
+	;;
+	"IRIX64" )
+		SO_EXT=so
+		LDF77=g77
+		X_CFLAGS="-64 -KPIC -mips4"
+		CC=cc
+		LD=ld
+		LDF77=ld
+		X_FFLAGS="-64 -extend_source -KPIC"
+		MAKE_FTNLIB="-lftn"
+		X_LD_FLAGS="-shared -64 -mips4"
+	;;
+	"OSF1" )
+		LDF77=g77
+		SO_EXT=so
+    X_FFLAGS="-extend_source"
+		X_LD_FLAGS="-S -shared"
+		SDSS_CFLAGS=-O3 
+	;;
+	"Darwin" )
+
+        if [ `uname -m` == 'i386' ]; then
+
+            F77=gfortran
+            LDF77=gcc
+		    LD=gcc
+            
+            SO_EXT=dylib
+            
+            X_LD_FLAGS="-dynamiclib -undefined dynamic_lookup -single_module"
+            
+        else
+            
+            F77=g77
+            LDF77=ld
+
+	    if [ `uname -m` == 'i386' ]; then
+		
+		X_LD_FLAGS="-bundle /usr/lib/bundle1.o -L/usr/lib  -L/usr/lib/gcc/i686-apple-darwin8/4.0.1 -lc -lgcc -flat_namespace -undefined suppress"
+
+	    else 
+
+		X_LD_FLAGS="-bundle /usr/lib/bundle1.o -L/usr/lib  -L/usr/lib/gcc/powerpc-apple-darwin8/4.0.1 -lc -lgcc -flat_namespace -undefined suppress"
+
+	    fi
+
+            if [ `uname -r | cut -c 1` \< 8 ]; then
+                X_LD_FLAGS="-bundle /usr/lib/bundle1.o -L/usr/lib -lc -lcc_dynamic -flat_namespace -undefined suppress"
+            fi
+
+        fi
+# The following two lines should be equivalent to the above line
+#               LD=libtool
+#               X_LD_FLAGS="-dynamic -L/usr/lib -lc -lcc_dynamic"
+                SDSS_CFLAGS=-O3
+        ;;
+
+	"Linux" )
+		LDF77=g77
+		SO_EXT=so
+		X_CFLAGS="-fPIC -g -Wall"
+		X_FFLAGS="-ffixed-line-length-none"
+    MAKE_FTNLIB="-lg2c"
+#    MAKE_FTNLIB="-lg2c  -L/usr/lib/gcc-lib/i386-redhat-linux/`gcc -dumpversion`"
+		X_LD_FLAGS=-shared
+		SDSS_CFLAGS="-O3 -DSDSS_LITTLE_ENDIAN"
+	;;
+	*) echo "This system is not supported" >&2
+		exit 1;;
+esac
+
+export SO_EXT X_CFLAGS X_FFLAGS X_LD_FLAGS SDSS_CFLAGS LD F77 MAKE_FTNLIB UNAME LDF77
+
+make "$@"

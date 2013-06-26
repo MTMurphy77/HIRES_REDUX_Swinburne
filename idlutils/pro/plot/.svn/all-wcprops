@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124983/repo/idlutils/trunk/pro/plot
+END
+dfpsclose.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112197/repo/idlutils/trunk/pro/plot/dfpsclose.pro
+END
+hogg_meanplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113388/repo/idlutils/trunk/pro/plot/hogg_meanplot.pro
+END
+cmps_form.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/111972/repo/idlutils/trunk/pro/plot/cmps_form.pro
+END
+djs_plotlimitbox.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/111831/repo/idlutils/trunk/pro/plot/djs_plotlimitbox.pro
+END
+imgexp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113879/repo/idlutils/trunk/pro/plot/imgexp.pro
+END
+atv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/114014/repo/idlutils/trunk/pro/plot/atv.pro
+END
+djs_arrow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/111831/repo/idlutils/trunk/pro/plot/djs_arrow.pro
+END
+dfpsplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112390/repo/idlutils/trunk/pro/plot/dfpsplot.pro
+END
+djs_oplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113889/repo/idlutils/trunk/pro/plot/djs_oplot.pro
+END
+hogg_arrow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113538/repo/idlutils/trunk/pro/plot/hogg_arrow.pro
+END
+blanton_oned_meanplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/112789/repo/idlutils/trunk/pro/plot/blanton_oned_meanplot.pro
+END
+splot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113402/repo/idlutils/trunk/pro/plot/splot.pro
+END
+hogg_autocrop_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113739/repo/idlutils/trunk/pro/plot/hogg_autocrop_image.pro
+END
+djs_oploterr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113412/repo/idlutils/trunk/pro/plot/djs_oploterr.pro
+END
+hogg_scatterplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124983/repo/idlutils/trunk/pro/plot/hogg_scatterplot.pro
+END
+hogg_plot_defaults.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113832/repo/idlutils/trunk/pro/plot/hogg_plot_defaults.pro
+END
+hogg_usersym.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113808/repo/idlutils/trunk/pro/plot/hogg_usersym.pro
+END
+hogg_manyd_meanplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/112789/repo/idlutils/trunk/pro/plot/hogg_manyd_meanplot.pro
+END
+djs_xyouts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112091/repo/idlutils/trunk/pro/plot/djs_xyouts.pro
+END
+pie_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114050/repo/idlutils/trunk/pro/plot/pie_plot.pro
+END
+restore_sysvars.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112578/repo/idlutils/trunk/pro/plot/restore_sysvars.pro
+END
+djs_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113901/repo/idlutils/trunk/pro/plot/djs_plot.pro
+END
+imgscl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111992/repo/idlutils/trunk/pro/plot/imgscl.pro
+END
+splot_plugin_sdss_findimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/113340/repo/idlutils/trunk/pro/plot/splot_plugin_sdss_findimage.pro
+END
+ex_max_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113059/repo/idlutils/trunk/pro/plot/ex_max_plot.pro
+END
+hogg_greyscale_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113728/repo/idlutils/trunk/pro/plot/hogg_greyscale_plot.pro
+END
+djs_contourpts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/111831/repo/idlutils/trunk/pro/plot/djs_contourpts.pro
+END
+blanton_weighted_mean_line.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/112730/repo/idlutils/trunk/pro/plot/blanton_weighted_mean_line.pro
+END
+djs_icolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113802/repo/idlutils/trunk/pro/plot/djs_icolor.pro
+END
+pixfont.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113804/repo/idlutils/trunk/pro/plot/pixfont.pro
+END
+hogg_interval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112627/repo/idlutils/trunk/pro/plot/hogg_interval.pro
+END
+hogg_oplot_covar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113385/repo/idlutils/trunk/pro/plot/hogg_oplot_covar.pro
+END
+tvimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113807/repo/idlutils/trunk/pro/plot/tvimage.pro
+END
+hogg_manyd_scatterplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/114002/repo/idlutils/trunk/pro/plot/hogg_manyd_scatterplot.pro
+END
+atv_joe_writeps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113791/repo/idlutils/trunk/pro/plot/atv_joe_writeps.pro
+END
+djs_axis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/111926/repo/idlutils/trunk/pro/plot/djs_axis.pro
+END
+display.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/112540/repo/idlutils/trunk/pro/plot/display.pro
+END
+hogg_read_postscript.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/112568/repo/idlutils/trunk/pro/plot/hogg_read_postscript.pro
+END
+hogg_plothist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113850/repo/idlutils/trunk/pro/plot/hogg_plothist.pro
+END
+sysvars.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/112578/repo/idlutils/trunk/pro/plot/sysvars.pro
+END
+hogg_weighted_mean_surface.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/113389/repo/idlutils/trunk/pro/plot/hogg_weighted_mean_surface.pro
+END

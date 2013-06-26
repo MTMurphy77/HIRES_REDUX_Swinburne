@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/113632/repo/idlutils/trunk/pro/mcmc
+END
+hogg_mcmc_test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113632/repo/idlutils/trunk/pro/mcmc/hogg_mcmc_test.pro
+END
+hogg_mcmc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113632/repo/idlutils/trunk/pro/mcmc/hogg_mcmc.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/113432/repo/idlutils/trunk/pro/mcmc/README
+END
+hogg_mcmc_step.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113632/repo/idlutils/trunk/pro/mcmc/hogg_mcmc_step.pro
+END

@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/125770/repo/idlutils/trunk/pro/misc
+END
+floatcompress.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112360/repo/idlutils/trunk/pro/misc/floatcompress.pro
+END
+djs_batch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113805/repo/idlutils/trunk/pro/misc/djs_batch.pro
+END
+splog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113151/repo/idlutils/trunk/pro/misc/splog.pro
+END
+wsex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/125770/repo/idlutils/trunk/pro/misc/wsex.pro
+END
+radec2string.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113577/repo/idlutils/trunk/pro/misc/radec2string.pro
+END
+blackbody.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112016/repo/idlutils/trunk/pro/misc/blackbody.pro
+END
+hogg_ned_name2radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113654/repo/idlutils/trunk/pro/misc/hogg_ned_name2radec.pro
+END
+hogg_iso_date.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113871/repo/idlutils/trunk/pro/misc/hogg_iso_date.pro
+END
+djs_filepath.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112013/repo/idlutils/trunk/pro/misc/djs_filepath.pro
+END
+bitmask_widget.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113888/repo/idlutils/trunk/pro/misc/bitmask_widget.pro
+END
+catfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/112242/repo/idlutils/trunk/pro/misc/catfits.pro
+END
+tag_indx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112570/repo/idlutils/trunk/pro/misc/tag_indx.pro
+END
+struct_trimtags.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112674/repo/idlutils/trunk/pro/misc/struct_trimtags.pro
+END
+struct_print.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114035/repo/idlutils/trunk/pro/misc/struct_print.pro
+END
+lines2struct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114027/repo/idlutils/trunk/pro/misc/lines2struct.pro
+END
+beatdrive.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113751/repo/idlutils/trunk/pro/misc/beatdrive.pro
+END
+lookforgzip.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112381/repo/idlutils/trunk/pro/misc/lookforgzip.pro
+END
+djs_locate_file.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/111836/repo/idlutils/trunk/pro/misc/djs_locate_file.pro
+END
+djs_readlines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/111836/repo/idlutils/trunk/pro/misc/djs_readlines.pro
+END
+fillspan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113776/repo/idlutils/trunk/pro/misc/fillspan.pro
+END
+where_array.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112428/repo/idlutils/trunk/pro/misc/where_array.pro
+END
+flagfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113995/repo/idlutils/trunk/pro/misc/flagfile.pro
+END
+djs_readcol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111828/repo/idlutils/trunk/pro/misc/djs_readcol.pro
+END
+make_html_help.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/125246/repo/idlutils/trunk/pro/misc/make_html_help.pro
+END
+djs_selectlines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/111836/repo/idlutils/trunk/pro/misc/djs_selectlines.pro
+END
+djs_laxisgen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/111980/repo/idlutils/trunk/pro/misc/djs_laxisgen.pro
+END
+struct_addtags.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112077/repo/idlutils/trunk/pro/misc/struct_addtags.pro
+END
+flagval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113995/repo/idlutils/trunk/pro/misc/flagval.pro
+END
+labelloc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113421/repo/idlutils/trunk/pro/misc/labelloc.pro
+END
+group_indx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112628/repo/idlutils/trunk/pro/misc/group_indx.pro
+END
+djs_readilines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112971/repo/idlutils/trunk/pro/misc/djs_readilines.pro
+END
+rsex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/125770/repo/idlutils/trunk/pro/misc/rsex.pro
+END
+hogg_iau_name.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113891/repo/idlutils/trunk/pro/misc/hogg_iau_name.pro
+END
+sortinplace.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113278/repo/idlutils/trunk/pro/misc/sortinplace.pro
+END
+unixfind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113781/repo/idlutils/trunk/pro/misc/unixfind.pro
+END
+string2radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113662/repo/idlutils/trunk/pro/misc/string2radec.pro
+END
+cpbackup.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/111963/repo/idlutils/trunk/pro/misc/cpbackup.pro
+END
+djs_lockfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112441/repo/idlutils/trunk/pro/misc/djs_lockfile.pro
+END
+is_file_readable.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113463/repo/idlutils/trunk/pro/misc/is_file_readable.pro
+END
+djs_unlockfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112440/repo/idlutils/trunk/pro/misc/djs_unlockfile.pro
+END
+undefine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113112/repo/idlutils/trunk/pro/misc/undefine.pro
+END
+idlutils_version.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113897/repo/idlutils/trunk/pro/misc/idlutils_version.pro
+END
+djs_laxisnum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112164/repo/idlutils/trunk/pro/misc/djs_laxisnum.pro
+END
+struct2lines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113972/repo/idlutils/trunk/pro/misc/struct2lines.pro
+END
+beatdrive_check.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113752/repo/idlutils/trunk/pro/misc/beatdrive_check.pro
+END
+struct_selecttags.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112969/repo/idlutils/trunk/pro/misc/struct_selecttags.pro
+END
+which.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113307/repo/idlutils/trunk/pro/misc/which.pro
+END
+hogg_name2radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113529/repo/idlutils/trunk/pro/misc/hogg_name2radec.pro
+END
+count_freelun.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113098/repo/idlutils/trunk/pro/misc/count_freelun.pro
+END
+uniqtag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113587/repo/idlutils/trunk/pro/misc/uniqtag.pro
+END
+idlutils_so_ext.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113104/repo/idlutils/trunk/pro/misc/idlutils_so_ext.pro
+END
+flagname.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113995/repo/idlutils/trunk/pro/misc/flagname.pro
+END
+struct_append.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113572/repo/idlutils/trunk/pro/misc/struct_append.pro
+END
+read_tbl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112550/repo/idlutils/trunk/pro/misc/read_tbl.pro
+END
+iau_to_radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113748/repo/idlutils/trunk/pro/misc/iau_to_radec.pro
+END
+rmfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112235/repo/idlutils/trunk/pro/misc/rmfile.pro
+END
+shuffle_indx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112735/repo/idlutils/trunk/pro/misc/shuffle_indx.pro
+END
+fileandpath.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/114008/repo/idlutils/trunk/pro/misc/fileandpath.pro
+END

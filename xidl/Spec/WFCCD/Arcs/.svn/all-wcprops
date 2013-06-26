@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Arcs
+END
+wfccd_chkarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Arcs/wfccd_chkarc.pro
+END
+wfccd_writeastrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Arcs/wfccd_writeastrct.pro
+END
+wfccd_allarcsol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Arcs/wfccd_allarcsol.pro
+END
+wfccd_fixarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Arcs/wfccd_fixarc.pro
+END
+wfccd_readastrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Arcs/wfccd_readastrct.pro
+END
+wfccd_arcimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Arcs/wfccd_arcimg.pro
+END
+wfccd_arcsol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Arcs/wfccd_arcsol.pro
+END
+wfccd_cleanarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Arcs/wfccd_cleanarc.pro
+END
+wfccdarcstr__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Arcs/wfccdarcstr__define.pro
+END
+wfccd_procarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Arcs/wfccd_procarc.pro
+END

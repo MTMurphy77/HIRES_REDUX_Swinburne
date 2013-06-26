@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/114054/repo/idlutils/trunk/pro/math
+END
+ex_max_probability.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112450/repo/idlutils/trunk/pro/math/ex_max_probability.pro
+END
+djs_floor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112601/repo/idlutils/trunk/pro/math/djs_floor.pro
+END
+computechi2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113810/repo/idlutils/trunk/pro/math/computechi2.pro
+END
+legendre_zero.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112604/repo/idlutils/trunk/pro/math/legendre_zero.pro
+END
+em_pca.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113764/repo/idlutils/trunk/pro/math/em_pca.pro
+END
+asinh2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112788/repo/idlutils/trunk/pro/math/asinh2.pro
+END
+sshift2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112169/repo/idlutils/trunk/pro/math/sshift2d.pro
+END
+nonneg_mult_update.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112518/repo/idlutils/trunk/pro/math/nonneg_mult_update.pro
+END
+group_on_matches.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113868/repo/idlutils/trunk/pro/math/group_on_matches.pro
+END
+dierfc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113125/repo/idlutils/trunk/pro/math/dierfc.pro
+END
+lle_sm_full.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112696/repo/idlutils/trunk/pro/math/lle_sm_full.pro
+END
+nmf_sparse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113554/repo/idlutils/trunk/pro/math/nmf_sparse.pro
+END
+nonneg_mult_update_solve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/112532/repo/idlutils/trunk/pro/math/nonneg_mult_update_solve.pro
+END
+djs_posmod.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112601/repo/idlutils/trunk/pro/math/djs_posmod.pro
+END
+weighted_quantile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113951/repo/idlutils/trunk/pro/math/weighted_quantile.pro
+END
+adjust_error.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112790/repo/idlutils/trunk/pro/math/adjust_error.pro
+END
+djs_int2bin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111966/repo/idlutils/trunk/pro/math/djs_int2bin.pro
+END
+logsum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113455/repo/idlutils/trunk/pro/math/logsum.pro
+END
+poly_iter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113485/repo/idlutils/trunk/pro/math/poly_iter.pro
+END
+djs_ceil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/112601/repo/idlutils/trunk/pro/math/djs_ceil.pro
+END
+djs_reject.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113485/repo/idlutils/trunk/pro/math/djs_reject.pro
+END
+memshift.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113251/repo/idlutils/trunk/pro/math/memshift.pro
+END
+groupnd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113764/repo/idlutils/trunk/pro/math/groupnd.pro
+END
+matchnd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/114054/repo/idlutils/trunk/pro/math/matchnd.pro
+END
+djs_correlate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113251/repo/idlutils/trunk/pro/math/djs_correlate.pro
+END
+djs_mean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/111827/repo/idlutils/trunk/pro/math/djs_mean.pro
+END
+ex_max.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113769/repo/idlutils/trunk/pro/math/ex_max.pro
+END
+djs_avsigclip.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113251/repo/idlutils/trunk/pro/math/djs_avsigclip.pro
+END
+djs_hex2int.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111827/repo/idlutils/trunk/pro/math/djs_hex2int.pro
+END
+mmeval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113459/repo/idlutils/trunk/pro/math/mmeval.pro
+END
+hogg_snap_integer.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112829/repo/idlutils/trunk/pro/math/hogg_snap_integer.pro
+END
+gauss_kernel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112259/repo/idlutils/trunk/pro/math/gauss_kernel.pro
+END
+em_pca_sparse_matrix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/112731/repo/idlutils/trunk/pro/math/em_pca_sparse_matrix.pro
+END
+mmsparse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113403/repo/idlutils/trunk/pro/math/mmsparse.pro
+END
+gausspix1d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112020/repo/idlutils/trunk/pro/math/gausspix1d.pro
+END
+solve_poly_ratio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113606/repo/idlutils/trunk/pro/math/solve_poly_ratio.pro
+END
+djs_median.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113820/repo/idlutils/trunk/pro/math/djs_median.pro
+END
+legendre_zero_func.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112604/repo/idlutils/trunk/pro/math/legendre_zero_func.pro
+END
+djs_hex2bin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111827/repo/idlutils/trunk/pro/math/djs_hex2bin.pro
+END
+djs_iterstat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113713/repo/idlutils/trunk/pro/math/djs_iterstat.pro
+END
+djsig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112009/repo/idlutils/trunk/pro/math/djsig.pro
+END
+sshift.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112601/repo/idlutils/trunk/pro/math/sshift.pro
+END
+gridnd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113854/repo/idlutils/trunk/pro/math/gridnd.pro
+END
+lle_sm_transpose.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112696/repo/idlutils/trunk/pro/math/lle_sm_transpose.pro
+END
+gauss_overlap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113035/repo/idlutils/trunk/pro/math/gauss_overlap.pro
+END
+nnls.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113251/repo/idlutils/trunk/pro/math/nnls.pro
+END
+lle_sm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112731/repo/idlutils/trunk/pro/math/lle_sm.pro
+END
+lle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/112731/repo/idlutils/trunk/pro/math/lle.pro
+END
+hogg_iter_linfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113697/repo/idlutils/trunk/pro/math/hogg_iter_linfit.pro
+END
+lle_sm_mult.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112731/repo/idlutils/trunk/pro/math/lle_sm_mult.pro
+END
+sshiftrotate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112812/repo/idlutils/trunk/pro/math/sshiftrotate.pro
+END

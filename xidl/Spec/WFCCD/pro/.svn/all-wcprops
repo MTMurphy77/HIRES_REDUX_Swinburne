@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/pro
+END
+extrct_night.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/pro/extrct_night.pro
+END
+extrct_obj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/pro/extrct_obj.pro
+END
+extrct_mask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/pro/extrct_mask.pro
+END
+setcrds.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/pro/setcrds.pro
+END
+proc_night.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/pro/proc_night.pro
+END

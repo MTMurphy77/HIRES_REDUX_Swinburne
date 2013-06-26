@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2148/trunk/Spec/Longslit/pro/Wave
+END
+long_arc_fw.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/831/trunk/Spec/Longslit/pro/Wave/long_arc_fw.pro
+END
+long_reidentify.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2144/trunk/Spec/Longslit/pro/Wave/long_reidentify.pro
+END
+long_wavepix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/1118/trunk/Spec/Longslit/pro/Wave/long_wavepix.pro
+END
+long_autoid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2144/trunk/Spec/Longslit/pro/Wave/long_autoid.pro
+END
+long_arc_fwhm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/831/trunk/Spec/Longslit/pro/Wave/long_arc_fwhm.pro
+END
+long_wavesolve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/2076/trunk/Spec/Longslit/pro/Wave/long_wavesolve.pro
+END
+long_wstruct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/2148/trunk/Spec/Longslit/pro/Wave/long_wstruct.pro
+END
+long_addtoarchive.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1511/trunk/Spec/Longslit/pro/Wave/long_addtoarchive.pro
+END
+long_kludge_wave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1569/trunk/Spec/Longslit/pro/Wave/long_kludge_wave.pro
+END
+long_wave_tweak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/928/trunk/Spec/Longslit/pro/Wave/long_wave_tweak.pro
+END
+long_witerfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1664/trunk/Spec/Longslit/pro/Wave/long_witerfit.pro
+END
+calib_script.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/928/trunk/Spec/Longslit/pro/Wave/calib_script.pro
+END
+long_waveimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/2148/trunk/Spec/Longslit/pro/Wave/long_waveimg.pro
+END

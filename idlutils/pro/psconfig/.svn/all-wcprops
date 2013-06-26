@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig
+END
+fsc_plotwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/fsc_plotwindow.pro
+END
+psconfig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/psconfig.pro
+END
+fsc_fileselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/fsc_fileselect.pro
+END
+fsc_droplist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/fsc_droplist.pro
+END
+fsc_psconfig__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/fsc_psconfig__define.pro
+END
+error_message.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/error_message.pro
+END
+fsc_field.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/fsc_field.pro
+END
+fsc_inputfield.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112675/repo/idlutils/trunk/pro/psconfig/fsc_inputfield.pro
+END

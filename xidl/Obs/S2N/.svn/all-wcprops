@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/xidl/!svn/ver/2160/trunk/Obs/S2N
+END
+keck_calcs2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2135/trunk/Obs/S2N/keck_calcs2n.pro
+END
+x_inithires.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2037/trunk/Obs/S2N/x_inithires.pro
+END
+s2ngui_echelle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1067/trunk/Obs/S2N/s2ngui_echelle.pro
+END
+x_initkeck.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/728/trunk/Obs/S2N/x_initkeck.pro
+END
+kast_s2ngui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2105/trunk/Obs/S2N/kast_s2ngui.pro
+END
+x_initdeimos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2150/trunk/Obs/S2N/x_initdeimos.pro
+END
+x_initesi.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/2037/trunk/Obs/S2N/x_initesi.pro
+END
+kast_thruput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2105/trunk/Obs/S2N/kast_thruput.pro
+END
+x_initlick.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2037/trunk/Obs/S2N/x_initlick.pro
+END
+x_obss2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/728/trunk/Obs/S2N/x_obss2n.pro
+END
+spec_calcs2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2157/trunk/Obs/S2N/spec_calcs2n.pro
+END
+hires_s2ngui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1619/trunk/Obs/S2N/hires_s2ngui.pro
+END
+hires_ions2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2154/trunk/Obs/S2N/hires_ions2n.pro
+END
+mthr_thruput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/728/trunk/Obs/S2N/mthr_thruput.pro
+END
+hires_thruput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/728/trunk/Obs/S2N/hires_thruput.pro
+END
+kast_calcs2n_wrapper.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/2159/trunk/Obs/S2N/kast_calcs2n_wrapper.pro
+END
+kast_calcs2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2105/trunk/Obs/S2N/kast_calcs2n.pro
+END
+esi_s2ngui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2157/trunk/Obs/S2N/esi_s2ngui.pro
+END
+deimos_s2ngui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2157/trunk/Obs/S2N/deimos_s2ngui.pro
+END
+esi_ions2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2158/trunk/Obs/S2N/esi_ions2n.pro
+END
+esi_thruput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2154/trunk/Obs/S2N/esi_thruput.pro
+END
+deimos_thruput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/2140/trunk/Obs/S2N/deimos_thruput.pro
+END
+x_initkast.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2037/trunk/Obs/S2N/x_initkast.pro
+END
+hires_calcs2n.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2154/trunk/Obs/S2N/hires_calcs2n.pro
+END
+x_inittmt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/728/trunk/Obs/S2N/x_inittmt.pro
+END

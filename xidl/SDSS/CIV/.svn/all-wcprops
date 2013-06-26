@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/xidl/!svn/ver/2187/trunk/SDSS/CIV
+END
+dr7qso_srt.list
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1805/trunk/SDSS/CIV/dr7qso_srt.list
+END
+todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/1822/trunk/SDSS/CIV/todo.txt
+END
+sdss_runpipeline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/1854/trunk/SDSS/CIV/sdss_runpipeline.pro
+END
+sdss_cleanspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2165/trunk/SDSS/CIV/sdss_cleanspec.pro
+END
+dr7qso_noBAL.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1806/trunk/SDSS/CIV/dr7qso_noBAL.fit.gz
+END
+sdss_genprof.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2171/trunk/SDSS/CIV/sdss_genprof.pro
+END
+sdss_completeness.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/2172/trunk/SDSS/CIV/sdss_completeness.pro
+END
+dr7qso_BAL.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1764/trunk/SDSS/CIV/dr7qso_BAL.fit.gz
+END
+tauweighting.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1810/trunk/SDSS/CIV/tauweighting.pro
+END
+sdsscontistrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/2118/trunk/SDSS/CIV/sdsscontistrct__define.pro
+END
+sdss_civsearch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2156/trunk/SDSS/CIV/sdss_civsearch.pro
+END
+sdss_chkciv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2153/trunk/SDSS/CIV/sdss_chkciv.pro
+END
+sdss_balqso_map.sav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1807/trunk/SDSS/CIV/sdss_balqso_map.sav
+END
+dr7qso_splfail.list
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1768/trunk/SDSS/CIV/dr7qso_splfail.list
+END
+sdss_functions.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2187/trunk/SDSS/CIV/sdss_functions.pro
+END
+dr7qso_noBAL.list
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1806/trunk/SDSS/CIV/dr7qso_noBAL.list
+END
+sdss_fndciv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2156/trunk/SDSS/CIV/sdss_fndciv.pro
+END
+sdss_fndlin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2096/trunk/SDSS/CIV/sdss_fndlin.pro
+END
+sdss_ionchk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2098/trunk/SDSS/CIV/sdss_ionchk.pro
+END
+sdss_runparallelsrch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/2093/trunk/SDSS/CIV/sdss_runparallelsrch.sh
+END
+sdsscivstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/2118/trunk/SDSS/CIV/sdsscivstrct__define.pro
+END
+dr7qso_srt.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1805/trunk/SDSS/CIV/dr7qso_srt.fit.gz
+END
+dr7qso_BAL.list
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1762/trunk/SDSS/CIV/dr7qso_BAL.list
+END
+sdss_ewciv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2096/trunk/SDSS/CIV/sdss_ewciv.pro
+END
+sdss_civprof.config
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2166/trunk/SDSS/CIV/sdss_civprof.config
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/1854/trunk/SDSS/CIV/readme.txt
+END
+sdss_gz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/2186/trunk/SDSS/CIV/sdss_gz.pro
+END
+sdss_civ.lst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/2065/trunk/SDSS/CIV/sdss_civ.lst
+END

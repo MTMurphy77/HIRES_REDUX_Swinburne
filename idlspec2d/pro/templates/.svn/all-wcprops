@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/125501/repo/idlspec2d/trunk/pro/templates
+END
+pca_qso_dev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/pca_qso_dev.pro
+END
+mlpcainput_star.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/mlpcainput_star.txt
+END
+pca_gal_dev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/pca_gal_dev.pro
+END
+mlpca_star.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/mlpca_star.pro
+END
+align_rest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/align_rest.pro
+END
+pca_cvstar_boss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/125501/repo/idlspec2d/trunk/pro/templates/pca_cvstar_boss.pro
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/README.txt
+END
+mlpcainput_qso_combined.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/mlpcainput_qso_combined.txt
+END
+mlpca_cvstar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/mlpca_cvstar.pro
+END
+mlpcainput_gal_01.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/templates/mlpcainput_gal_01.txt
+END

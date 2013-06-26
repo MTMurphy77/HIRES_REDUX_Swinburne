@@ -1,0 +1,13 @@
+body {
+    background: #CCCCCC;
+    width: 800px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #C0C0C0;
+}
+

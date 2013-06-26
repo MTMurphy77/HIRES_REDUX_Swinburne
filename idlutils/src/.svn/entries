@@ -1,0 +1,89 @@
+10
+
+dir
+128216
+https://www.sdss3.org/svn/repo/idlutils/trunk/src
+https://www.sdss3.org/svn
+
+
+
+2009-10-06T13:37:32.623788Z
+114023
+blanton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b00c9580-4927-0410-8824-811d448ea4c7
+
+image
+dir
+
+spheregroup
+dir
+
+mangle2.2
+dir
+
+dimage
+dir
+
+mangle1.4
+dir
+
+math
+dir
+
+slatec
+dir
+
+idlmangle
+dir
+
+Makefile
+file
+
+
+
+
+2011-11-07T03:16:13.000000Z
+e8149d5eb4f9d919677efcf1ad685e64
+2009-06-09T13:56:45.077555Z
+113914
+blanton
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+979
+
+trace
+dir
+

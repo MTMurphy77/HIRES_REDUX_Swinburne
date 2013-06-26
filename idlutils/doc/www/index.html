@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+     "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>idlutils</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="idlutils.css" type="text/css" media="all" />
+</head>
+<body>
+
+<h1>idlutils</h1>
+
+<h2>Documentation</h2>
+
+<p>idlutils is a collection of IDL utilities useful for astronomical
+applications, developed by an assortment of folks over the
+years. Various pipelines for the Sloan Digital Sky Survey and other
+projects rely on tools from this product.</p>
+
+<p>Also included within idlutils is a version of the
+<a href="http://idlastro.gsfc.nasa.gov/">Goddard utilities</a>
+maintained by Wayne Landsman, copied here for convenience but
+also to establish versioning. Many thanks to the intrepid authors
+of those utilities!</p>
+
+<p>Documentation of individual routines can be found below:</p>
+
+<ul>
+<li><a href="idlutils_doc.html">idlutils software</a></li>
+<li><a href="goddard_doc.html">Goddard utilities</a></li>
+</ul>
+
+<h2>Download Instructions</h2>
+
+<p>To download the latest tagged version of idlutils, use
+<a href="http://svnbook.red-bean.com/">svn</a> ("subversion").  On most
+Unix machines you should be able to execute:</p>
+
+<pre>
+svn export http://www.sdss3.org/svn/repo/idlutils/tags/v5_4_2 idlutils
+</pre>
+
+<p>To list other available tags, use the command:</p>
+
+<pre>
+svn ls http://www.sdss3.org/svn/repo/idlutils/tags
+</pre>
+
+<p>If you want to keep up-to-date on the latest, evolving version
+(the "trunk" in SVN parlance), then execute:</p>
+
+<pre>
+svn co http://www.sdss3.org/svn/repo/idlutils/trunk idlutils
+</pre>
+
+<p>Afterward, an "svn up" in the idlutils directory will update your
+working copy.</p>
+
+<p>These access points are read-only.  If you want to develop or add
+to the idlutils software you must be an SDSS-III collaborator.  See
+the <a href="https://trac.sdss3.org/wiki/Software/SVNTutorial">SDSS-III
+svn tutorial</a> for further instructions.</p>
+
+<h2>Installation</h2>
+
+<p>After exporting or checking out the code, set the environmental
+variable IDLUTILS_DIR to the location of your idlutils directory.
+Then set the variables:</p>
+
+<pre>
+export PATH=$IDLUTILS_DIR/bin:$PATH
+export IDL_PATH=+$IDLUTILS_DIR/pro:$IDL_PATH
+export IDL_PATH=+$IDLUTILS_DIR/goddard/pro:$IDL_PATH
+</pre>
+
+<p>Of course, you should put those commands into your ".bash_profile"
+file where appropriate.</p>
+
+<p>To build the code, then execute:</p>
+
+<pre>
+cd $IDLUTILS_DIR
+evilmake all
+</pre>
+
+<p>It should build the documentation as well as all of the C libraries.</p>
+
+<p>Special cases: For EUPS-users (you know who you are), there is an
+idlutils.table file in the ups directory.  For users of the SDSS-III
+"sdss3tools" product, a full export/make/install can be executed with
+"sdss3install".</p>
+
+<h2>Don't Blame Us</h2>
+
+<p>No warranty is expressed or implied or anything regarding this
+software.</p>
+
+</body>
+</html>

@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/113971/repo/idlutils/trunk/pro/coord
+END
+near_list.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112542/repo/idlutils/trunk/pro/coord/near_list.pro
+END
+djs_angle_nmatch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/djs_angle_nmatch.pro
+END
+radec_greatcircle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113123/repo/idlutils/trunk/pro/coord/radec_greatcircle.pro
+END
+radec_to_munu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112762/repo/idlutils/trunk/pro/coord/radec_to_munu.pro
+END
+munu_to_radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112762/repo/idlutils/trunk/pro/coord/munu_to_radec.pro
+END
+lg_to_helio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113383/repo/idlutils/trunk/pro/coord/lg_to_helio.pro
+END
+helio_to_lg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113145/repo/idlutils/trunk/pro/coord/helio_to_lg.pro
+END
+local_extragalactic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113280/repo/idlutils/trunk/pro/coord/local_extragalactic.pro
+END
+xyz_to_angles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113535/repo/idlutils/trunk/pro/coord/xyz_to_angles.pro
+END
+mjd2datelist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112342/repo/idlutils/trunk/pro/coord/mjd2datelist.pro
+END
+moon_zenith.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112149/repo/idlutils/trunk/pro/coord/moon_zenith.pro
+END
+euler_2000_fast.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112539/repo/idlutils/trunk/pro/coord/euler_2000_fast.pro
+END
+eta_to_stripe.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112258/repo/idlutils/trunk/pro/coord/eta_to_stripe.pro
+END
+stripe_to_eta.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112401/repo/idlutils/trunk/pro/coord/stripe_to_eta.pro
+END
+djs_angle_group.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/djs_angle_group.pro
+END
+djs_angle_match.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112625/repo/idlutils/trunk/pro/coord/djs_angle_match.pro
+END
+recenter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/recenter.pro
+END
+heliocentric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112445/repo/idlutils/trunk/pro/coord/heliocentric.pro
+END
+csurvey2eq.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113971/repo/idlutils/trunk/pro/coord/csurvey2eq.pro
+END
+radec_to_etalambda.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/112530/repo/idlutils/trunk/pro/coord/radec_to_etalambda.pro
+END
+hogg_sky_direction.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113537/repo/idlutils/trunk/pro/coord/hogg_sky_direction.pro
+END
+etalambda_to_radec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/112403/repo/idlutils/trunk/pro/coord/etalambda_to_radec.pro
+END
+current_mjd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112124/repo/idlutils/trunk/pro/coord/current_mjd.pro
+END
+djs_angsgn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/djs_angsgn.pro
+END
+crossprod.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112680/repo/idlutils/trunk/pro/coord/crossprod.pro
+END
+djs_diff_angle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113531/repo/idlutils/trunk/pro/coord/djs_diff_angle.pro
+END
+tai2airmass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113339/repo/idlutils/trunk/pro/coord/tai2airmass.pro
+END
+sdss_transform__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113902/repo/idlutils/trunk/pro/coord/sdss_transform__define.pro
+END
+hms2dec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113541/repo/idlutils/trunk/pro/coord/hms2dec.pro
+END
+angles_to_xyz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113557/repo/idlutils/trunk/pro/coord/angles_to_xyz.pro
+END
+dec2hms.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113540/repo/idlutils/trunk/pro/coord/dec2hms.pro
+END
+djs_angpos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/djs_angpos.pro
+END
+dotproduct_sphere.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/dotproduct_sphere.pro
+END
+eq2csurvey.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113971/repo/idlutils/trunk/pro/coord/eq2csurvey.pro
+END
+sptr1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111965/repo/idlutils/trunk/pro/coord/sptr1.pro
+END
+stripe_to_incl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112401/repo/idlutils/trunk/pro/coord/stripe_to_incl.pro
+END

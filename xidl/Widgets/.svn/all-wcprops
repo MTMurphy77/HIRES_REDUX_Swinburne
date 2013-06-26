@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/xidl/!svn/ver/1189/trunk/Widgets
+END
+wsliderstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/1022/trunk/Widgets/wsliderstrct__define.pro
+END
+widgetfontstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/997/trunk/Widgets/widgetfontstrct__define.pro
+END
+x_widget_setfont.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/1189/trunk/Widgets/x_widget_setfont.pro
+END
+x_widget_slider.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/1026/trunk/Widgets/x_widget_slider.pro
+END
+x_widget_displayfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/995/trunk/Widgets/x_widget_displayfile.pro
+END

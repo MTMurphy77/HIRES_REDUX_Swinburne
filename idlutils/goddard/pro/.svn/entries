@@ -1,0 +1,153 @@
+10
+
+dir
+128216
+https://www.sdss3.org/svn/repo/idlutils/trunk/goddard/pro
+https://www.sdss3.org/svn
+
+
+
+2011-03-21T06:11:25.985198Z
+122596
+schlegel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b00c9580-4927-0410-8824-811d448ea4c7
+
+disk_io
+dir
+
+image
+dir
+
+jhuapl
+dir
+
+astro
+dir
+
+math
+dir
+
+tv
+dir
+
+sdas
+dir
+
+misc
+dir
+
+structure
+dir
+
+sdas_table
+dir
+
+idlphot
+dir
+
+database
+dir
+
+fits_bintable
+dir
+
+fits
+dir
+
+astrom
+dir
+
+sockets
+dir
+
+fits_table
+dir
+
+Makefile
+file
+
+
+
+
+2011-11-07T03:12:25.000000Z
+5b6cdfc0c76088e816bbee833d609d6f
+2003-03-27T16:57:45.000000Z
+112644
+dfink
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+938
+
+robust
+dir
+
+plot
+dir
+
+aaareadme.txt
+file
+
+
+
+
+2011-11-07T03:12:26.000000Z
+11b6d60486afd6d8b2c2eafd78fff070
+2009-08-05T21:54:06.114631Z
+113990
+dfink
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1450
+

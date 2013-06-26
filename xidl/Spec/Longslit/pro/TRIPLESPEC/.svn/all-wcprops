@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2134/trunk/Spec/Longslit/pro/TRIPLESPEC
+END
+tspec_clean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_clean.pro
+END
+tspec_wavepix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_wavepix.pro
+END
+tspec_makeflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_makeflat.pro
+END
+tspec_scr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/1640/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_scr.pro
+END
+tspec_ordermask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1633/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_ordermask.pro
+END
+tspec_makescipix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_makescipix.pro
+END
+tspec_findslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_findslits.pro
+END
+tspec_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_proc.pro
+END
+tspec_oscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1633/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_oscan.pro
+END
+tspec_superflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_superflat.pro
+END
+tspec_combine_flats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_combine_flats.pro
+END
+tspec_scattlight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_scattlight.pro
+END
+tspec_dark_play.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2134/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_dark_play.pro
+END
+tspec_mkdark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1638/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_mkdark.pro
+END
+tspec_traceorders.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_traceorders.pro
+END

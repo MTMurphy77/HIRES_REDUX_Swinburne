@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/121692/repo/idlspec2d/trunk/pro/plate
+END
+pleiades.j10
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/pleiades.j10
+END
+holesize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/56916/repo/idlspec2d/trunk/pro/plate/holesize.pro
+END
+plate_rotate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54535/repo/idlspec2d/trunk/pro/plate/plate_rotate.pro
+END
+pleiades.j14
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/pleiades.j14
+END
+design_n752.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/54541/repo/idlspec2d/trunk/pro/plate/design_n752.pro
+END
+random_decollide.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56916/repo/idlspec2d/trunk/pro/plate/random_decollide.pro
+END
+n752.j10
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/n752.j10
+END
+README.RUNPLATE
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/54762/repo/idlspec2d/trunk/pro/plate/README.RUNPLATE
+END
+n752.j14
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/54532/repo/idlspec2d/trunk/pro/plate/n752.j14
+END
+test_design_plate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56927/repo/idlspec2d/trunk/pro/plate/test_design_plate.pro
+END
+design_plate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/121692/repo/idlspec2d/trunk/pro/plate/design_plate.pro
+END
+README.OBSERVE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/54582/repo/idlspec2d/trunk/pro/plate/README.OBSERVE
+END
+co_refract_list.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56917/repo/idlspec2d/trunk/pro/plate/co_refract_list.pro
+END
+trial_lrg_cat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/57082/repo/idlspec2d/trunk/pro/plate/trial_lrg_cat.pro
+END
+n1817.j11
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/n1817.j11
+END
+design_multiplate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54571/repo/idlspec2d/trunk/pro/plate/design_multiplate.pro
+END
+boss_galaxy_select.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/57082/repo/idlspec2d/trunk/pro/plate/boss_galaxy_select.pro
+END
+design_read2mass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54543/repo/idlspec2d/trunk/pro/plate/design_read2mass.pro
+END
+simple_plate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/56931/repo/idlspec2d/trunk/pro/plate/simple_plate.pro
+END
+decollide.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56917/repo/idlspec2d/trunk/pro/plate/decollide.pro
+END
+n752.match
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/n752.match
+END
+design_sdss3test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plate/design_sdss3test.pro
+END
+plugmap_verify.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plate/plugmap_verify.pro
+END
+praesepe.match.j10
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/praesepe.match.j10
+END
+design_praesepe.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/54541/repo/idlspec2d/trunk/pro/plate/design_praesepe.pro
+END
+praesepe.j10
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/praesepe.j10
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/54545/repo/idlspec2d/trunk/pro/plate/README
+END
+splot_vec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56917/repo/idlspec2d/trunk/pro/plate/splot_vec.pro
+END
+test_sbss_testplate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/test_sbss_testplate.pro
+END
+sbss_testplate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plate/sbss_testplate.pro
+END
+praesepe.j13
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/praesepe.j13
+END
+apo_refrac.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56917/repo/idlspec2d/trunk/pro/plate/apo_refrac.pro
+END
+splot_tiles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/57049/repo/idlspec2d/trunk/pro/plate/splot_tiles.pro
+END
+tyc_sdssmags.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54539/repo/idlspec2d/trunk/pro/plate/tyc_sdssmags.pro
+END
+radec_to_xyfocal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56936/repo/idlspec2d/trunk/pro/plate/radec_to_xyfocal.pro
+END
+design_starstruct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54527/repo/idlspec2d/trunk/pro/plate/design_starstruct.pro
+END
+brightcmag.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/54734/repo/idlspec2d/trunk/pro/plate/brightcmag.pro
+END
+design_n1817.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54541/repo/idlspec2d/trunk/pro/plate/design_n1817.pro
+END
+design_random.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55720/repo/idlspec2d/trunk/pro/plate/design_random.pro
+END
+n1817.match
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/54515/repo/idlspec2d/trunk/pro/plate/n1817.match
+END
+test_r2x.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/56917/repo/idlspec2d/trunk/pro/plate/test_r2x.pro
+END
+design_taurus.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55726/repo/idlspec2d/trunk/pro/plate/design_taurus.pro
+END
+plate_newcenter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/54536/repo/idlspec2d/trunk/pro/plate/plate_newcenter.pro
+END
+design_pleiades.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/54541/repo/idlspec2d/trunk/pro/plate/design_pleiades.pro
+END

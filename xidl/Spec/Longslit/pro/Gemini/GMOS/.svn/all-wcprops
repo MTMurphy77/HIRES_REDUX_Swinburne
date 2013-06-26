@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/1927/trunk/Spec/Longslit/pro/Gemini/GMOS
+END
+gmos_trnxy1to3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1301/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_trnxy1to3.pro
+END
+gmos_slits2mask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1159/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_slits2mask.pro
+END
+gmos_reduce2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1927/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_reduce2d.pro
+END
+gmos_superdark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1250/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_superdark.pro
+END
+gmos_alignmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1423/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_alignmask.pro
+END
+gmos_trnimg3to1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1297/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_trnimg3to1.pro
+END
+gmos_trnimg1to3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1347/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_trnimg1to3.pro
+END
+gmos_slittweak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1181/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_slittweak.pro
+END
+gmos_arcshapes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1298/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_arcshapes.pro
+END
+gmos_coadd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1336/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_coadd.pro
+END
+gmos_ns_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1422/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_ns_extract.pro
+END
+gmos_iraftoidl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1820/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_iraftoidl.pro
+END
+gmos_make_archive.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/1170/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_make_archive.pro
+END
+ns_script.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1170/trunk/Spec/Longslit/pro/Gemini/GMOS/ns_script.pro
+END
+xgmos_slitset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1422/trunk/Spec/Longslit/pro/Gemini/GMOS/xgmos_slitset.pro
+END
+gmos_slitset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/826/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_slitset.pro
+END
+gmos_plan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1309/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_plan.pro
+END
+gmos_gaps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1297/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_gaps.pro
+END
+gmos_coadd2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1347/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_coadd2d.pro
+END
+gmos_slitchk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1166/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_slitchk.pro
+END
+gmos_wave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1298/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_wave.pro
+END
+gmos_look.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1308/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_look.pro
+END
+ns_arc_script.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1148/trunk/Spec/Longslit/pro/Gemini/GMOS/ns_arc_script.pro
+END
+gmos_reduce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1927/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_reduce.pro
+END
+gmos_ns_reduce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1347/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_ns_reduce.pro
+END
+gmos_pixflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/826/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_pixflat.pro
+END
+gmos_wavesolve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1301/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_wavesolve.pro
+END
+gmos_mosaic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1250/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_mosaic.pro
+END
+gmos_unmosaic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1250/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_unmosaic.pro
+END
+gmos_traceset3xy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/1150/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_traceset3xy.pro
+END
+gmos_cascade.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1250/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_cascade.pro
+END
+gmos_binning.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1424/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_binning.pro
+END
+xgmos_mkclscripts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/1820/trunk/Spec/Longslit/pro/Gemini/GMOS/xgmos_mkclscripts.pro
+END
+gmos_slitmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1336/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_slitmask.pro
+END
+gmos_illumflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/826/trunk/Spec/Longslit/pro/Gemini/GMOS/gmos_illumflat.pro
+END

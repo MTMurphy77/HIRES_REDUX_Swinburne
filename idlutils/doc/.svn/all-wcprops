@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/114089/repo/idlutils/trunk/doc
+END
+mk_doc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/112046/repo/idlutils/trunk/doc/mk_doc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/112098/repo/idlutils/trunk/doc/Makefile
+END

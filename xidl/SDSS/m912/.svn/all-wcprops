@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/xidl/!svn/ver/1053/trunk/SDSS/m912
+END
+niri_H.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/542/trunk/SDSS/m912/niri_H.dat
+END
+niri_J.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/542/trunk/SDSS/m912/niri_J.dat
+END
+bj.dat
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/xidl/!svn/ver/542/trunk/SDSS/m912/bj.dat
+END
+niri_K.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/542/trunk/SDSS/m912/niri_K.dat
+END
+dr1QsoSpec.gfix.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/542/trunk/SDSS/m912/dr1QsoSpec.gfix.fits.gz
+END
+sdss_m912.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/542/trunk/SDSS/m912/sdss_m912.pro
+END
+x_qso_template_nu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/1053/trunk/SDSS/m912/x_qso_template_nu.pro
+END
+john_b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/542/trunk/SDSS/m912/john_b.dat
+END
+vanden_template.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/542/trunk/SDSS/m912/vanden_template.fits.gz
+END
+vega.dat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/542/trunk/SDSS/m912/vega.dat
+END
+john_v.dat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/542/trunk/SDSS/m912/john_v.dat
+END
+dps_kcorr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/542/trunk/SDSS/m912/dps_kcorr.dat
+END

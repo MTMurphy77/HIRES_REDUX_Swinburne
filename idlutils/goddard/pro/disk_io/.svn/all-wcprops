@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113989/repo/idlutils/trunk/goddard/pro/disk_io
+END
+irafdir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113988/repo/idlutils/trunk/goddard/pro/disk_io/irafdir.pro
+END
+irafrd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113988/repo/idlutils/trunk/goddard/pro/disk_io/irafrd.pro
+END
+wfpc2_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113988/repo/idlutils/trunk/goddard/pro/disk_io/wfpc2_read.pro
+END
+irafwrt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113988/repo/idlutils/trunk/goddard/pro/disk_io/irafwrt.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113985/repo/idlutils/trunk/goddard/pro/disk_io/aaareadme.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/src
+END
+sshiftvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/52482/repo/idlspec2d/trunk/src/sshiftvec.c
+END
+extract_row.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/54587/repo/idlspec2d/trunk/src/extract_row.c
+END
+extract_boxcar.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/52546/repo/idlspec2d/trunk/src/extract_boxcar.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/src/Makefile
+END

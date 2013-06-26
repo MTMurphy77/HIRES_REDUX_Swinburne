@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards
+END
+vega_reference.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/vega_reference.fits.gz
+END
+vega.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/vega.fits.gz
+END
+vega_c95.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/vega_c95.fits.gz
+END
+sun_reference.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/sun_reference.fits.gz
+END
+sun_kurucz93.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/sun_kurucz93.fits.gz
+END
+sun.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/sun.fits.gz
+END
+sun_castelli.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/sun_castelli.fits.gz
+END
+vega_k93.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/vega_k93.fits.gz
+END
+AA-README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/xidl/!svn/ver/793/trunk/Spec/Longslit/calib/standards/kurucz93/standards/AA-README
+END

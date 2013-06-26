@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/xidl/!svn/ver/1578/trunk/Keck/LRIS/CALIBS
+END
+lrisb_400D560_flux.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/2/trunk/Keck/LRIS/CALIBS/lrisb_400D560_flux.fits
+END
+lrisbfit_1200.idl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/2/trunk/Keck/LRIS/CALIBS/lrisbfit_1200.idl
+END
+lrisbfit_400.idl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/2/trunk/Keck/LRIS/CALIBS/lrisbfit_400.idl
+END
+lris_sensstd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/1578/trunk/Keck/LRIS/CALIBS/lris_sensstd.pro
+END
+lrisb_1200D460_flux.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2/trunk/Keck/LRIS/CALIBS/lrisb_1200D460_flux.fits
+END

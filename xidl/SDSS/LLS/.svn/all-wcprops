@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/xidl/!svn/ver/2149/trunk/SDSS/LLS
+END
+sdssllsstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/1260/trunk/SDSS/LLS/sdssllsstrct__define.pro
+END
+sdss_llsview.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/822/trunk/SDSS/LLS/sdss_llsview.pro
+END
+sdss_llsstat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1526/trunk/SDSS/LLS/sdss_llsstat.pro
+END
+sdss_llsdx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/1526/trunk/SDSS/LLS/sdss_llsdx.pro
+END
+sdss_hiztemplate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/1286/trunk/SDSS/LLS/sdss_hiztemplate.pro
+END
+sdss_findlls.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1281/trunk/SDSS/LLS/sdss_findlls.pro
+END
+sdss_llsfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1281/trunk/SDSS/LLS/sdss_llsfit.pro
+END
+sdss_llsnchk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/767/trunk/SDSS/LLS/sdss_llsnchk.pro
+END
+Full_SDSS_template.fits
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/297/trunk/SDSS/LLS/Full_SDSS_template.fits
+END
+sdss_llslozx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2149/trunk/SDSS/LLS/sdss_llslozx.pro
+END
+sdss_hizmedian.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/732/trunk/SDSS/LLS/sdss_hizmedian.pro
+END
+sdss_sllsdx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1247/trunk/SDSS/LLS/sdss_sllsdx.pro
+END
+sdss_sllsstat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1247/trunk/SDSS/LLS/sdss_sllsstat.pro
+END
+sdss_llsstrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1426/trunk/SDSS/LLS/sdss_llsstrct.pro
+END
+sdss_llsgoz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1247/trunk/SDSS/LLS/sdss_llsgoz.pro
+END
+sdss_llszchk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/750/trunk/SDSS/LLS/sdss_llszchk.pro
+END
+nhi16_19b30.fits
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/297/trunk/SDSS/LLS/nhi16_19b30.fits
+END
+sdss_llsinit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1426/trunk/SDSS/LLS/sdss_llsinit.pro
+END
+sdss_llsfn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/972/trunk/SDSS/LLS/sdss_llsfn.pro
+END
+sdss_mkllstmpl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/1284/trunk/SDSS/LLS/sdss_mkllstmpl.pro
+END
+sdss_chklls.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1318/trunk/SDSS/LLS/sdss_chklls.pro
+END
+sdss_searchlls.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/1216/trunk/SDSS/LLS/sdss_searchlls.pro
+END

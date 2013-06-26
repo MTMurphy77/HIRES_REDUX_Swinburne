@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113915/repo/idlutils/trunk/src/mangle1.4/src
+END
+mrb_balkanize.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113496/repo/idlutils/trunk/src/mangle1.4/src/mrb_balkanize.c
+END
+polyid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/polyid.c
+END
+add_parent.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/add_parent.c
+END
+mrb_snap.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113496/repo/idlutils/trunk/src/mangle1.4/src/mrb_snap.c
+END
+wlm.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/wlm.s.f
+END
+inputfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/inputfile.h
+END
+wrmask.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112928/repo/idlutils/trunk/src/mangle1.4/src/wrmask.c
+END
+places.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/places.c
+END
+cmminf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/cmminf.c
+END
+poly2poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/poly2poly.c
+END
+azell.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/azell.s.f
+END
+heapsort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/heapsort.inc
+END
+defaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112928/repo/idlutils/trunk/src/mangle1.4/src/defaults.h
+END
+partition_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/partition_poly.c
+END
+rdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rdline.c
+END
+gvlim.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gvlim.c
+END
+logical.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113565/repo/idlutils/trunk/src/mangle1.4/src/logical.h
+END
+gptin.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gptin.c
+END
+rdmask.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rdmask.c
+END
+harmonizepolys_.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/harmonizepolys_.c
+END
+harmonize_polys.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/harmonize_polys.c
+END
+gsphr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gsphr.c
+END
+parse_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/113564/repo/idlutils/trunk/src/mangle1.4/src/parse_args.c
+END
+gphi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gphi.c
+END
+gspher.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gspher.c
+END
+felp.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/felp.s.f
+END
+harmonize.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/harmonize.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113915/repo/idlutils/trunk/src/mangle1.4/src/Makefile
+END
+new_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113362/repo/idlutils/trunk/src/mangle1.4/src/new_poly.c
+END
+prune_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/prune_poly.c
+END
+rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rotate.c
+END
+azel.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/azel.s.f
+END
+vmid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113091/repo/idlutils/trunk/src/mangle1.4/src/vmid.c
+END
+ddcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/ddcount.c
+END
+drangle_polys.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/drangle_polys.c
+END
+dranglepolys_.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/dranglepolys_.c
+END
+snap_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/snap_poly.c
+END
+braktop.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/braktop.s.f
+END
+gphim.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gphim.s.f
+END
+mangdir.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/mangdir.inc
+END
+pi.par
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/pi.par
+END
+drangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/drangle.c
+END
+gvphi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gvphi.c
+END
+copy_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112928/repo/idlutils/trunk/src/mangle1.4/src/copy_poly.c
+END
+wrho.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/wrho.c
+END
+advise_fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/advise_fmt.c
+END
+rrderiv.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rrderiv.s.f
+END
+strcmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/strcmpl.c
+END
+gptin.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gptin.s.f
+END
+gvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gvert.c
+END
+gsubs.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gsubs.s.f
+END
+scale.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/scale.c
+END
+copy_structure.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/copy_structure.c
+END
+mrb_unify.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112941/repo/idlutils/trunk/src/mangle1.4/src/mrb_unify.c
+END
+wrspher.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/wrspher.c
+END
+gphi.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gphi.s.f
+END
+polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113376/repo/idlutils/trunk/src/mangle1.4/src/polygon.h
+END
+split_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/split_poly.c
+END
+wrangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/wrangle.c
+END
+balkanize.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/balkanize.c
+END
+Makefile.sun
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/Makefile.sun
+END
+braktop_.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/braktop_.c
+END
+snap.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/snap.c
+END
+fframe.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/fframe.s.f
+END
+mangdir.data
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/mangdir.data
+END
+dump_poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/dump_poly.c
+END
+gphbv.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gphbv.s.f
+END
+angunit.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/angunit.h
+END
+weight_fn.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/weight_fn.c
+END
+gcmlim.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gcmlim.s.f
+END
+antibox.pol
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/antibox.pol
+END
+frames.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/frames.par
+END
+maker
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/maker
+END
+iylm.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/iylm.s.f
+END
+garea.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/garea.c
+END
+gvphi.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gvphi.s.f
+END
+copy_format.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/copy_format.c
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113568/repo/idlutils/trunk/src/mangle1.4/src/defines.h
+END
+ransack.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/ransack.c
+END
+wrho.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/wrho.s.f
+END
+drandom.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/drandom.c
+END
+twodf.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/twodf.f
+END
+twoqz.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/twoqz.f
+END
+weight.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/weight.c
+END
+new_vert.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/new_vert.c
+END
+gvert.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gvert.s.f
+END
+radian.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/radian.par
+END
+poly_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/poly_id.c
+END
+gaream.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gaream.s.f
+END
+findtop_.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/findtop_.c
+END
+parse_fopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/parse_fopt.c
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/search.c
+END
+gphbv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gphbv.c
+END
+findtop.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/findtop.s.f
+END
+rdspher.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rdspher.c
+END
+ikrand.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/ikrand.c
+END
+gcmlim.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gcmlim.c
+END
+rrcoeffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rrcoeffs.c
+END
+usage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/usage.h
+END
+rdangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rdangle.c
+END
+strdict.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/strdict.c
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/map.c
+END
+pi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/pi.h
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/convert.c
+END
+rdmask_.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/rdmask_.c
+END
+gvlim.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gvlim.s.f
+END
+wrrrcoeffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/wrrrcoeffs.c
+END
+garea.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113033/repo/idlutils/trunk/src/mangle1.4/src/garea.s.f
+END
+msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113759/repo/idlutils/trunk/src/mangle1.4/src/msg.c
+END
+harmonics.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/harmonics.h
+END
+vertices.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/vertices.h
+END
+unify.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/unify.c
+END
+gspher.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gspher.s.f
+END
+manglefn.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113362/repo/idlutils/trunk/src/mangle1.4/src/manglefn.h
+END
+gsphera.s.f
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112866/repo/idlutils/trunk/src/mangle1.4/src/gsphera.s.f
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112928/repo/idlutils/trunk/src/mangle1.4/src/format.h
+END

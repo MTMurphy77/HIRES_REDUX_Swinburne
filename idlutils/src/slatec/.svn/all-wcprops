@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/113074/repo/idlutils/trunk/src/slatec
+END
+dsidi.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dsidi.f
+END
+dbspvn.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbspvn.f
+END
+qrfac.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/qrfac.f
+END
+radb4.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radb4.f
+END
+efc.f
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111869/repo/idlutils/trunk/src/slatec/efc.f
+END
+polfit.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/polfit.f
+END
+sswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/sswap.f
+END
+radf2.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radf2.f
+END
+dpcoef.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dpcoef.f
+END
+dfspvn.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dfspvn.f
+END
+radf4.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radf4.f
+END
+sdot.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/sdot.f
+END
+dpsort.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dpsort.f
+END
+dp1vlu.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dp1vlu.f
+END
+dbndac.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbndac.f
+END
+d1mach_Linux.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/d1mach_Linux.f
+END
+dbnfac.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbnfac.f
+END
+bspvd.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bspvd.f
+END
+dcopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dcopy.f
+END
+erfc.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/erfc.f
+END
+dgeco.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dgeco.f
+END
+rfftb1.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rfftb1.f
+END
+rwupdt.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rwupdt.f
+END
+dscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dscal.f
+END
+bspvn.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bspvn.f
+END
+dbnslv.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbnslv.f
+END
+rfftf1.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rfftf1.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/113074/repo/idlutils/trunk/src/slatec/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/111897/repo/idlutils/trunk/src/slatec/.cvsignore
+END
+ddot.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/ddot.f
+END
+initds.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/initds.f
+END
+dsort.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dsort.f
+END
+defcmn.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/defcmn.f
+END
+pcoef.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/pcoef.f
+END
+pvalue.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/pvalue.f
+END
+chkder.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/chkder.f
+END
+snls1.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/snls1.f
+END
+idamax.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/idamax.f
+END
+rfftb.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rfftb.f
+END
+xercnt.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xercnt.f
+END
+bsplvn.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bsplvn.f
+END
+saxpy.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/saxpy.f
+END
+dintrv.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dintrv.f
+END
+dgefa.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dgefa.f
+END
+dbndsl.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbndsl.f
+END
+rfftf.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rfftf.f
+END
+dasum.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dasum.f
+END
+bnfac.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bnfac.f
+END
+dbintk.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbintk.f
+END
+dswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dswap.f
+END
+xerprn.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xerprn.f
+END
+derf.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/derf.f
+END
+dcsevl.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dcsevl.f
+END
+bndsol.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bndsol.f
+END
+i1mach_Linux.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/i1mach_Linux.f
+END
+bnslv.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bnslv.f
+END
+dbint4.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbint4.f
+END
+dsifa.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dsifa.f
+END
+dnls1e.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dnls1e.f
+END
+inits.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/inits.f
+END
+qrsolv.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/qrsolv.f
+END
+efcmn.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111869/repo/idlutils/trunk/src/slatec/efcmn.f
+END
+dgefs.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dgefs.f
+END
+idlwrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/111962/repo/idlutils/trunk/src/slatec/idlwrappers.c
+END
+radb3.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radb3.f
+END
+rffti1.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rffti1.f
+END
+dckder.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dckder.f
+END
+j4save.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/j4save.f
+END
+radb5.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radb5.f
+END
+radf3.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radf3.f
+END
+radf5.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radf5.f
+END
+intrv.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/intrv.f
+END
+xermsg.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xermsg.f
+END
+dwupdt.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dwupdt.f
+END
+bndacc.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bndacc.f
+END
+fdump.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/fdump.f
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111880/repo/idlutils/trunk/src/slatec/f2c.h
+END
+erf.f
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/erf.f
+END
+csevl.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/csevl.f
+END
+dbvalu.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbvalu.f
+END
+bint4.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/bint4.f
+END
+dnls1.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dnls1.f
+END
+denorm.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/denorm.f
+END
+daxpy.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/daxpy.f
+END
+xsetf.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xsetf.f
+END
+fdjac3.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/fdjac3.f
+END
+r1mach_Linux.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/r1mach_Linux.f
+END
+dfdjc3.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dfdjc3.f
+END
+scopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/scopy.f
+END
+xgetua.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xgetua.f
+END
+dh12.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dh12.f
+END
+dgesl.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dgesl.f
+END
+dqrfac.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dqrfac.f
+END
+isort.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/isort.f
+END
+defc.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/defc.f
+END
+dmpar.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dmpar.f
+END
+rgauss.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rgauss.f
+END
+snls1e.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/snls1e.f
+END
+sscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/sscal.f
+END
+xerhlt.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xerhlt.f
+END
+bvalu.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111875/repo/idlutils/trunk/src/slatec/bvalu.f
+END
+rffti.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rffti.f
+END
+ssort.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/ssort.f
+END
+dqrslv.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dqrslv.f
+END
+lmpar.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/lmpar.f
+END
+xersve.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/xersve.f
+END
+radbg.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radbg.f
+END
+enorm.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/enorm.f
+END
+dbspvd.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dbspvd.f
+END
+derfc.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/derfc.f
+END
+radfg.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radfg.f
+END
+runif.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/runif.f
+END
+rand.f
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/rand.f
+END
+dpolft.f
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/dpolft.f
+END
+h12.f
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/h12.f
+END
+radb2.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/111861/repo/idlutils/trunk/src/slatec/radb2.f
+END

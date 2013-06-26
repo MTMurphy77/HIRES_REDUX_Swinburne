@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Slits
+END
+wfccd_setslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Slits/wfccd_setslits.pro
+END
+wfccd_mkobjstr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Slits/wfccd_mkobjstr.pro
+END
+wfccd_prsslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Slits/wfccd_prsslits.pro
+END
+wfccd_editslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Slits/wfccd_editslits.pro
+END
+wfccd_editobjstr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Slits/wfccd_editobjstr.pro
+END

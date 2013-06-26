@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2142/trunk/Keck/HIRES/Redux/pro/General
+END
+hires_redux.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_redux.pro
+END
+hires_ordermask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/201/trunk/Keck/HIRES/Redux/pro/General/hires_ordermask.pro
+END
+hires_tstrdx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_tstrdx.pro
+END
+hires_setgainrn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_setgainrn.pro
+END
+hires_qckrdx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_qckrdx.pro
+END
+hires_pipe.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1512/trunk/Keck/HIRES/Redux/pro/General/hires_pipe.pro
+END
+hires_rdxlog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_rdxlog.pro
+END
+hires_strct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2142/trunk/Keck/HIRES/Redux/pro/General/hires_strct.pro
+END
+hires_chkcalib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_chkcalib.pro
+END
+hires_setup.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_setup.pro
+END
+hires_ar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_ar.pro
+END
+hireskey__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hireskey__define.pro
+END
+hires_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1430/trunk/Keck/HIRES/Redux/pro/General/hires_proc.pro
+END
+hires_editstrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_editstrct.pro
+END
+hires_getpixflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/809/trunk/Keck/HIRES/Redux/pro/General/hires_getpixflat.pro
+END
+hires_updstrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/768/trunk/Keck/HIRES/Redux/pro/General/hires_updstrct.pro
+END
+hires_wrstrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/809/trunk/Keck/HIRES/Redux/pro/General/hires_wrstrct.pro
+END
+hires_delov.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_delov.pro
+END
+hiresstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/722/trunk/Keck/HIRES/Redux/pro/General/hiresstrct__define.pro
+END
+hires_getfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_getfil.pro
+END
+hires_slitlen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1590/trunk/Keck/HIRES/Redux/pro/General/hires_slitlen.pro
+END
+version.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/231/trunk/Keck/HIRES/Redux/pro/General/version.txt
+END
+hires_parsehdu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_parsehdu.pro
+END
+hires_headid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1222/trunk/Keck/HIRES/Redux/pro/General/hires_headid.pro
+END
+hires_rslvall.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_rslvall.pro
+END
+hires_writefits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/General/hires_writefits.pro
+END

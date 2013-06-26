@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/128170/repo/idlspec2d/trunk/pro/spec2d
+END
+qaplot_skyshift.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/qaplot_skyshift.pro
+END
+qaplot_skydev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/55088/repo/idlspec2d/trunk/pro/spec2d/qaplot_skydev.pro
+END
+filter_thru.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/56277/repo/idlspec2d/trunk/pro/spec2d/filter_thru.pro
+END
+aesthetics.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/115251/repo/idlspec2d/trunk/pro/spec2d/aesthetics.pro
+END
+fiberflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/fiberflat.pro
+END
+extract_object.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/126333/repo/idlspec2d/trunk/pro/spec2d/extract_object.pro
+END
+uubatchpbs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/125890/repo/idlspec2d/trunk/pro/spec2d/uubatchpbs.pro
+END
+spplan_findrawdata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/spplan_findrawdata.pro
+END
+spadd_guiderinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125781/repo/idlspec2d/trunk/pro/spec2d/spadd_guiderinfo.pro
+END
+extract_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124501/repo/idlspec2d/trunk/pro/spec2d/extract_image.pro
+END
+spcalib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/126318/repo/idlspec2d/trunk/pro/spec2d/spcalib.pro
+END
+reject_flat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/reject_flat.pro
+END
+spflatgen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/spflatgen.pro
+END
+bolton_biasgen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/127037/repo/idlspec2d/trunk/pro/spec2d/bolton_biasgen.pro
+END
+spcombine_v5.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/115797/repo/idlspec2d/trunk/pro/spec2d/spcombine_v5.pro
+END
+fitflatwidth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/125002/repo/idlspec2d/trunk/pro/spec2d/fitflatwidth.pro
+END
+extract2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52636/repo/idlspec2d/trunk/pro/spec2d/extract2.pro
+END
+psolve_addstars.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/124849/repo/idlspec2d/trunk/pro/spec2d/psolve_addstars.pro
+END
+sshiftvec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56413/repo/idlspec2d/trunk/pro/spec2d/sshiftvec.pro
+END
+sdsshead.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/55418/repo/idlspec2d/trunk/pro/spec2d/sdsshead.pro
+END
+bbspec_batch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/124841/repo/idlspec2d/trunk/pro/spec2d/bbspec_batch.pro
+END
+bolton_sn_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/bolton_sn_fit.pro
+END
+readplugmap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/122813/repo/idlspec2d/trunk/pro/spec2d/readplugmap.pro
+END
+gausspix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/122800/repo/idlspec2d/trunk/pro/spec2d/gausspix.pro
+END
+select_arc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52767/repo/idlspec2d/trunk/pro/spec2d/select_arc.pro
+END
+bolton_biassub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/127917/repo/idlspec2d/trunk/pro/spec2d/bolton_biassub.pro
+END
+fitmeanx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/56539/repo/idlspec2d/trunk/pro/spec2d/fitmeanx.pro
+END
+spplan1d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/spplan1d.pro
+END
+spflatten2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/56731/repo/idlspec2d/trunk/pro/spec2d/spflatten2.pro
+END
+fcalib_default.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56800/repo/idlspec2d/trunk/pro/spec2d/fcalib_default.pro
+END
+find_whopping.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/55333/repo/idlspec2d/trunk/pro/spec2d/find_whopping.pro
+END
+flux_distortion.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/122118/repo/idlspec2d/trunk/pro/spec2d/flux_distortion.pro
+END
+extract_asymbox2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57115/repo/idlspec2d/trunk/pro/spec2d/extract_asymbox2.pro
+END
+arcsky_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52598/repo/idlspec2d/trunk/pro/spec2d/arcsky_fit.pro
+END
+sdssproc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126766/repo/idlspec2d/trunk/pro/spec2d/sdssproc.pro
+END
+qaplot_skysub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/qaplot_skysub.pro
+END
+extract_row.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/123454/repo/idlspec2d/trunk/pro/spec2d/extract_row.pro
+END
+qaplot_scatlight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53280/repo/idlspec2d/trunk/pro/spec2d/qaplot_scatlight.pro
+END
+throughput_calib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/throughput_calib.pro
+END
+trace_fix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56539/repo/idlspec2d/trunk/pro/spec2d/trace_fix.pro
+END
+reject_science.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/reject_science.pro
+END
+telluric_corr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56731/repo/idlspec2d/trunk/pro/spec2d/telluric_corr.pro
+END
+spreduce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126324/repo/idlspec2d/trunk/pro/spec2d/spreduce.pro
+END
+logsheet.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/logsheet.pro
+END
+skysubtract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/128170/repo/idlspec2d/trunk/pro/spec2d/skysubtract.pro
+END
+calcscatimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/calcscatimage.pro
+END
+spgain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/56432/repo/idlspec2d/trunk/pro/spec2d/spgain.pro
+END
+redmonster.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/56673/repo/idlspec2d/trunk/pro/spec2d/redmonster.pro
+END
+fit_skyset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52619/repo/idlspec2d/trunk/pro/spec2d/fit_skyset.pro
+END
+sphdrfix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/sphdrfix.pro
+END
+write_uros.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/122972/repo/idlspec2d/trunk/pro/spec2d/write_uros.pro
+END
+flux2maggie.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/98786/repo/idlspec2d/trunk/pro/spec2d/flux2maggie.pro
+END
+plotsignal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/plotsignal.pro
+END
+get_tai.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/get_tai.pro
+END
+spbiasave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56615/repo/idlspec2d/trunk/pro/spec2d/spbiasave.pro
+END
+trace_cen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121046/repo/idlspec2d/trunk/pro/spec2d/trace_cen.pro
+END
+batchpbs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/batchpbs.pro
+END
+mjd_match.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/122815/repo/idlspec2d/trunk/pro/spec2d/mjd_match.pro
+END
+bbspec_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/125004/repo/idlspec2d/trunk/pro/spec2d/bbspec_extract.pro
+END
+extract_bundle_row.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/126329/repo/idlspec2d/trunk/pro/spec2d/extract_bundle_row.pro
+END
+tweaktrace.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/52762/repo/idlspec2d/trunk/pro/spec2d/tweaktrace.pro
+END
+bbspec_test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/bbspec_test.pro
+END
+calcflux.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53323/repo/idlspec2d/trunk/pro/spec2d/calcflux.pro
+END
+extract_bundle_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/126329/repo/idlspec2d/trunk/pro/spec2d/extract_bundle_image.pro
+END
+platesn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/126382/repo/idlspec2d/trunk/pro/spec2d/platesn.pro
+END
+sdss_plate_sort.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/127979/repo/idlspec2d/trunk/pro/spec2d/sdss_plate_sort.pro
+END
+fiber_rollcall.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56287/repo/idlspec2d/trunk/pro/spec2d/fiber_rollcall.pro
+END
+spthroughput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/spthroughput.pro
+END
+skyline_dispersion.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/55225/repo/idlspec2d/trunk/pro/spec2d/skyline_dispersion.pro
+END
+pixelmask_bits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55200/repo/idlspec2d/trunk/pro/spec2d/pixelmask_bits.pro
+END
+idlspec2d_version.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/114779/repo/idlspec2d/trunk/pro/spec2d/idlspec2d_version.pro
+END
+spflux_read_kurucz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/spflux_read_kurucz.pro
+END
+plotsn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/126386/repo/idlspec2d/trunk/pro/spec2d/plotsn.pro
+END
+correct_crosstalk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/correct_crosstalk.pro
+END
+myratiofit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53313/repo/idlspec2d/trunk/pro/spec2d/myratiofit.pro
+END
+checkflavor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52589/repo/idlspec2d/trunk/pro/spec2d/checkflavor.pro
+END
+bbspec_pixpsf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/bbspec_pixpsf.pro
+END
+spframe_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56998/repo/idlspec2d/trunk/pro/spec2d/spframe_read.pro
+END
+make_skyinvvar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55514/repo/idlspec2d/trunk/pro/spec2d/make_skyinvvar.pro
+END
+spflux_v5.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/122503/repo/idlspec2d/trunk/pro/spec2d/spflux_v5.pro
+END
+psolve_iter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/124850/repo/idlspec2d/trunk/pro/spec2d/psolve_iter.pro
+END
+sn_median.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121732/repo/idlspec2d/trunk/pro/spec2d/sn_median.pro
+END
+trace_sparse_crude.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124554/repo/idlspec2d/trunk/pro/spec2d/trace_sparse_crude.pro
+END
+qaplot_skyline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55131/repo/idlspec2d/trunk/pro/spec2d/qaplot_skyline.pro
+END
+focalplane.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53695/repo/idlspec2d/trunk/pro/spec2d/focalplane.pro
+END
+superflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/superflat.pro
+END
+plotsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/plotsky.pro
+END
+trace320crude.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/122129/repo/idlspec2d/trunk/pro/spec2d/trace320crude.pro
+END
+get_mjd_dir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/get_mjd_dir.pro
+END
+trace320cen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/trace320cen.pro
+END
+match_trace.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54956/repo/idlspec2d/trunk/pro/spec2d/match_trace.pro
+END
+spfluxcorr_v5.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/spfluxcorr_v5.pro
+END
+bbspec_batch_wait.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124841/repo/idlspec2d/trunk/pro/spec2d/bbspec_batch_wait.pro
+END
+fitwithmx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56539/repo/idlspec2d/trunk/pro/spec2d/fitwithmx.pro
+END
+warn_daytime.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55775/repo/idlspec2d/trunk/pro/spec2d/warn_daytime.pro
+END
+run_sdssproc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/run_sdssproc.pro
+END
+fibermask_bits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/53170/repo/idlspec2d/trunk/pro/spec2d/fibermask_bits.pro
+END
+spflatave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/56615/repo/idlspec2d/trunk/pro/spec2d/spflatave.pro
+END
+spcoadd_v5.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/124462/repo/idlspec2d/trunk/pro/spec2d/spcoadd_v5.pro
+END
+locateskylines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/locateskylines.pro
+END
+extract_profile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56413/repo/idlspec2d/trunk/pro/spec2d/extract_profile.pro
+END
+genflatmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54274/repo/idlspec2d/trunk/pro/spec2d/genflatmask.pro
+END
+smooth_superflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/smooth_superflat.pro
+END
+correct_dlam.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/54620/repo/idlspec2d/trunk/pro/spec2d/correct_dlam.pro
+END
+spplan_create_spexp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/53534/repo/idlspec2d/trunk/pro/spec2d/spplan_create_spexp.pro
+END
+reject_arc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53753/repo/idlspec2d/trunk/pro/spec2d/reject_arc.pro
+END
+combine1fiber.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/115252/repo/idlspec2d/trunk/pro/spec2d/combine1fiber.pro
+END
+psolve_obj_struct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124841/repo/idlspec2d/trunk/pro/spec2d/psolve_obj_struct.pro
+END
+spbiasgen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126290/repo/idlspec2d/trunk/pro/spec2d/spbiasgen.pro
+END
+fitarcimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/121604/repo/idlspec2d/trunk/pro/spec2d/fitarcimage.pro
+END
+smooth_halo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/54200/repo/idlspec2d/trunk/pro/spec2d/smooth_halo.pro
+END
+fluxcorr_new.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56117/repo/idlspec2d/trunk/pro/spec2d/fluxcorr_new.pro
+END
+spallflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/53760/repo/idlspec2d/trunk/pro/spec2d/spallflat.pro
+END
+finalarcfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/53215/repo/idlspec2d/trunk/pro/spec2d/finalarcfit.pro
+END
+fitdispersion.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124397/repo/idlspec2d/trunk/pro/spec2d/fitdispersion.pro
+END
+spplan2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/spplan2d.pro
+END
+fitsn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/126324/repo/idlspec2d/trunk/pro/spec2d/fitsn.pro
+END
+chunkinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/chunkinfo.pro
+END
+select_flat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/52836/repo/idlspec2d/trunk/pro/spec2d/select_flat.pro
+END
+djs_polyfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/122128/repo/idlspec2d/trunk/pro/spec2d/djs_polyfit.pro
+END
+fitansimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/53284/repo/idlspec2d/trunk/pro/spec2d/fitansimage.pro
+END
+fitvacset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/125988/repo/idlspec2d/trunk/pro/spec2d/fitvacset.pro
+END
+qaplot_arcline.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/qaplot_arcline.pro
+END
+spreduce2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/spreduce2d.pro
+END
+spflatten.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/52914/repo/idlspec2d/trunk/pro/spec2d/spflatten.pro
+END
+bolton_std_throughput.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/bolton_std_throughput.pro
+END
+smooth_halo2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/smooth_halo2d.pro
+END
+boss_gain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/boss_gain.pro
+END
+atvspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/spec2d/atvspec.pro
+END
+psolve_pixelization.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124841/repo/idlspec2d/trunk/pro/spec2d/psolve_pixelization.pro
+END
+extract_boxcar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/57115/repo/idlspec2d/trunk/pro/spec2d/extract_boxcar.pro
+END
+myfluxcorr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/56731/repo/idlspec2d/trunk/pro/spec2d/myfluxcorr.pro
+END
+divideflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/54650/repo/idlspec2d/trunk/pro/spec2d/divideflat.pro
+END
+qaplot_fflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/qaplot_fflat.pro
+END
+arcfit_guess.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/spec2d/arcfit_guess.pro
+END

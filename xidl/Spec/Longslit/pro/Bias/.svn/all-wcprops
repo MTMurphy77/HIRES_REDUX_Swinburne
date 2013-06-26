@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2146/trunk/Spec/Longslit/pro/Bias
+END
+long_oscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/2146/trunk/Spec/Longslit/pro/Bias/long_oscan.pro
+END
+long_superbias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1175/trunk/Spec/Longslit/pro/Bias/long_superbias.pro
+END
+long_rdnoiseimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2111/trunk/Spec/Longslit/pro/Bias/long_rdnoiseimg.pro
+END

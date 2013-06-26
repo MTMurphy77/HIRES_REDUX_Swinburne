@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/113933/repo/idlutils/trunk/pro/healpix
+END
+healgen_lb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112985/repo/idlutils/trunk/pro/healpix/healgen_lb.pro
+END
+dpf_pix2ang_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113325/repo/idlutils/trunk/pro/healpix/dpf_pix2ang_ring.pro
+END
+healpix_ring_weight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113323/repo/idlutils/trunk/pro/healpix/healpix_ring_weight.pro
+END
+ishealpix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/113004/repo/idlutils/trunk/pro/healpix/ishealpix.pro
+END
+atv_healcart_ind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/112996/repo/idlutils/trunk/pro/healpix/atv_healcart_ind.pro
+END
+ang2pix_ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113669/repo/idlutils/trunk/pro/healpix/ang2pix_ring.pro
+END
+heal_rebin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/112990/repo/idlutils/trunk/pro/healpix/heal_rebin.pro
+END
+dpf_pix2ang_nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113325/repo/idlutils/trunk/pro/healpix/dpf_pix2ang_nest.pro
+END
+healcart_header.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/112995/repo/idlutils/trunk/pro/healpix/healcart_header.pro
+END
+hogg_healpix_greyscale.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/113853/repo/idlutils/trunk/pro/healpix/hogg_healpix_greyscale.pro
+END
+heal_smooth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113932/repo/idlutils/trunk/pro/healpix/heal_smooth.pro
+END
+healgen.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113326/repo/idlutils/trunk/pro/healpix/healgen.pro
+END
+healcart_bindown.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113846/repo/idlutils/trunk/pro/healpix/healcart_bindown.pro
+END
+dpf_nest2ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113286/repo/idlutils/trunk/pro/healpix/dpf_nest2ring.pro
+END
+healpix2alm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113933/repo/idlutils/trunk/pro/healpix/healpix2alm.pro
+END
+alm2healpix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/113933/repo/idlutils/trunk/pro/healpix/alm2healpix.pro
+END
+healpix_cl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113031/repo/idlutils/trunk/pro/healpix/healpix_cl.pro
+END
+healnpix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113013/repo/idlutils/trunk/pro/healpix/healnpix.pro
+END
+map_nest2ring.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112991/repo/idlutils/trunk/pro/healpix/map_nest2ring.pro
+END
+map_ring2nest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112991/repo/idlutils/trunk/pro/healpix/map_ring2nest.pro
+END
+ringwt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113335/repo/idlutils/trunk/pro/healpix/ringwt.pro
+END
+mqladvance.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113933/repo/idlutils/trunk/pro/healpix/mqladvance.pro
+END
+healcart_ind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/112988/repo/idlutils/trunk/pro/healpix/healcart_ind.pro
+END

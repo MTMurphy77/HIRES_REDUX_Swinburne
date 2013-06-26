@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/114055/repo/idlutils/trunk/pro/physics
+END
+synch_power.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114055/repo/idlutils/trunk/pro/physics/synch_power.pro
+END
+freefree.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/113763/repo/idlutils/trunk/pro/physics/freefree.pro
+END
+sigma_pbar_p.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/113620/repo/idlutils/trunk/pro/physics/sigma_pbar_p.pro
+END
+integrate_k53.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114055/repo/idlutils/trunk/pro/physics/integrate_k53.pro
+END
+gauntff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113750/repo/idlutils/trunk/pro/physics/gauntff.pro
+END
+positronium_spectrum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113857/repo/idlutils/trunk/pro/physics/positronium_spectrum.pro
+END
+evolve_electron_spectrum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/113787/repo/idlutils/trunk/pro/physics/evolve_electron_spectrum.pro
+END
+evolve_powerlaw_electrons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/113788/repo/idlutils/trunk/pro/physics/evolve_powerlaw_electrons.pro
+END
