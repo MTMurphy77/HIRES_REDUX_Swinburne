@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits
+END
+fits_info.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_info.pro
+END
+writefits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/writefits.pro
+END
+sxdelpar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/sxdelpar.pro
+END
+mrd_hread.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/mrd_hread.pro
+END
+fits_test_checksum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_test_checksum.pro
+END
+fits_open.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_open.pro
+END
+headfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/headfits.pro
+END
+fits_close.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/fits/fits_close.pro
+END
+fits_ascii_encode.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/fits/fits_ascii_encode.pro
+END
+mwrfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/mwrfits.pro
+END
+sxaddhist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/fits/sxaddhist.pro
+END
+fxposit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fxposit.pro
+END
+sxpar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/sxpar.pro
+END
+fits_add_checksum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_add_checksum.pro
+END
+rdfits_struct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/rdfits_struct.pro
+END
+fits_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_read.pro
+END
+readfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/readfits.pro
+END
+check_fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/check_fits.pro
+END
+fxmove.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fxmove.pro
+END
+fitsdir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fitsdir.pro
+END
+.idlwave_catalog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/.idlwave_catalog
+END
+mkhdr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/fits/mkhdr.pro
+END
+modfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/modfits.pro
+END
+sxaddpar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/sxaddpar.pro
+END
+mrdfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/mrdfits.pro
+END
+fitsrgb_to_tiff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/fits/fitsrgb_to_tiff.pro
+END
+fits_help.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_help.pro
+END
+fits_write.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/fits_write.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/fits/aaareadme.txt
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133454/repo/idlutils/trunk/pro/mangle
+END
+construct_vertex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/construct_vertex.pro
+END
+read_yanny_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/read_yanny_polygons.pro
+END
+read_mangle_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/read_mangle_polygons.pro
+END
+is_in_window.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/is_in_window.pro
+END
+which_pix_polygon.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/which_pix_polygon.pro
+END
+where_polygons_overlap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/where_polygons_overlap.pro
+END
+vmid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/vmid.pro
+END
+read_mangle_vertices.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/read_mangle_vertices.pro
+END
+angles_to_x.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/angles_to_x.pro
+END
+write_yanny_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/write_yanny_polygons.pro
+END
+destruct_polygon.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/destruct_polygon.pro
+END
+construct_cap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/construct_cap.pro
+END
+read_binary_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/read_binary_polygons.pro
+END
+window_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/window_image.pro
+END
+write_fits_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/write_fits_polygons.pro
+END
+radec_to_simplepix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/radec_to_simplepix.pro
+END
+gverts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/gverts.pro
+END
+cap_distance.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/cap_distance.pro
+END
+copy_caps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/copy_caps.pro
+END
+plot_poly.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/plot_poly.pro
+END
+make_ra_cap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/make_ra_cap.pro
+END
+circle_cap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/circle_cap.pro
+END
+is_in_cap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/is_in_cap.pro
+END
+balkan_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/balkan_plot.pro
+END
+read_fits_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/read_fits_polygons.pro
+END
+construct_polygon.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/construct_polygon.pro
+END
+intersect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133454/repo/idlutils/trunk/pro/mangle/intersect.pro
+END
+vmidc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/vmidc.pro
+END
+x_to_angles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/x_to_angles.pro
+END
+capstr__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/122754/repo/idlutils/trunk/pro/mangle/capstr__define.pro
+END
+write_mangle_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/write_mangle_polygons.pro
+END
+is_in_window_pix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/is_in_window_pix.pro
+END
+is_in_polygon.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/is_in_polygon.pro
+END
+write_regions_polygons.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/write_regions_polygons.pro
+END
+make_dec_cap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/make_dec_cap.pro
+END
+set_use_caps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/set_use_caps.pro
+END
+is_cap_used.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/is_cap_used.pro
+END
+polygon_overlap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/polygon_overlap.pro
+END
+garea.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mangle/garea.pro
+END

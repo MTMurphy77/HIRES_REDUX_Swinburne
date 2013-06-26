@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec
+END
+findbkpt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/findbkpt.pro
+END
+efc2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/efc2d.pro
+END
+slatec_bvalu.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/slatec_bvalu.pro
+END
+efcmn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/efcmn.pro
+END
+slatec_efc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/slatec_efc.pro
+END
+slatec_splinefit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/slatec_splinefit.pro
+END
+bvalu2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/slatec/bvalu2d.pro
+END

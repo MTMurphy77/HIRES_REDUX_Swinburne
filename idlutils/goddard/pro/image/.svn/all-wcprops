@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/image
+END
+dist_ellipse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/dist_ellipse.pro
+END
+psf_gaussian.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/psf_gaussian.pro
+END
+positivity.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/positivity.pro
+END
+skyadj_cube.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/skyadj_cube.pro
+END
+dist_circle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/dist_circle.pro
+END
+boxave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/boxave.pro
+END
+xmedsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/xmedsky.pro
+END
+filter_image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/image/filter_image.pro
+END
+max_likelihood.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/max_likelihood.pro
+END
+corrmat_analyze.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/corrmat_analyze.pro
+END
+convolve.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/image/convolve.pro
+END
+cr_reject.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/cr_reject.pro
+END
+imlist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/image/imlist.pro
+END
+rinter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/rinter.pro
+END
+.idlwave_catalog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/image/.idlwave_catalog
+END
+max_entropy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/max_entropy.pro
+END
+frebin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/frebin.pro
+END
+sigma_filter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/sigma_filter.pro
+END
+correl_optimize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/correl_optimize.pro
+END
+medarr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/medarr.pro
+END
+correl_images.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/correl_images.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/image/aaareadme.txt
+END

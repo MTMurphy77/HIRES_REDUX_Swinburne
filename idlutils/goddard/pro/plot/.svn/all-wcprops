@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot
+END
+cleanplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/cleanplot.pro
+END
+ploterror.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/ploterror.pro
+END
+multiplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/multiplot.pro
+END
+sunsymbol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/sunsymbol.pro
+END
+vsym.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/plot/vsym.pro
+END
+legendtest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/legendtest.pro
+END
+legend.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/legend.pro
+END
+lineid_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/lineid_plot.pro
+END
+rdplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/plot/rdplot.pro
+END
+.idlwave_catalog
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/.idlwave_catalog
+END
+plothist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/plothist.pro
+END
+plotsym.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/plotsym.pro
+END
+oploterror.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/oploterror.pro
+END
+al_legend.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/al_legend.pro
+END
+partvelvec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/partvelvec.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/plot/aaareadme.txt
+END

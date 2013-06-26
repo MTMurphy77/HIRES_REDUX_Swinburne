@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/robust
+END
+autohist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/robust/autohist.pro
+END
+biweight_mean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/robust/biweight_mean.pro
+END
+rob_checkfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/robust/rob_checkfit.pro
+END
+robust_poly_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/robust/robust_poly_fit.pro
+END
+.idlwave_catalog
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/robust/.idlwave_catalog
+END
+robust_linefit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/robust/robust_linefit.pro
+END
+histogauss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/robust/histogauss.pro
+END
+resistant_mean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/robust/resistant_mean.pro
+END
+robust_sigma.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/robust/robust_sigma.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/robust/aaareadme.txt
+END
+medsmooth.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/robust/medsmooth.pro
+END

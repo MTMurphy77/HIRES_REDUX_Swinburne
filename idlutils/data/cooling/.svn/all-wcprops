@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling
+END
+ABOUT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/ABOUT.txt
+END
+m-00.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m-00.cie
+END
+m-10.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m-10.cie
+END
+m-20.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m-20.cie
+END
+m+05.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m+05.cie
+END
+m-30.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m-30.cie
+END
+mzero.cie
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/mzero.cie
+END
+fetchdata.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/fetchdata.sh
+END
+m-05.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m-05.cie
+END
+m-15.cie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/data/cooling/m-15.cie
+END

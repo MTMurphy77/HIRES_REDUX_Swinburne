@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/139545/repo/idlutils/trunk/pro/sdss
+END
+sdss_sweep_circle.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/sdss/sdss_sweep_circle.pro
+END
+sdss_flagexist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/sdss/sdss_flagexist.pro
+END
+sdss_objid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/139272/repo/idlutils/trunk/pro/sdss/sdss_objid.pro
+END
+sdss_flagname.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/sdss/sdss_flagname.pro
+END
+sdss_astrombad.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/139545/repo/idlutils/trunk/pro/sdss/sdss_astrombad.pro
+END
+sdss_flagval.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/sdss/sdss_flagval.pro
+END
+vagc_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/sdss/vagc_read.pro
+END
+sdss_specobjid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/139271/repo/idlutils/trunk/pro/sdss/sdss_specobjid.pro
+END
+findopfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/sdss/findopfile.pro
+END

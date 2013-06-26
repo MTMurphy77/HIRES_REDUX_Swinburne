@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/131190/repo/idlutils/trunk/pro/yanny
+END
+yanny_par.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/yanny_par.pro
+END
+hogg_unquoted_regex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/hogg_unquoted_regex.pro
+END
+yanny_diff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/yanny_diff.pro
+END
+hogg_strsplit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/hogg_strsplit.pro
+END
+yanny_write.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/yanny_write.pro
+END
+yanny_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/131190/repo/idlutils/trunk/pro/yanny/yanny_read.pro
+END
+yanny_readone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/yanny_readone.pro
+END
+sxascii_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/sxascii_read.pro
+END
+yanny_free.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/yanny/yanny_free.pro
+END

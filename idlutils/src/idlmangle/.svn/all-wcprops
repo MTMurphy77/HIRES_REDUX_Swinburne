@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle
+END
+idl_gverts.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle/idl_gverts.c
+END
+idl_where_polygons_overlap.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle/idl_where_polygons_overlap.c
+END
+idl_garea.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle/idl_garea.c
+END
+idl_vmid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle/idl_vmid.c
+END
+idl_vmidc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle/idl_vmidc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/idlmangle/Makefile
+END

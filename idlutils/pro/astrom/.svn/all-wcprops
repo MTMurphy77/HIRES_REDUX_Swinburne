@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/131190/repo/idlutils/trunk/pro/astrom
+END
+gsc_nsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/gsc_nsky.pro
+END
+gsssputast.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/gsssputast.pro
+END
+usnob10_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usnob10_extract.pro
+END
+ucac3_readindex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac3_readindex.pro
+END
+tycho_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/131190/repo/idlutils/trunk/pro/astrom/tycho_read.pro
+END
+hogg_tp_shift.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/hogg_tp_shift.pro
+END
+ucac3_readzone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac3_readzone.pro
+END
+usno_readgc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usno_readgc.pro
+END
+ucac3_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac3_read.pro
+END
+acssip_ad2xy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/acssip_ad2xy.pro
+END
+acssip_xy2ad.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/acssip_xy2ad.pro
+END
+usno_parse_epoch_file.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usno_parse_epoch_file.pro
+END
+astr2gsss.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/astr2gsss.pro
+END
+ucacr14_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucacr14_read.pro
+END
+ucac_readindex.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac_readindex.pro
+END
+ll2uv.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ll2uv.pro
+END
+angle_from_pairs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/angle_from_pairs.pro
+END
+offset_from_pairs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/offset_from_pairs.pro
+END
+acssip_invert.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/acssip_invert.pro
+END
+hogg_make_astr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/hogg_make_astr.pro
+END
+usno_readzone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usno_readzone.pro
+END
+usno_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usno_read.pro
+END
+usno_cone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usno_cone.pro
+END
+astrom_engine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/astrom_engine.pro
+END
+ucacr14_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucacr14_extract.pro
+END
+usnob2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/usnob2fits.pro
+END
+astrom_tweak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/astrom_tweak.pro
+END
+ucac_readzone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac_readzone.pro
+END
+tycho_epoch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/tycho_epoch.pro
+END
+uv2ll.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/uv2ll.pro
+END
+ucac_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac_read.pro
+END
+ucac2patch_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/ucac2patch_read.pro
+END
+hogg_iterated_ad2xy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/hogg_iterated_ad2xy.pro
+END
+gsc_read_table.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/astrom/gsc_read_table.pro
+END

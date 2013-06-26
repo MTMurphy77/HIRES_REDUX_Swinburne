@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace
+END
+evilmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace/evilmath.h
+END
+trace_crude.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace/trace_crude.c
+END
+evilmath.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace/evilmath.c
+END
+trace_fweight.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace/trace_fweight.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace/Makefile
+END
+trace_gweight.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/trace/trace_gweight.c
+END

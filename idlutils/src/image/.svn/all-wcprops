@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image
+END
+idl_photfrac.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/idl_photfrac.c
+END
+pop_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/pop_image.c
+END
+idl_reject_cr_psf.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/idl_reject_cr_psf.c
+END
+test_photfrac.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/test_photfrac.c
+END
+photfrac.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/photfrac.c
+END
+p_cisi.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/p_cisi.c
+END
+grow_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/grow_obj.c
+END
+reject_cr_psf.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/reject_cr_psf.c
+END
+ppvalu.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/ppvalu.f
+END
+p_midpnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/p_midpnt.c
+END
+interv.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/interv.f
+END
+ph.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/ph.h
+END
+p_qromo.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/p_qromo.c
+END
+p_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/p_utils.c
+END
+idl_interp_profmean.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/idl_interp_profmean.c
+END
+tautsp.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/tautsp.f
+END
+p_polint.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/p_polint.c
+END
+interp_profmean.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/interp_profmean.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/image/Makefile
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage
+END
+idl_dobjects_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/idl_dobjects_multi.c
+END
+dselip.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dselip.c
+END
+dmedsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dmedsmooth.c
+END
+dfind.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dfind.c
+END
+dsigma.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dsigma.c
+END
+idl_dsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/idl_dsmooth.c
+END
+dobjects_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dobjects_multi.c
+END
+dimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dimage.h
+END
+idl_dmedsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/idl_dmedsmooth.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/Makefile
+END
+dsmooth.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/dimage/dsmooth.c
+END

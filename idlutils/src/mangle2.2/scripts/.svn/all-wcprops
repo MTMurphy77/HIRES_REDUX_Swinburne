@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts
+END
+polyid_gals.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/polyid_gals.sh
+END
+2df100k.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/2df100k.sh
+END
+2df230k.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/2df230k.sh
+END
+2qz.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/2qz.sh
+END
+mangle_testsuite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/mangle_testsuite.sh
+END
+plotmap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/plotmap.sh
+END
+graphmasksm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/graphmasksm.sh
+END
+graphmask.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/graphmask.sh
+END
+make_setup_script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/make_setup_script.sh
+END
+healpixpolys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/healpixpolys.sh
+END
+graphmask.sm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/graphmask.sm
+END
+healpixrast.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/healpixrast.sh
+END
+sdss_quickstart.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/sdss_quickstart.sh
+END
+trim_mask.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/trim_mask.sh
+END
+run_mangle_testsuite
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/run_mangle_testsuite
+END
+make_allsky.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/make_allsky.sh
+END
+healpixrast2fits.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/healpixrast2fits.sh
+END
+mangle_sdss.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/mangle_sdss.sh
+END
+make_pixelmaps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/make_pixelmaps.sh
+END
+graphmask.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/graphmask.m
+END
+call
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/call
+END
+find_complement.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/mangle2.2/scripts/find_complement.sh
+END

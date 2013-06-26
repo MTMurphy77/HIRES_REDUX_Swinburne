@@ -1,0 +1,89 @@
+10
+
+dir
+147196
+https://www.sdss3.org/svn/repo/idlutils/trunk/src
+https://www.sdss3.org/svn
+
+
+
+2012-02-10T19:06:45.464981Z
+130264
+weaver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b00c9580-4927-0410-8824-811d448ea4c7
+
+image
+dir
+
+spheregroup
+dir
+
+mangle2.2
+dir
+
+dimage
+dir
+
+mangle1.4
+dir
+
+math
+dir
+
+slatec
+dir
+
+idlmangle
+dir
+
+Makefile
+file
+
+
+
+
+2013-06-26T11:20:01.000000Z
+947ed4a38b0848ceee827099b9e808c7
+2012-02-10T19:06:45.464981Z
+130264
+weaver
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1813
+
+trace
+dir
+

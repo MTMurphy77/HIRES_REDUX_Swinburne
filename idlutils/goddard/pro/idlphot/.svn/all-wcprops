@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot
+END
+find.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/find.pro
+END
+gcntrd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/gcntrd.pro
+END
+substar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/substar.pro
+END
+mmm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/mmm.pro
+END
+nstar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/nstar.pro
+END
+aper.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/aper.pro
+END
+getpsf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/getpsf.pro
+END
+srcor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/srcor.pro
+END
+group.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/group.pro
+END
+dao_value.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/dao_value.pro
+END
+daoerf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/daoerf.pro
+END
+t_find.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/t_find.pro
+END
+.idlwave_catalog
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/.idlwave_catalog
+END
+sky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/sky.pro
+END
+t_substar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/t_substar.pro
+END
+cntrd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/idlphot/cntrd.pro
+END
+t_aper.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/t_aper.pro
+END
+t_nstar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/t_nstar.pro
+END
+pixwt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/pixwt.pro
+END
+t_getpsf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/t_getpsf.pro
+END
+pkfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/pkfit.pro
+END
+rdpsf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/rdpsf.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/aaareadme.txt
+END
+t_group.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130264/repo/idlutils/trunk/goddard/pro/idlphot/t_group.pro
+END

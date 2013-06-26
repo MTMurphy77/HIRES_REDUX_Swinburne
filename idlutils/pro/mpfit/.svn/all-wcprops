@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit
+END
+mpfitpeak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfitpeak.pro
+END
+mpfittut.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfittut.html
+END
+mpftest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpftest.pro
+END
+gauss1p.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/gauss1p.pro
+END
+mpcurvefit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpcurvefit.pro
+END
+tnmin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/tnmin.pro
+END
+mpfitfun.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfitfun.pro
+END
+fakedata.sav
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/112206/repo/idlutils/trunk/pro/mpfit/fakedata.sav
+END
+MPREADME
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/MPREADME
+END
+mpfitellipse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfitellipse.pro
+END
+mpchitest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpchitest.pro
+END
+mpchilim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpchilim.pro
+END
+gauss1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/gauss1.pro
+END
+gauss2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/gauss2.pro
+END
+mpfit2dpeak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfit2dpeak.pro
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/INSTALL
+END
+fitqa.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/fitqa.html
+END
+mpnormtest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpnormtest.pro
+END
+mpnormlim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpnormlim.pro
+END
+mpfitexpr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfitexpr.pro
+END
+mpfit2dfun.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfit2dfun.pro
+END
+setfitparm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/setfitparm.pro
+END
+mpfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/mpfit/mpfit.pro
+END

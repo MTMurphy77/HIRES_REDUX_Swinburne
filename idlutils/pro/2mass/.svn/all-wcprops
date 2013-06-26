@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass
+END
+tmass_decslice.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_decslice.pro
+END
+tmass_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_read.pro
+END
+tmass_ascii2fits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_ascii2fits.pro
+END
+tmass_struc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_struc.pro
+END
+tmass_xsc_sfiles.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_xsc_sfiles.pro
+END
+hst_guidetest.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/hst_guidetest.pro
+END
+tmass_cone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_cone.pro
+END
+tmass_reformat_psc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_reformat_psc.pro
+END
+tmass_fits_files.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_fits_files.pro
+END
+tmass_readzone.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_readzone.pro
+END
+tmass_xsc_read.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/2mass/tmass_xsc_read.pro
+END

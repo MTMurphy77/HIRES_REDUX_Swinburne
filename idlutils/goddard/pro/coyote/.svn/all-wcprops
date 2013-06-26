@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote
+END
+cgwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgwindow.pro
+END
+cgwindow_getdefs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgwindow_getdefs.pro
+END
+convert_to_type.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/convert_to_type.pro
+END
+getdecomposedstate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/getdecomposedstate.pro
+END
+color24.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/color24.pro
+END
+pickcolorname.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/pickcolorname.pro
+END
+cgcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgcolor.pro
+END
+cgplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgplot.pro
+END
+fixps.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fixps.pro
+END
+error_message.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/error_message.pro
+END
+cgdefaultcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgdefaultcolor.pro
+END
+setdefaultvalue.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/setdefaultvalue.pro
+END
+cgwindow_setdefs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgwindow_setdefs.pro
+END
+ps_start.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/ps_start.pro
+END
+setdecomposedstate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/setdecomposedstate.pro
+END
+cgpickfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgpickfile.pro
+END
+fpufix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fpufix.pro
+END
+cgset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgset.pro
+END
+colorsareidentical.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/colorsareidentical.pro
+END
+fsc_ps_setup__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_ps_setup__define.pro
+END
+ps_end.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/ps_end.pro
+END
+psconfig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/psconfig.pro
+END
+cgsnapshot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgsnapshot.pro
+END
+cgerase.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgerase.pro
+END
+scale_vector.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/scale_vector.pro
+END
+fsc_fileselect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_fileselect.pro
+END
+cgplots.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgplots.pro
+END
+fsc_psconfig__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_psconfig__define.pro
+END
+bitget.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/bitget.pro
+END
+cgaxis.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgaxis.pro
+END
+getprimaryscreensize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/getprimaryscreensize.pro
+END
+cgdisplay.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgdisplay.pro
+END
+decomposedcolor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/decomposedcolor.pro
+END
+fsc_pickfile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_pickfile.pro
+END
+ps_background.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/ps_background.pro
+END
+centertlb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/centertlb.pro
+END
+cgshow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgshow.pro
+END
+cgcontrol.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgcontrol.pro
+END
+hasimagemagick.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/hasimagemagick.pro
+END
+fsc_droplist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_droplist.pro
+END
+undefine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/undefine.pro
+END
+cgtext.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgtext.pro
+END
+cgcolorfill.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgcolorfill.pro
+END
+coyotegraphic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/coyotegraphic.pro
+END
+symcat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/symcat.pro
+END
+cgdefcharsize.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgdefcharsize.pro
+END
+fsc_plotwindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_plotwindow.pro
+END
+str_size.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/str_size.pro
+END
+cgcontour.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgcontour.pro
+END
+.idlwave_catalog
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/.idlwave_catalog
+END
+fsc_base_filename.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_base_filename.pro
+END
+cgps2pdf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgps2pdf.pro
+END
+windowavailable.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/windowavailable.pro
+END
+image_dimensions.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/image_dimensions.pro
+END
+programrootdir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/programrootdir.pro
+END
+pswindow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/pswindow.pro
+END
+linkedlist__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/linkedlist__define.pro
+END
+fsc_field.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/fsc_field.pro
+END
+cgquery.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/cgquery.pro
+END
+aaareadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/aaareadme.txt
+END
+aspect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/133807/repo/idlutils/trunk/goddard/pro/coyote/aspect.pro
+END

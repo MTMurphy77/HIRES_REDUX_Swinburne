@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup
+END
+friendsoffriends.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/friendsoffriends.h
+END
+rarange.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/rarange.c
+END
+chunks.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/chunks.h
+END
+chunkfriendsoffriends.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/chunkfriendsoffriends.c
+END
+spheregroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/spheregroup.c
+END
+spherematch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/spherematch.c
+END
+separation.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/separation.c
+END
+friendsoffriends.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/friendsoffriends.c
+END
+chunks.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/chunks.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/src/spheregroup/Makefile
+END

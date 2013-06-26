@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace
+END
+trace_crude.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/trace_crude.pro
+END
+fchebyshev_split.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/fchebyshev_split.pro
+END
+traceset_trim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/traceset_trim.pro
+END
+fchebyshev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/fchebyshev.pro
+END
+trace_crude_idl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/trace_crude_idl.pro
+END
+fpoly.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/fpoly.pro
+END
+trace_fweight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/trace_fweight.pro
+END
+trace_gweight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/trace_gweight.pro
+END
+func_fit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/func_fit.pro
+END
+traceset2pix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/traceset2pix.pro
+END
+traceset2xy.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/traceset2xy.pro
+END
+xy2traceset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130264/repo/idlutils/trunk/pro/trace/xy2traceset.pro
+END
