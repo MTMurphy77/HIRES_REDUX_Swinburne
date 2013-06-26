@@ -76,7 +76,6 @@
 ;               The output is written into flux array
 ;   /ADD_BOX  -- Do a boxcar extraction *in addition* to an optimal
 ;                extraction.  The output goes into the box array
-;   /VSHIFT= the velocity in km/s to apply to this exposure 
 ;
 ; Optional OUTPUTS:
 ;
@@ -104,7 +103,7 @@
 
 pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
                    MSKTRIM=msktrim, $
-                   ORDRS=ordrs, VSHIFT=vshift, HIGHSNR=highsnr, INPGAU=inpgau, $
+                   ORDRS=ordrs, HIGHSNR=highsnr, INPGAU=inpgau, $
                    readsky=readsky, _EXTRA=EXTRA, MODELOUT=modelout, $
                    BOXCAR=boxcar, NOHELIO=nohelio, NOSCATT=noscatt, $
                    NOVAC=novac, NOMEDSCATT=nomedscatt, SKIPSKYSUB=skipskysub,$
@@ -120,7 +119,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
         'hires_extract, hires, setup, obj_id, chip, [exp], ' + $
         '/DEBUG, /CHK, /OCHK, /RESCHK, /BOXCAR, /READSKY, ORDRS=,'
       print, '          /STD, HIGHSNR=, /SCTCHK, /BBOX, [v1.1]'
-      print, '          PROF_LIM=, /ADD_BOX, VSHIFT='
+      print, '          PROF_LIM=, /ADD_BOX'
       return
   endif 
   
@@ -131,7 +130,6 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
   if not keyword_set( REJSIG ) then rejsig = 7.
   if not keyword_set( uniformsky ) then uniformsky = 0
   if not keyword_set(MSKTRIM) then MSKTRIM = -1.5
-  if not keyword_set(VSHIFT) then VSHIFT = 0.0
   if keyword_set( STD ) then begin
       BOXCAR = 1
       NOMEDSCATT = 1
@@ -291,9 +289,9 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
       if not keyword_set(NOHELIO) then begin
           helio = (-1.)*x_keckhelio(radeg, decdeg, $
                                     hires[indx[exp[q]]].equinox, $
-                                    jd=hires[indx[exp[q]]].date) + VSHIFT
+                                    jd=hires[indx[exp[q]]].date)
           print, 'hires_extract: heliocentric correction :', $
-                 helio,' km/s', 'vshift is:',vshift , format='(a,f8.3,a)'
+                 helio,' km/s' , format='(a,f8.3,a)'
           hel_corr = sqrt( (1.d + helio/299792.458d) / $
                            (1.d - helio/299792.458d) )
           img_arc = img_arc + alog10(hel_corr)
@@ -354,7 +352,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
                            SKIPSKYSUB=skipskysub, $
                            _EXTRA=EXTRA, ORDERMASK = ordermask, MSKTRIM=MSKTRIM, $
                            EXTRACT_MASK=extract_mask, $
-                           MODEL_SKY=model_sky, MODEL_PROF=model_prof, MODEL_BLAZE=model_blaze, $
+                           MODEL_SKY=model_sky, MODEL_PROF=model_prof, $
                            MODEL_IVAR=model_ivar
       
           ;; Optional Image 
@@ -445,7 +443,6 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
 
           ;; Flat
           if keyword_set(EXFLAT) then begin
-              blprof = transpose(model_blaze[mni:mxi,*]*msk[mni:mxi,*])
               flt_img = transpose(flat_img[mni:mxi,*]*msk[mni:mxi,*])
               flt_var = transpose(flat_var[mni:mxi,*]*msk[mni:mxi,*])
               szf = size(flt_var,/dimen)
@@ -536,7 +533,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
                                DEFGAU=defgau, NCRITER=0L, $
                                USEGAU=INPGAU, MAXGAU=maxgau, CHK=chk, $
                                APSTRCT=apstrct, $
-                               REDBLUE=0L, PROFILE=blprof, PROF_LIM=PROF_LIM
+                               REDBLUE=0L, PROFILE=tprof, PROF_LIM=PROF_LIM
               endif
 
               ;; Extract Arc
