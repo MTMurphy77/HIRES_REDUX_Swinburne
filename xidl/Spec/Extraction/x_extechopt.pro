@@ -1121,7 +1121,7 @@ pro x_extechopt, img, skysub, in_ivar, ordr_str, obj_str, velpix, $
      model_obj[inorder]    =  obj_spectra*final_obj_profile
      model_prof[inorder]    =  final_obj_profile
      model_ivar[inorder]    =  ivar[inorder]
-	 model_blaze[inorder]   =  blaze_profile
+     model_blaze[inorder]   =  blaze_profile
      
 ;      if ordr_shift[q].order EQ 85 then stop
      ;; Mask
