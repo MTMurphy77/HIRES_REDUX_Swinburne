@@ -71,6 +71,7 @@
 ;  MODEL_OBJ= -- Model of the object flux
 ;  MODEL_SKY= -- Model of the sky
 ;  MODEL_PROF= -- Model of the object profile
+;  MODEL_BLAZE= -- Tapered model of the object profile for blaze extraction
 ;
 ; COMMENTS:
 ;  The program extracts the orders in order of decreasing SNR.  If the
@@ -87,6 +88,7 @@
 ;  bspline_extract
 ;
 ; REVISION HISTORY:
+;   10-Nov-2011 ALM - added MODEL_BLAZE optional output
 ;   26-Aug-2003 Written by SMB
 ;   Feb-2005 Ported to XIDL by JXP
 ;   2009-Jan-03 Moustakas - added NOCRMASK
@@ -123,7 +125,7 @@ pro x_extechopt, img, skysub, in_ivar, ordr_str, obj_str, velpix, $
                      FIN_TRC=fin_trc, ORDERMASK = ordermask, $
                      MODEL_OBJ=model_obj, MODEL_SKY=model_sky, SLIT_LEN=slit_len, $
                      MODEL_PROF=model_prof, MSKTRIM=msktrim, EXTENBOX=extenbox,$
-                     MODEL_IVAR=model_ivar, LOWSNR=lowsnr, $
+                     MODEL_IVAR=model_ivar, MODEL_BLAZE=model_blaze, LOWSNR=lowsnr, $
                      SKIPSKYSUB=skipskysub, MIN_CUT=min_cut, RDNOISE=rdnoise, $
                      EXTRACT_mask=extract_mask, TST_IVAR=tst_ivar, nocrmask=nocrmask ; jm09jan03nyu
 
@@ -235,6 +237,7 @@ pro x_extechopt, img, skysub, in_ivar, ordr_str, obj_str, velpix, $
   model_ivar    = ordermask*0.0
   model_obj     = ordermask*0.0
   model_prof    = ordermask*0.0
+  model_blaze   = ordermask*0.0
   chi_image     = ordermask*0.0
   medrow = sz[1]/2
   ycol = dindgen(sz[1])
@@ -857,6 +860,7 @@ pro x_extechopt, img, skysub, in_ivar, ordr_str, obj_str, velpix, $
 ;     endif
 
      ;; Fit the flux with our optimal profile
+     blaze_profile = final_obj_profile
      final_obj_profile = final_obj_profile / slit_proj * 2.
 
      for ii=0,1 do begin
@@ -963,6 +967,23 @@ pro x_extechopt, img, skysub, in_ivar, ordr_str, obj_str, velpix, $
                            inorder[ys], ncol)
 
      if I_TRC EQ FIN_TRC then begin
+
+         if median_sn2 GT LOWSNR^2 then begin ;; ensure gaussian isn't being fit
+             ;; ALM force the blaze profile to zero as it approaches the order edge to avoid pixel stepping artifacts
+             f0_r = where(x GT profile_rwhm, f0_rn)
+             f0_l = where(x LT profile_lwhm, f0_ln)
+             force0_ord = 3
+             force0_width = 0.8
+             if (f0_rn GT 0) then begin
+                 force0_m = (1.0-(abs(dindgen(f0_rn)/f0_rn)/force0_width)^force0_ord)^3
+                 blaze_profile[xs[f0_r]] = force0_m * blaze_profile[xs[f0_r]] > 0
+             endif
+             if (f0_ln GT 0) then begin
+                 force0_m = (1.0-(abs(reverse(dindgen(f0_ln))/f0_ln)/force0_width)^force0_ord)^3
+                 blaze_profile[xs[f0_l]] = force0_m * blaze_profile[xs[f0_l]] > 0
+             endif
+         endif
+         blaze_profile = blaze_profile / slit_proj * 2.
 
          skybkpts = 0
          if skyfil[0] NE '' then begin
@@ -1100,6 +1121,7 @@ pro x_extechopt, img, skysub, in_ivar, ordr_str, obj_str, velpix, $
      model_obj[inorder]    =  obj_spectra*final_obj_profile
      model_prof[inorder]    =  final_obj_profile
      model_ivar[inorder]    =  ivar[inorder]
+	 model_blaze[inorder]   =  blaze_profile
      
 ;      if ordr_shift[q].order EQ 85 then stop
      ;; Mask

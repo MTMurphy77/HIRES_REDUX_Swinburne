@@ -355,7 +355,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
                            SKIPSKYSUB=skipskysub, $
                            _EXTRA=EXTRA, ORDERMASK = ordermask, MSKTRIM=MSKTRIM, $
                            EXTRACT_MASK=extract_mask, $
-                           MODEL_SKY=model_sky, MODEL_PROF=model_prof, $
+                           MODEL_SKY=model_sky, MODEL_PROF=model_prof, MODEL_BLAZE=model_blaze, $
                            MODEL_IVAR=model_ivar
       
           ;; Optional Image 
@@ -446,6 +446,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
 
           ;; Flat
           if keyword_set(EXFLAT) then begin
+              blprof = transpose(model_blaze[mni:mxi,*]*msk[mni:mxi,*])
               flt_img = transpose(flat_img[mni:mxi,*]*msk[mni:mxi,*])
               flt_var = transpose(flat_var[mni:mxi,*]*msk[mni:mxi,*])
               szf = size(flt_var,/dimen)
@@ -536,7 +537,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
                                DEFGAU=defgau, NCRITER=0L, $
                                USEGAU=INPGAU, MAXGAU=maxgau, CHK=chk, $
                                APSTRCT=apstrct, $
-                               REDBLUE=0L, PROFILE=tprof, PROF_LIM=PROF_LIM
+                               REDBLUE=0L, PROFILE=blprof, PROF_LIM=PROF_LIM
               endif
 
               ;; Extract Arc

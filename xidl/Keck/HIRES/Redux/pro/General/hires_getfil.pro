@@ -261,6 +261,18 @@ function hires_getfil, type, setup, CHIP=chip, NAME=name, SUBFIL=subfil, $
           fil_cchip = 'QA/Arcs'+c_s+'/qa_arc2dfit_'+cchip+cframe+'.ps'
           NAME = 1
       end
+      'qa_arc2dtxt': begin
+         if not keyword_set( CHIP ) then stop
+         if not keyword_set( FRAME ) then stop
+         fil_cchip = 'QA/Arcs'+c_s+'/qa_arc2dfit_'+cchip+cframe+'.txt'
+         NAME = 1
+      end
+      'qa_arc2dwv': begin
+         if not keyword_set( CHIP ) then stop
+         if not keyword_set( FRAME ) then stop
+         fil_cchip = 'QA/Arcs'+c_s+'/qa_arc2dfit_'+cchip+cframe+'.wv'
+         NAME = 1
+      end
       'qa_tracearc': begin
           if not keyword_set( CHIP ) then stop
           if not keyword_set( FRAME ) then stop
