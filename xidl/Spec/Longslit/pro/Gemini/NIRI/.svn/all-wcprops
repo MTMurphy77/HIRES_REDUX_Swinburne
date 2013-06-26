@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/2851/trunk/Spec/Longslit/pro/Gemini/NIRI
+END
+niri_waveimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1419/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_waveimg.pro
+END
+niri_rebin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/878/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_rebin.pro
+END
+niri_superdark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2851/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_superdark.pro
+END
+niri_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1419/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_proc.pro
+END
+niri_oscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/789/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_oscan.pro
+END
+niri_superflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/789/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_superflat.pro
+END
+niri_reduce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1245/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_reduce.pro
+END
+niri_combine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/789/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_combine.pro
+END
+niri_plotsci.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/789/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_plotsci.pro
+END
+niri_check.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2833/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_check.pro
+END
+niri_skysub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2116/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_skysub.pro
+END
+niri_sensfunc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1245/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_sensfunc.pro
+END
+niri_waveqa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2551/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_waveqa.pro
+END
+niri_slitset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/789/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_slitset.pro
+END
+niri_skyproc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1245/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_skyproc.pro
+END
+niri_plan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/903/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_plan.pro
+END
+niri_fluxcal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/Gemini/NIRI/niri_fluxcal.pro
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/xidl/!svn/ver/2710/trunk/ISM/Abund
+END
+cogstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/720/trunk/ISM/Abund/cogstrct__define.pro
+END
+ism_allabnd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/720/trunk/ISM/Abund/ism_allabnd.pro
+END
+ism_corrzn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/720/trunk/ISM/Abund/ism_corrzn.pro
+END
+ism_msngcog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/720/trunk/ISM/Abund/ism_msngcog.pro
+END
+ism_sumvpfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/720/trunk/ISM/Abund/ism_sumvpfit.pro
+END
+ism_updabnd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/720/trunk/ISM/Abund/ism_updabnd.pro
+END
+ism_calcew.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2710/trunk/ISM/Abund/ism_calcew.pro
+END
+ismabndstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/2696/trunk/ISM/Abund/ismabndstrct__define.pro
+END
+ism_ewgui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/1538/trunk/ISM/Abund/ism_ewgui.pro
+END
+ism_sngcog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2150/trunk/ISM/Abund/ism_sngcog.pro
+END
+ism_idlines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2696/trunk/ISM/Abund/ism_idlines.pro
+END

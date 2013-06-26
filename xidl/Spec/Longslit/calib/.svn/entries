@@ -1,0 +1,55 @@
+10
+
+dir
+2860
+https://svn.ucolick.org/xidl/trunk/Spec/Longslit/calib
+https://svn.ucolick.org/xidl
+
+
+
+2013-05-29T22:08:03.889683Z
+2807
+xavier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7cf9b97e-9241-64fb-c582-918a6313aff1
+
+standards
+dir
+
+extinction
+dir
+
+linelists
+dir
+
+sky
+dir
+
+flats
+dir
+
+idlastro_data
+dir
+
+transform
+dir
+
+flux
+dir
+
+masks
+dir
+

@@ -1,0 +1,252 @@
+10
+
+dir
+2860
+https://svn.ucolick.org/xidl/trunk
+https://svn.ucolick.org/xidl
+
+
+
+2013-06-26T04:18:20.359559Z
+2860
+cooksey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7cf9b97e-9241-64fb-c582-918a6313aff1
+
+Dust
+dir
+
+Magellan
+dir
+
+ESI
+dir
+
+Iraf
+dir
+
+PKG
+dir
+
+FIT
+dir
+
+src
+dir
+
+ISM
+dir
+
+Spec
+dir
+
+Stars
+dir
+
+HST
+dir
+
+Stats
+dir
+
+NOT
+dir
+
+DLA
+dir
+
+ext
+dir
+
+Cosm
+dir
+
+FUSE
+dir
+
+Props
+dir
+
+Pgplot
+dir
+
+doc
+dir
+
+Widgets
+dir
+
+lib
+dir
+
+todo.lst
+file
+
+
+
+
+2013-06-26T13:12:19.000000Z
+0961a6d7c985c1a91c46559ed181e6b6
+2003-10-29T00:29:38.000000Z
+2
+xavier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+Gemini
+dir
+
+bin
+dir
+
+GRB
+dir
+
+Outreach
+dir
+
+General
+dir
+
+Makefile
+file
+
+
+
+
+2013-06-26T13:12:19.000000Z
+0a1651e0c90d8dc33810e11785c2ae61
+2006-04-28T00:04:47.000000Z
+508
+xavier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1360
+
+APO
+dir
+
+Quasars
+dir
+
+LBT
+dir
+
+Lick
+dir
+
+Obs
+dir
+
+Text
+dir
+
+Molecules
+dir
+
+Math
+dir
+
+Abund
+dir
+
+LLS
+dir
+
+PRJ
+dir
+
+lcoovi
+dir
+
+OVI
+dir
+
+Galaxies
+dir
+
+MOSA
+dir
+
+Cloudy
+dir
+
+PCA
+dir
+
+VLT
+dir
+
+IDLA
+dir
+
+IMG
+dir
+
+IGM
+dir
+
+Atomic
+dir
+
+SDSS
+dir
+
+Keck
+dir
+
+Color
+dir
+

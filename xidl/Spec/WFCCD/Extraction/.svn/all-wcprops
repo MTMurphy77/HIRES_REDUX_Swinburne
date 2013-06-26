@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/125/trunk/Spec/WFCCD/Extraction
+END
+wfccd_combspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Extraction/wfccd_combspec.pro
+END
+wfccd_objsumm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Extraction/wfccd_objsumm.pro
+END
+wfccd_subskyslit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Extraction/wfccd_subskyslit.pro
+END
+wfccd_chkspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Extraction/wfccd_chkspec.pro
+END
+wfccd_editspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Extraction/wfccd_editspec.pro
+END
+wfccd_skysub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Extraction/wfccd_skysub.pro
+END
+wfccd_extobjbox.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/125/trunk/Spec/WFCCD/Extraction/wfccd_extobjbox.pro
+END

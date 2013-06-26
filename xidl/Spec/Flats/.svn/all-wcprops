@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/xidl/!svn/ver/2778/trunk/Spec/Flats
+END
+x_fitgap.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/708/trunk/Spec/Flats/x_fitgap.pro
+END
+x_edgeflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2772/trunk/Spec/Flats/x_edgeflat.pro
+END
+x_slitprofile_return.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/305/trunk/Spec/Flats/x_slitprofile_return.pro
+END
+x_modelslit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/726/trunk/Spec/Flats/x_modelslit.pro
+END
+x_fittflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/726/trunk/Spec/Flats/x_fittflat.pro
+END
+slitproj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/305/trunk/Spec/Flats/slitproj.pro
+END
+x_trcflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2772/trunk/Spec/Flats/x_trcflat.pro
+END
+x_slitflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2778/trunk/Spec/Flats/x_slitflat.pro
+END
+x_qaslitprof.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/726/trunk/Spec/Flats/x_qaslitprof.pro
+END
+x_trace2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/726/trunk/Spec/Flats/x_trace2d.pro
+END
+x_mkslitqa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/207/trunk/Spec/Flats/x_mkslitqa.pro
+END

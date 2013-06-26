@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/2859/trunk/Lick/Hamspec/pro/Arcs
+END
+hamspec_getarcfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2724/trunk/Lick/Hamspec/pro/Arcs/hamspec_getarcfil.pro
+END
+hamspec_fittrcarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2722/trunk/Lick/Hamspec/pro/Arcs/hamspec_fittrcarc.pro
+END
+hamspec_tweakarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2778/trunk/Lick/Hamspec/pro/Arcs/hamspec_tweakarc.pro
+END
+hamspec_tracearc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2722/trunk/Lick/Hamspec/pro/Arcs/hamspec_tracearc.pro
+END
+hamspec_mkaimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/2722/trunk/Lick/Hamspec/pro/Arcs/hamspec_mkaimg.pro
+END
+hamspec_combarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/2712/trunk/Lick/Hamspec/pro/Arcs/hamspec_combarc.pro
+END
+hamspec_addtwoarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2697/trunk/Lick/Hamspec/pro/Arcs/hamspec_addtwoarc.pro
+END
+hamspec_fitarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/2859/trunk/Lick/Hamspec/pro/Arcs/hamspec_fitarc.pro
+END
+hamspec_mkarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/2778/trunk/Lick/Hamspec/pro/Arcs/hamspec_mkarc.pro
+END
+hamspec_fit2darc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2778/trunk/Lick/Hamspec/pro/Arcs/hamspec_fit2darc.pro
+END

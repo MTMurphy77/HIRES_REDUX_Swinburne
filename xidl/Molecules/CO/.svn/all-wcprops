@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/xidl/!svn/ver/1228/trunk/Molecules/CO
+END
+co_xlevel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1223/trunk/Molecules/CO/co_xlevel.pro
+END
+COsort.dat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/1228/trunk/Molecules/CO/COsort.dat
+END
+mk_colines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/1228/trunk/Molecules/CO/mk_colines.pro
+END
+co_flambda.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/1228/trunk/Molecules/CO/co_flambda.pro
+END
+read_colines.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/1194/trunk/Molecules/CO/read_colines.pro
+END
+co_alevel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1223/trunk/Molecules/CO/co_alevel.pro
+END
+colinstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/1163/trunk/Molecules/CO/colinstrct__define.pro
+END

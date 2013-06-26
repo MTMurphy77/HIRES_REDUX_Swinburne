@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2851/trunk/Spec/Longslit/pro/ISAAC
+END
+isaac_skysub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_skysub.pro
+END
+isaac_reduce_driver.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/2833/trunk/Spec/Longslit/pro/ISAAC/isaac_reduce_driver.pro
+END
+isaac_slitset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_slitset.pro
+END
+isaac_slitmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2833/trunk/Spec/Longslit/pro/ISAAC/isaac_slitmask.pro
+END
+isaac_modelsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2809/trunk/Spec/Longslit/pro/ISAAC/isaac_modelsky.pro
+END
+isaac_plan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_plan.pro
+END
+isaac_modelsky_linelist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_modelsky_linelist.pro
+END
+isaac_wave_calib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_wave_calib.pro
+END
+isaac_waveimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_waveimg.pro
+END
+isaac_superdark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2851/trunk/Spec/Longslit/pro/ISAAC/isaac_superdark.pro
+END
+isaac_hdr_script.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2833/trunk/Spec/Longslit/pro/ISAAC/isaac_hdr_script.pro
+END
+isaac_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2851/trunk/Spec/Longslit/pro/ISAAC/isaac_proc.pro
+END
+isaac_superflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2851/trunk/Spec/Longslit/pro/ISAAC/isaac_superflat.pro
+END
+make_oh_linelist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2809/trunk/Spec/Longslit/pro/ISAAC/make_oh_linelist.pro
+END
+isaac_reduce.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_reduce.pro
+END
+isaac_irwave_mask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2827/trunk/Spec/Longslit/pro/ISAAC/isaac_irwave_mask.pro
+END
+isaac_pipeline_todo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/2837/trunk/Spec/Longslit/pro/ISAAC/isaac_pipeline_todo.txt
+END

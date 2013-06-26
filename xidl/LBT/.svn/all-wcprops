@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/xidl/!svn/ver/1501/trunk/LBT
+END
+lbtc_makebias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_makebias.pro
+END
+lbtc_ccdproc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_ccdproc.pro
+END
+lbtc_getcombined.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_getcombined.pro
+END
+lbtc_whatiswhat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/1490/trunk/LBT/lbtc_whatiswhat.pro
+END
+lbtc_mapbadcolum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_mapbadcolum.pro
+END
+lbtc_applygain.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_applygain.pro
+END
+lbtc_cosmicworld.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_cosmicworld.pro
+END
+lbtc_offset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_offset.pro
+END
+lbtc_aligntrim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_aligntrim.pro
+END
+lbtc_manual_align.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_manual_align.pro
+END
+lbtc_stc_process.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_stc_process.pro
+END
+lbtc_makeplan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_makeplan.pro
+END
+lbtc_stackimages.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_stackimages.pro
+END
+lbtc_readfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_readfits.pro
+END
+lbtc_loopflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_loopflats.pro
+END
+lbtc_oscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_oscan.pro
+END
+lbtc_makescience.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_makescience.pro
+END
+lbtc_makeflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1491/trunk/LBT/lbtc_makeflats.pro
+END
+mpix_circ.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/1491/trunk/LBT/mpix_circ.pro
+END

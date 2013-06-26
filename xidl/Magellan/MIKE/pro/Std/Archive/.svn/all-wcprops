@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive
+END
+sens_feige110b.fits
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/sens_feige110b.fits
+END
+sens_feige110r.fits
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/sens_feige110r.fits
+END
+sens_b12feb04.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/sens_b12feb04.fits
+END
+sens_blue2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/sens_blue2.fits
+END
+sens_feige110vr.fits
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/sens_feige110vr.fits
+END
+sens_red2.fits
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/sens_red2.fits
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/README
+END
+mike_combsens.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Std/Archive/mike_combsens.pro
+END

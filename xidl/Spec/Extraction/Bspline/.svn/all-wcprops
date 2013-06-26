@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2528/trunk/Spec/Extraction/Bspline
+END
+bspline_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2528/trunk/Spec/Extraction/Bspline/bspline_extract.pro
+END
+bspline_calcvar.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/378/trunk/Spec/Extraction/Bspline/bspline_calcvar.pro
+END
+bspline_workind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/378/trunk/Spec/Extraction/Bspline/bspline_workind.pro
+END
+bspline_indsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/378/trunk/Spec/Extraction/Bspline/bspline_indsky.pro
+END
+bspline_workit2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/802/trunk/Spec/Extraction/Bspline/bspline_workit2.pro
+END

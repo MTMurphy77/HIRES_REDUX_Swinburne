@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/xidl/!svn/ver/2727/trunk/Stats
+END
+x_poisson.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/1545/trunk/Stats/x_poisson.pro
+END
+x_poissdraw.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1189/trunk/Stats/x_poissdraw.pro
+END
+x_poisscl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/2488/trunk/Stats/x_poisscl.pro
+END
+x_maxdblpow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/273/trunk/Stats/x_maxdblpow.pro
+END
+x_cumulative.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2727/trunk/Stats/x_cumulative.pro
+END
+x_maxsngpow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/1286/trunk/Stats/x_maxsngpow.pro
+END
+x_maxcl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/xidl/!svn/ver/1338/trunk/Stats/x_maxcl.pro
+END
+x_medianrow.pro
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/733/trunk/Stats/x_medianrow.pro
+END
+x_maxschecht.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/269/trunk/Stats/x_maxschecht.pro
+END
+x_maxstepw.pro
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/xidl/!svn/ver/733/trunk/Stats/x_maxstepw.pro
+END

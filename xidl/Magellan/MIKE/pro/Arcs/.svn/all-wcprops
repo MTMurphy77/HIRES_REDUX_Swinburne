@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2726/trunk/Magellan/MIKE/pro/Arcs
+END
+nhmc_templ_arc_2x2B.idl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2726/trunk/Magellan/MIKE/pro/Arcs/nhmc_templ_arc_2x2B.idl
+END
+mike_chkarcqa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_chkarcqa.pro
+END
+mike_crossarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_crossarc.pro
+END
+mike_arcalign.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_arcalign.pro
+END
+mike_fittrcarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_fittrcarc.pro
+END
+mike_arcxyoff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_arcxyoff.pro
+END
+mike_tracearc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_tracearc.pro
+END
+templ_arc_2x2R.idl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/templ_arc_2x2R.idl
+END
+templ_arc_4x2R.idl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/templ_arc_4x2R.idl
+END
+mike_procarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/1316/trunk/Magellan/MIKE/pro/Arcs/mike_procarc.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/2142/trunk/Magellan/MIKE/pro/Arcs/README
+END
+extract_arc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/extract_arc.pro
+END
+mike_setarcm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/1316/trunk/Magellan/MIKE/pro/Arcs/mike_setarcm.pro
+END
+mike_fit2darc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/2133/trunk/Magellan/MIKE/pro/Arcs/mike_fit2darc.pro
+END
+mike_allarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2726/trunk/Magellan/MIKE/pro/Arcs/mike_allarc.pro
+END
+mike_tweakarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/1316/trunk/Magellan/MIKE/pro/Arcs/mike_tweakarc.pro
+END
+mike_chkarctrc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_chkarctrc.pro
+END
+old_templ_arc_2x2B.idl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1316/trunk/Magellan/MIKE/pro/Arcs/old_templ_arc_2x2B.idl
+END
+mike_mkaimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/mike_mkaimg.pro
+END
+templ_arc_2x2B.idl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1316/trunk/Magellan/MIKE/pro/Arcs/templ_arc_2x2B.idl
+END
+mike_fitarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2142/trunk/Magellan/MIKE/pro/Arcs/mike_fitarc.pro
+END
+templ_arc_4x2B.idl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/xidl/!svn/ver/1315/trunk/Magellan/MIKE/pro/Arcs/templ_arc_4x2B.idl
+END

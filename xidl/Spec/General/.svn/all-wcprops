@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/xidl/!svn/ver/2809/trunk/Spec/General
+END
+x_specplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2765/trunk/Spec/General/x_specplot.pro
+END
+x_getxpmnx.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/726/trunk/Spec/General/x_getxpmnx.pro
+END
+x_pltechspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/2091/trunk/Spec/General/x_pltechspec.pro
+END
+extrctstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/72/trunk/Spec/General/extrctstrct__define.pro
+END
+x_centerpk.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/72/trunk/Spec/General/x_centerpk.pro
+END
+x_allvelo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/726/trunk/Spec/General/x_allvelo.pro
+END
+x_keckhelio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2593/trunk/Spec/General/x_keckhelio.pro
+END
+x_setwave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/2809/trunk/Spec/General/x_setwave.pro
+END
+x_rebin2dspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/xidl/!svn/ver/1249/trunk/Spec/General/x_rebin2dspec.pro
+END
+x_readspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2809/trunk/Spec/General/x_readspec.pro
+END

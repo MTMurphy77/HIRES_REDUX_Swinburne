@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/xidl/!svn/ver/1557/trunk/OVI/Lowz/General
+END
+lowzovistrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/69/trunk/OVI/Lowz/General/lowzovistrct__define.pro
+END
+lowzovi_parse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/69/trunk/OVI/Lowz/General/lowzovi_parse.pro
+END
+lowzovi_getzem.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/1526/trunk/OVI/Lowz/General/lowzovi_getzem.pro
+END
+lowzovi_prsdat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/69/trunk/OVI/Lowz/General/lowzovi_prsdat.pro
+END
+lowzovi_summary.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/952/trunk/OVI/Lowz/General/lowzovi_summary.pro
+END
+lowzovi_galcompl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/1526/trunk/OVI/Lowz/General/lowzovi_galcompl.pro
+END
+lowzovi_kstarcut.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/69/trunk/OVI/Lowz/General/lowzovi_kstarcut.pro
+END
+lowzovi_wrdat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/1019/trunk/OVI/Lowz/General/lowzovi_wrdat.pro
+END
+lowzovi_wcsapply.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/1557/trunk/OVI/Lowz/General/lowzovi_wcsapply.pro
+END
+lowzovidat__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/69/trunk/OVI/Lowz/General/lowzovidat__define.pro
+END

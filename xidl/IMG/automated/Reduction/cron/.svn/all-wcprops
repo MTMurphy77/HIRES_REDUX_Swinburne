@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/cron
+END
+automated_updateweb.csh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/xidl/!svn/ver/2548/trunk/IMG/automated/Reduction/cron/automated_updateweb.csh
+END
+automated_transfer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2675/trunk/IMG/automated/Reduction/cron/automated_transfer.sh
+END
+automated.cron
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2651/trunk/IMG/automated/Reduction/cron/automated.cron
+END
+automated_runcron.csh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2660/trunk/IMG/automated/Reduction/cron/automated_runcron.csh
+END
+idlReductionStartup
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2660/trunk/IMG/automated/Reduction/cron/idlReductionStartup
+END
+automated_ssh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/cron/automated_ssh.sh
+END

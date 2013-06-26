@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2646/trunk/Keck/HIRES/Redux/pro/Arcs
+END
+hires_procarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2644/trunk/Keck/HIRES/Redux/pro/Arcs/hires_procarc.pro
+END
+hires_setarcm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/229/trunk/Keck/HIRES/Redux/pro/Arcs/hires_setarcm.pro
+END
+hires_fit2darc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2644/trunk/Keck/HIRES/Redux/pro/Arcs/hires_fit2darc.pro
+END
+hires_allarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2142/trunk/Keck/HIRES/Redux/pro/Arcs/hires_allarc.pro
+END
+hires_getarcfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/Arcs/hires_getarcfil.pro
+END
+hires_tweakarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/Arcs/hires_tweakarc.pro
+END
+hires_mk_makee_template.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/xidl/!svn/ver/2646/trunk/Keck/HIRES/Redux/pro/Arcs/hires_mk_makee_template.pro
+END
+hires_mkaimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2645/trunk/Keck/HIRES/Redux/pro/Arcs/hires_mkaimg.pro
+END
+hires_arcformm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/929/trunk/Keck/HIRES/Redux/pro/Arcs/hires_arcformm.pro
+END
+hires_arctempl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2646/trunk/Keck/HIRES/Redux/pro/Arcs/hires_arctempl.pro
+END
+hires_fitarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/2646/trunk/Keck/HIRES/Redux/pro/Arcs/hires_fitarc.pro
+END
+hires_mktempl.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/xidl/!svn/ver/986/trunk/Keck/HIRES/Redux/pro/Arcs/hires_mktempl.pro
+END
+hires_setarcfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/721/trunk/Keck/HIRES/Redux/pro/Arcs/hires_setarcfil.pro
+END
+hires_fittrcarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2645/trunk/Keck/HIRES/Redux/pro/Arcs/hires_fittrcarc.pro
+END
+hires_makee_archive.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2646/trunk/Keck/HIRES/Redux/pro/Arcs/hires_makee_archive.pro
+END
+hires_tracearc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2645/trunk/Keck/HIRES/Redux/pro/Arcs/hires_tracearc.pro
+END

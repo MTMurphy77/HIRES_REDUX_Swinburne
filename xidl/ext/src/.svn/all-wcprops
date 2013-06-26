@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/xidl/!svn/ver/2/trunk/ext/src
+END
+qtst.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/xidl/!svn/ver/2/trunk/ext/src/qtst.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/xidl/!svn/ver/2/trunk/ext/src/Makefile
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/2855/trunk/Spec/Longslit/pro/TRIPLESPEC
+END
+TripleSpec_modelsky_R2700.fits
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/xidl/!svn/ver/2710/trunk/Spec/Longslit/pro/TRIPLESPEC/TripleSpec_modelsky_R2700.fits
+END
+tspec_clean.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_clean.pro
+END
+tspec_wavepix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2720/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_wavepix.pro
+END
+tspec_makeflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/2816/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_makeflat.pro
+END
+tspec_ordermask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2474/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_ordermask.pro
+END
+tspec_diff_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2855/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_diff_proc.pro
+END
+tspec_findslits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_findslits.pro
+END
+tspec_mk_oh_linelist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/xidl/!svn/ver/2809/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_mk_oh_linelist.pro
+END
+tspec_quicklook.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2449/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_quicklook.pro
+END
+tspec_reduxplan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_reduxplan.pro
+END
+tspec_plot2d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_plot2d.pro
+END
+tspec_superflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2704/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_superflat.pro
+END
+tspec_calib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2450/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_calib.pro
+END
+tspec_fluxcombine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_fluxcombine.pro
+END
+tspec_echextobj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2475/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_echextobj.pro
+END
+tspec_findobj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2784/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_findobj.pro
+END
+tspec_wpix2image.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2710/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_wpix2image.pro
+END
+TripleSpec_modelsky_R2700.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/xidl/!svn/ver/2710/trunk/Spec/Longslit/pro/TRIPLESPEC/TripleSpec_modelsky_R2700.pro
+END
+tspec_skysub.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_skysub.pro
+END
+tspec_sensfunc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/2819/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_sensfunc.pro
+END
+tspec_plan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2855/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_plan.pro
+END
+tspec_pipe_dev.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/2475/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_pipe_dev.pro
+END
+tspec_get_jd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/2475/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_get_jd.pro
+END
+tspec_makescipix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2705/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_makescipix.pro
+END
+old_tspec_waveimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2710/trunk/Spec/Longslit/pro/TRIPLESPEC/old_tspec_waveimg.pro
+END
+tspec_echjoefind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2784/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_echjoefind.pro
+END
+tspec_fluxcal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_fluxcal.pro
+END
+tspec_waveimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_waveimg.pro
+END
+tspec_redux_pair.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_redux_pair.pro
+END
+tspec_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/2474/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_proc.pro
+END
+tspec_oscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/1633/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_oscan.pro
+END
+TRIPLESPEC_OH.lst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2710/trunk/Spec/Longslit/pro/TRIPLESPEC/TRIPLESPEC_OH.lst
+END
+tspec_combine_flats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/xidl/!svn/ver/2815/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_combine_flats.pro
+END
+tspec_dark_play.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2134/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_dark_play.pro
+END
+tspec_scattlight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/1639/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_scattlight.pro
+END
+tspec_mkdark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1638/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_mkdark.pro
+END
+tspec_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2848/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_extract.pro
+END
+tspec_plotsci.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2720/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_plotsci.pro
+END
+tspec_check.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2854/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_check.pro
+END
+tspec_traceorders.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2704/trunk/Spec/Longslit/pro/TRIPLESPEC/tspec_traceorders.pro
+END

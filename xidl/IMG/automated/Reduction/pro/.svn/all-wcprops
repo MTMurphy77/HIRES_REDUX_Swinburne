@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/pro
+END
+automated_makelog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_makelog.pro
+END
+automated_work.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/pro/automated_work.pro
+END
+automated_cleanlog.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_cleanlog.pro
+END
+automated_makeplan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2585/trunk/IMG/automated/Reduction/pro/automated_makeplan.pro
+END
+automated_stackimages.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_stackimages.pro
+END
+automated_FLWOloopflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_FLWOloopflats.pro
+END
+automated_FLWOmakeflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/pro/automated_FLWOmakeflats.pro
+END
+automated_fitwcs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_fitwcs.pro
+END
+automated_oscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_oscan.pro
+END
+automated_checklognames.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/xidl/!svn/ver/2585/trunk/IMG/automated/Reduction/pro/automated_checklognames.pro
+END
+automated_FLWOmakebias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_FLWOmakebias.pro
+END
+automated_replot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2599/trunk/IMG/automated/Reduction/pro/automated_replot.pro
+END
+automated_grabphot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/pro/automated_grabphot.pro
+END
+automated_makescience.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/xidl/!svn/ver/2599/trunk/IMG/automated/Reduction/pro/automated_makescience.pro
+END
+automated_canconnect.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/xidl/!svn/ver/2548/trunk/IMG/automated/Reduction/pro/automated_canconnect.pro
+END
+automated_ccdproc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_ccdproc.pro
+END
+automated_makedark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_makedark.pro
+END
+automated_updateweb.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/2599/trunk/IMG/automated/Reduction/pro/automated_updateweb.pro
+END
+automated_makethumbnail.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/xidl/!svn/ver/2599/trunk/IMG/automated/Reduction/pro/automated_makethumbnail.pro
+END
+automated_mklcpage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2599/trunk/IMG/automated/Reduction/pro/automated_mklcpage.pro
+END
+automated_offset.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/xidl/!svn/ver/2599/trunk/IMG/automated/Reduction/pro/automated_offset.pro
+END
+automated_FLWOoscan.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_FLWOoscan.pro
+END
+automated_imagezp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_imagezp.pro
+END
+automated_FLWOmakescience.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_FLWOmakescience.pro
+END
+automated_cron_wrapper.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/xidl/!svn/ver/2660/trunk/IMG/automated/Reduction/pro/automated_cron_wrapper.pro
+END
+automated_imagestitch.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_imagestitch.pro
+END
+automated_loopflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/2579/trunk/IMG/automated/Reduction/pro/automated_loopflats.pro
+END
+automated_FLWOccdproc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_FLWOccdproc.pro
+END
+automated_makestr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_makestr.pro
+END
+automated_makeflats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/2579/trunk/IMG/automated/Reduction/pro/automated_makeflats.pro
+END
+automated_FLWOmakedark.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/xidl/!svn/ver/2643/trunk/IMG/automated/Reduction/pro/automated_FLWOmakedark.pro
+END
+automated_getdata.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/xidl/!svn/ver/2585/trunk/IMG/automated/Reduction/pro/automated_getdata.pro
+END
+automated_phot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/2678/trunk/IMG/automated/Reduction/pro/automated_phot.pro
+END
+automated_makebias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/2642/trunk/IMG/automated/Reduction/pro/automated_makebias.pro
+END

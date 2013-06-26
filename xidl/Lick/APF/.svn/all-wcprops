@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/xidl/!svn/ver/2637/trunk/Lick/APF
+END
+apf_fit2darc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_fit2darc.pro
+END
+apf_strct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2637/trunk/Lick/APF/apf_strct.pro
+END
+apf_getarcfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_getarcfil.pro
+END
+apf_setup.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_setup.pro
+END
+apf_mktflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_mktflat.pro
+END
+apfkey__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2613/trunk/Lick/APF/apfkey__define.pro
+END
+apf_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_proc.pro
+END
+apf_nrmflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_nrmflat.pro
+END
+apfobjstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/xidl/!svn/ver/2613/trunk/Lick/APF/apfobjstrct__define.pro
+END
+apf_mkaimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_mkaimg.pro
+END
+apf_fitarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_fitarc.pro
+END
+apf_wrstrct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2637/trunk/Lick/APF/apf_wrstrct.pro
+END
+apf_delov.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_delov.pro
+END
+apfstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/2613/trunk/Lick/APF/apfstrct__define.pro
+END
+apf_getfil.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_getfil.pro
+END
+apf_extract.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2637/trunk/Lick/APF/apf_extract.pro
+END
+apf_specplt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2637/trunk/Lick/APF/apf_specplt.pro
+END
+apf_edgeflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2637/trunk/Lick/APF/apf_edgeflat.pro
+END
+apf_rslvall.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_rslvall.pro
+END
+apf_fittrcarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_fittrcarc.pro
+END
+apf_fntobj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_fntobj.pro
+END
+apf_tracearc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_tracearc.pro
+END
+apf_chktrcflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/xidl/!svn/ver/2637/trunk/Lick/APF/apf_chktrcflat.pro
+END
+apf_subbias.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_subbias.pro
+END
+apf_procarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2613/trunk/Lick/APF/apf_procarc.pro
+END

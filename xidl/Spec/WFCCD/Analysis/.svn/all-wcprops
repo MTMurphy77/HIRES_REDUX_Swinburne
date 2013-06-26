@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/xidl/!svn/ver/434/trunk/Spec/WFCCD/Analysis
+END
+wfccd_zfind.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Analysis/wfccd_zfind.pro
+END
+wfccd_pltspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_pltspec.pro
+END
+wfccd_fspeczhist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_fspeczhist.pro
+END
+wfEigenGal-52223.fits
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfEigenGal-52223.fits
+END
+wfccd_zspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Analysis/wfccd_zspec.pro
+END
+wfccd_chkfspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Analysis/wfccd_chkfspec.pro
+END
+wfccd_fspeczimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_fspeczimg.pro
+END
+wfccd_pltobj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/311/trunk/Spec/WFCCD/Analysis/wfccd_pltobj.pro
+END
+wfccdfspecstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/105/trunk/Spec/WFCCD/Analysis/wfccdfspecstrct__define.pro
+END
+wfccd_objfspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_objfspec.pro
+END
+wfccd_analyse.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Analysis/wfccd_analyse.pro
+END
+wfEigenStar-52374.fits
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/xidl/!svn/ver/91/trunk/Spec/WFCCD/Analysis/wfEigenStar-52374.fits
+END
+wfccd_sdsseig.pro
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_sdsseig.pro
+END
+wfccd_combfspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_combfspec.pro
+END
+wfccd_fspecxypix.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_fspecxypix.pro
+END
+wfccd_fspecsumm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2/trunk/Spec/WFCCD/Analysis/wfccd_fspecsumm.pro
+END
+wfccd_mkspecfits.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/434/trunk/Spec/WFCCD/Analysis/wfccd_mkspecfits.pro
+END
+wfccd_wrfspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/226/trunk/Spec/WFCCD/Analysis/wfccd_wrfspec.pro
+END

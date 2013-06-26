@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/xidl/!svn/ver/1675/trunk/Spec/Longslit/pro/LBT/LUCIFER
+END
+luci_pipe_scr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1675/trunk/Spec/Longslit/pro/LBT/LUCIFER/luci_pipe_scr.pro
+END
+lucifer_scr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/xidl/!svn/ver/1443/trunk/Spec/Longslit/pro/LBT/LUCIFER/lucifer_scr.pro
+END
+lucifer_slitmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/xidl/!svn/ver/1443/trunk/Spec/Longslit/pro/LBT/LUCIFER/lucifer_slitmask.pro
+END
+luci_slitmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/xidl/!svn/ver/1675/trunk/Spec/Longslit/pro/LBT/LUCIFER/luci_slitmask.pro
+END
+luci_calib_script.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/xidl/!svn/ver/1675/trunk/Spec/Longslit/pro/LBT/LUCIFER/luci_calib_script.pro
+END
+luci_waveimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/xidl/!svn/ver/1675/trunk/Spec/Longslit/pro/LBT/LUCIFER/luci_waveimg.pro
+END
+luci_proc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/xidl/!svn/ver/1675/trunk/Spec/Longslit/pro/LBT/LUCIFER/luci_proc.pro
+END

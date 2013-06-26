@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/xidl/!svn/ver/2833/trunk/Spec/Arcs
+END
+x_fndpeaks.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2710/trunk/Spec/Arcs/x_fndpeaks.pro
+END
+x_convdeimosarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_convdeimosarc.pro
+END
+x_qckwav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/207/trunk/Spec/Arcs/x_qckwav.pro
+END
+x_fweight.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_fweight.pro
+END
+x_invertarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2201/trunk/Spec/Arcs/x_invertarc.pro
+END
+x_fit2darc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/1818/trunk/Spec/Arcs/x_fit2darc.pro
+END
+x_echtrcarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/2778/trunk/Spec/Arcs/x_echtrcarc.pro
+END
+x_extractarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_extractarc.pro
+END
+x_arclist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/71/trunk/Spec/Arcs/x_arclist.pro
+END
+x_tweakarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2133/trunk/Spec/Arcs/x_tweakarc.pro
+END
+svdfunct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/1776/trunk/Spec/Arcs/svdfunct.pro
+END
+x_mkaimg.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2778/trunk/Spec/Arcs/x_mkaimg.pro
+END
+z_arcpairs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/783/trunk/Spec/Arcs/z_arcpairs.pro
+END
+x_templarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2793/trunk/Spec/Arcs/x_templarc.pro
+END
+x_fitarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2793/trunk/Spec/Arcs/x_fitarc.pro
+END
+x_arcimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_arcimage.pro
+END
+arclinstrct__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/xidl/!svn/ver/71/trunk/Spec/Arcs/arclinstrct__define.pro
+END
+x_arcpeakup.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_arcpeakup.pro
+END
+x_identify.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2833/trunk/Spec/Arcs/x_identify.pro
+END
+x_crossarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/xidl/!svn/ver/2778/trunk/Spec/Arcs/x_crossarc.pro
+END
+frac_order.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/726/trunk/Spec/Arcs/frac_order.pro
+END
+x_fittrcarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/xidl/!svn/ver/1818/trunk/Spec/Arcs/x_fittrcarc.pro
+END
+x_findnpeaks.pro
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/xidl/!svn/ver/1848/trunk/Spec/Arcs/x_findnpeaks.pro
+END
+x_wavecal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/105/trunk/Spec/Arcs/x_wavecal.pro
+END
+x_tracearc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_tracearc.pro
+END
+x_autoid.pro
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/xidl/!svn/ver/2201/trunk/Spec/Arcs/x_autoid.pro
+END
+x_pltarc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/xidl/!svn/ver/872/trunk/Spec/Arcs/x_pltarc.pro
+END
+x_prspeaks.pro
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/xidl/!svn/ver/726/trunk/Spec/Arcs/x_prspeaks.pro
+END

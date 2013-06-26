@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/xidl/!svn/ver/2833/trunk/Spec/Longslit/pro/QA
+END
+long_waveqa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/2833/trunk/Spec/Longslit/pro/QA/long_waveqa.pro
+END
+long_multipanel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/xidl/!svn/ver/728/trunk/Spec/Longslit/pro/QA/long_multipanel.pro
+END
+long_plotsci.pro
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/xidl/!svn/ver/1818/trunk/Spec/Longslit/pro/QA/long_plotsci.pro
+END
+qa_longslit_profile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/xidl/!svn/ver/2589/trunk/Spec/Longslit/pro/QA/qa_longslit_profile.pro
+END
+long_flex_qa.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/xidl/!svn/ver/904/trunk/Spec/Longslit/pro/QA/long_flex_qa.pro
+END
