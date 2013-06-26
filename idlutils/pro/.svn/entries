@@ -1,161 +1,0 @@
-10
-
-dir
-128216
-https://www.sdss3.org/svn/repo/idlutils/trunk/pro
-https://www.sdss3.org/svn
-
-
-
-2011-10-25T07:18:33.277203Z
-127907
-schlegel
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b00c9580-4927-0410-8824-811d448ea4c7
-
-mpfit
-dir
-
-physics
-dir
-
-image
-dir
-
-math
-dir
-
-cooling
-dir
-
-bspline
-dir
-
-yanny
-dir
-
-spheregroup
-dir
-
-mangle
-dir
-
-astrom
-dir
-
-psconfig
-dir
-
-rgbcolor
-dir
-
-json
-dir
-
-slatec
-dir
-
-djsphot
-dir
-
-Makefile
-file
-
-
-
-
-2011-11-07T03:08:10.000000Z
-ad1b9c4ede1b053a86d0c3db33924819
-2010-07-23T15:19:42.504827Z
-115144
-blanton
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-971
-
-plot
-dir
-
-mcmc
-dir
-
-dust
-dir
-
-2mass
-dir
-
-dimage
-dir
-
-first
-dir
-
-rosat
-dir
-
-psf
-dir
-
-mpeg
-dir
-
-healpix
-dir
-
-misc
-dir
-
-cosmography
-dir
-
-TeXtoIDL
-dir
-
-trace
-dir
-
-ukidss
-dir
-
-fits
-dir
-
-coord
-dir
-
-sdss
-dir
-

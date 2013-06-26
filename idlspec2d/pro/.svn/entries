@@ -1,107 +1,0 @@
-10
-
-dir
-128216
-https://www.sdss3.org/svn/repo/idlspec2d/trunk/pro
-https://www.sdss3.org/svn
-
-
-
-2011-11-03T19:40:32.593524Z
-128170
-bolton
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-b00c9580-4927-0410-8824-811d448ea4c7
-
-spec1d
-dir
-
-guider
-dir
-
-spec2d
-dir
-
-photoz
-dir
-
-fluxfix
-dir
-
-testsuite
-dir
-
-plan
-dir
-
-templates
-dir
-
-specdb
-dir
-
-specflat
-dir
-
-plate
-dir
-
-inspect
-dir
-
-config
-dir
-
-apo2d
-dir
-
-science
-dir
-
-Makefile
-file
-
-
-
-
-2011-11-07T03:21:17.000000Z
-8fab4fef77ab7e9816ccd62ef3e47d17
-2010-06-03T17:46:50.295969Z
-114103
-kushner
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-839
-
