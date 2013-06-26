@@ -77,6 +77,8 @@
 ;               The output is written into flux array
 ;   /ADD_BOX  -- Do a boxcar extraction *in addition* to an optimal
 ;                extraction.  The output goes into the box array
+;   /VSHIFT= -- the velocity shift in km/s to apply to the final
+;               wavelength solution
 ;
 ; Optional OUTPUTS:
 ;
@@ -112,7 +114,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
                    USE_EXMASK=USE_EXMASK, PROF_LIM=prof_lim, $
                    SCATTTRIM=scatttrim, XBK_SCATT=xbk_scatt, $
                    ARC_XSHFT=arc_xshft, EXFLAT=exflat, EXARC=exarc, $
-                   TRY_IVAR=try_ivar, ADD_BOX=add_box
+                   TRY_IVAR=try_ivar, ADD_BOX=add_box, VSHIFT=vshift
 
 ;
   if  N_params() LT 4  then begin 
@@ -120,7 +122,7 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
         'hires_extract, hires, setup, obj_id, chip, [exp], ' + $
         '/DEBUG, /CHK, /OCHK, /RESCHK, /BOXCAR, /READSKY, ORDRS=,'
       print, '          /STD, HIGHSNR=, /SCTCHK, /BBOX, [v1.1]'
-      print, '          PROF_LIM=, /ADD_BOX'
+      print, '          PROF_LIM=, /ADD_BOX, VSHIFT='
       return
   endif 
   
@@ -131,6 +133,8 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
   if not keyword_set( REJSIG ) then rejsig = 7.
   if not keyword_set( uniformsky ) then uniformsky = 0
   if not keyword_set(MSKTRIM) then MSKTRIM = -1.5
+  if not keyword_set(VSHIFT) then VSHIFT = 0.0
+  
   if keyword_set( STD ) then begin
       BOXCAR = 1
       NOMEDSCATT = 1
@@ -292,9 +296,9 @@ pro hires_extract, hires, setup, obj_id, chip, exp, STD=std, $
       if not keyword_set(NOHELIO) then begin
           helio = (-1.)*x_keckhelio(radeg, decdeg, $
                                     hires[indx[exp[q]]].equinox, $
-                                    jd=hires[indx[exp[q]]].date)
+                                    jd=hires[indx[exp[q]]].date) + VSHIFT
           print, 'hires_extract: heliocentric correction :', $
-                 helio,' km/s' , format='(a,f8.3,a)'
+                 helio,' km/s', 'vshift is:', vshift, format='(a,f8.3,a)'
           hel_corr = sqrt( (1.d + helio/299792.458d) / $
                            (1.d - helio/299792.458d) )
           img_arc = img_arc + alog10(hel_corr)
