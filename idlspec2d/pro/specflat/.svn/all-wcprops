@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/138232/repo/idlspec2d/trunk/pro/specflat
+END
+bpm_ledflat_combine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127037/repo/idlspec2d/trunk/pro/specflat/bpm_ledflat_combine.pro
+END
+flatfield.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/specflat/flatfield.pro
+END
+combinebpm.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/138232/repo/idlspec2d/trunk/pro/specflat/combinebpm.pro
+END
+ledflat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/127037/repo/idlspec2d/trunk/pro/specflat/ledflat.pro
+END

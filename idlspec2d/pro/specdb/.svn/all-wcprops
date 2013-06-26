@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/specdb
+END
+postgres_write.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55786/repo/idlspec2d/trunk/pro/specdb/postgres_write.pro
+END
+specdb_create.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/specdb/specdb_create.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/54763/repo/idlspec2d/trunk/pro/specdb/README
+END
+mysql_write.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/55786/repo/idlspec2d/trunk/pro/specdb/mysql_write.pro
+END
+photo_loader.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55993/repo/idlspec2d/trunk/pro/specdb/photo_loader.pro
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/science/kinematics
+END
+mfourier_quotient.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/mfourier_quotient.pro
+END
+newdiff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/53373/repo/idlspec2d/trunk/pro/science/kinematics/newdiff.pro
+END
+mveldisp_fft.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/mveldisp_fft.pro
+END
+fitsimul_combtemp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/fitsimul_combtemp.pro
+END
+mveldisp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53372/repo/idlspec2d/trunk/pro/science/kinematics/mveldisp.pro
+END
+skyremove.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/53314/repo/idlspec2d/trunk/pro/science/kinematics/skyremove.pro
+END
+mfourier_quot_diff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/53308/repo/idlspec2d/trunk/pro/science/kinematics/mfourier_quot_diff.pro
+END
+mfitredshift.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/53375/repo/idlspec2d/trunk/pro/science/kinematics/mfitredshift.pro
+END
+fitsimul.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53316/repo/idlspec2d/trunk/pro/science/kinematics/fitsimul.pro
+END
+realspace.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/53350/repo/idlspec2d/trunk/pro/science/kinematics/realspace.pro
+END
+mveldisp_stars.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/53317/repo/idlspec2d/trunk/pro/science/kinematics/mveldisp_stars.pro
+END
+mfourier_difference.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/mfourier_difference.pro
+END
+mveldisp_struc.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/mveldisp_struc.pro
+END
+vdisprebin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53984/repo/idlspec2d/trunk/pro/science/kinematics/vdisprebin.pro
+END
+mfindchi2min.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/53374/repo/idlspec2d/trunk/pro/science/kinematics/mfindchi2min.pro
+END
+sp4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/53318/repo/idlspec2d/trunk/pro/science/kinematics/sp4
+END
+MCsimul.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/MCsimul.pro
+END
+sp321
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53318/repo/idlspec2d/trunk/pro/science/kinematics/sp321
+END
+template.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/template.pro
+END
+mbandpassfilter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/53299/repo/idlspec2d/trunk/pro/science/kinematics/mbandpassfilter.pro
+END
+spbrg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53318/repo/idlspec2d/trunk/pro/science/kinematics/spbrg
+END

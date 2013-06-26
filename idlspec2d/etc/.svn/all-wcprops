@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/130274/repo/idlspec2d/trunk/etc
+END
+dark-30-53611.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-30-53611.fits
+END
+regress1d_all.chicago
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53332/repo/idlspec2d/trunk/etc/regress1d_all.chicago
+END
+flatmask-b1.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52685/repo/idlspec2d/trunk/etc/flatmask-b1.fits.gz
+END
+dark-30-54514.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-30-54514.fits
+END
+dark-30-54235.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-30-54235.fits
+END
+dark-20-54713.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-20-54713.fits
+END
+linematch.par
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/55172/repo/idlspec2d/trunk/etc/linematch.par
+END
+flatmask-b2.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52685/repo/idlspec2d/trunk/etc/flatmask-b2.fits.gz
+END
+dark-30-54327.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-30-54327.fits
+END
+dark-30-54814.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-30-54814.fits
+END
+dark-15-54713.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-15-54713.fits
+END
+dark-10-54664.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-10-54664.fits
+END
+atmdisp_vec_am1.1see2.0.fit
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/55939/repo/idlspec2d/trunk/etc/atmdisp_vec_am1.1see2.0.fit
+END
+atmdisp_vec_am1.2see2.0.fit
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/55939/repo/idlspec2d/trunk/etc/atmdisp_vec_am1.2see2.0.fit
+END
+atmdisp_vec_am1.3see2.0.fit
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/55939/repo/idlspec2d/trunk/etc/atmdisp_vec_am1.3see2.0.fit
+END
+atmdisp_vec_am1.4see2.0.fit
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/55939/repo/idlspec2d/trunk/etc/atmdisp_vec_am1.4see2.0.fit
+END
+atmdisp_vec_am1.5see2.0.fit
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/55939/repo/idlspec2d/trunk/etc/atmdisp_vec_am1.5see2.0.fit
+END
+dark-30-54757.fits
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/98952/repo/idlspec2d/trunk/etc/dark-30-54757.fits
+END
+regress1d_all.dat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/53985/repo/idlspec2d/trunk/etc/regress1d_all.dat
+END
+flatmask-r1.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52685/repo/idlspec2d/trunk/etc/flatmask-r1.fits.gz
+END
+flatmask-r2.fits.gz
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/52685/repo/idlspec2d/trunk/etc/flatmask-r2.fits.gz
+END
+skylines.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/56318/repo/idlspec2d/trunk/etc/skylines.dat
+END
+lamphgcdne.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/122568/repo/idlspec2d/trunk/etc/lamphgcdne.dat
+END
+kurucz_stds_v5.fit
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/55948/repo/idlspec2d/trunk/etc/kurucz_stds_v5.fit
+END
+emlines.par
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/129416/repo/idlspec2d/trunk/etc/emlines.par
+END
+regress1d_all.plates
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/53114/repo/idlspec2d/trunk/etc/regress1d_all.plates
+END

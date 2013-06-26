@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/144736/repo/idlspec2d/trunk/pro/plan
+END
+rdnoise_history.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/144736/repo/idlspec2d/trunk/pro/plan/rdnoise_history.pro
+END
+bad_bossformat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/133548/repo/idlspec2d/trunk/pro/plan/bad_bossformat.pro
+END
+specheaders.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/plan/specheaders.pro
+END
+platecen_test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plan/platecen_test.pro
+END
+find_unplugged.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55991/repo/idlspec2d/trunk/pro/plan/find_unplugged.pro
+END
+daytime_test.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/plan/daytime_test.pro
+END
+plugfile_relabel.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56194/repo/idlspec2d/trunk/pro/plan/plugfile_relabel.pro
+END
+plugfile_diff.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/123465/repo/idlspec2d/trunk/pro/plan/plugfile_diff.pro
+END
+listchi.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plan/listchi.pro
+END
+dr1list_best.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/55990/repo/idlspec2d/trunk/pro/plan/dr1list_best.pro
+END
+plugmap_replace.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/123378/repo/idlspec2d/trunk/pro/plan/plugmap_replace.pro
+END
+plugfile_unmapped.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/55992/repo/idlspec2d/trunk/pro/plan/plugfile_unmapped.pro
+END
+opfiber_generate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133546/repo/idlspec2d/trunk/pro/plan/opfiber_generate.pro
+END
+fstars_plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plan/fstars_plot.pro
+END
+update_platelist.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/125787/repo/idlspec2d/trunk/pro/plan/update_platelist.pro
+END
+badfmags.pro
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/56243/repo/idlspec2d/trunk/pro/plan/badfmags.pro
+END
+listexptime.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plan/listexptime.pro
+END
+update_plate_release.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plan/update_plate_release.pro
+END
+badfstars.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/plan/badfstars.pro
+END
+smeartimes.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126192/repo/idlspec2d/trunk/pro/plan/smeartimes.pro
+END
+bundlethru.pro
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/126359/repo/idlspec2d/trunk/pro/plan/bundlethru.pro
+END

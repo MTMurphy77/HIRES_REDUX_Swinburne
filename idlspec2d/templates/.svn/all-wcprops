@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/146452/repo/idlspec2d/trunk/templates
+END
+eigeninput_star.par
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56421/repo/idlspec2d/trunk/templates/eigeninput_star.par
+END
+ssp_1.4Gyr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_1.4Gyr_z008.spec
+END
+eigeninput_typeIIqso.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/123000/repo/idlspec2d/trunk/templates/eigeninput_typeIIqso.dat
+END
+spEigenGal-boss_v0_new1.fits
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/115777/repo/idlspec2d/trunk/templates/spEigenGal-boss_v0_new1.fits
+END
+ssp_2.5Gyr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_2.5Gyr_z008.spec
+END
+ssp_100Myr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_100Myr_z008.spec
+END
+fluxed_sky_860L.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_860L.fits
+END
+spEigenGal-52223.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54505/repo/idlspec2d/trunk/templates/spEigenGal-52223.fits
+END
+eigeninput_star_boss.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125309/repo/idlspec2d/trunk/templates/eigeninput_star_boss.dat
+END
+ssp_5Gyr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_5Gyr_z02.spec
+END
+ssp_900Myr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_900Myr_z008.spec
+END
+eigeninput_qso.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/54505/repo/idlspec2d/trunk/templates/eigeninput_qso.dat
+END
+ssp_1.4Gyr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_1.4Gyr_z05.spec
+END
+spEigenGal-52146.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54387/repo/idlspec2d/trunk/templates/spEigenGal-52146.fits
+END
+spEigenStar-52223.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/54505/repo/idlspec2d/trunk/templates/spEigenStar-52223.fits
+END
+spEigenGal-55740.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125443/repo/idlspec2d/trunk/templates/spEigenGal-55740.fits
+END
+spEigenGal-53724.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56703/repo/idlspec2d/trunk/templates/spEigenGal-53724.fits
+END
+ssp_100Myr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_100Myr_z05.spec
+END
+spMLpcaQSO-55332.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/templates/spMLpcaQSO-55332.fits
+END
+spEigenCVstar-55734.fits
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125303/repo/idlspec2d/trunk/templates/spEigenCVstar-55734.fits
+END
+spEigenStar-52146.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/54387/repo/idlspec2d/trunk/templates/spEigenStar-52146.fits
+END
+spEigenStar-53724.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/56703/repo/idlspec2d/trunk/templates/spEigenStar-53724.fits
+END
+ssp_290Myr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_290Myr_z02.spec
+END
+spEigenStar-51845.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53494/repo/idlspec2d/trunk/templates/spEigenStar-51845.fits
+END
+ssp_900Myr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_900Myr_z05.spec
+END
+spEigenQSO.fits
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53504/repo/idlspec2d/trunk/templates/spEigenQSO.fits
+END
+ssp_5Gyr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_5Gyr_z008.spec
+END
+eigeninput_cvstar_boss.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/125303/repo/idlspec2d/trunk/templates/eigeninput_cvstar_boss.dat
+END
+bc03_padova1994_chab_z004_ssp.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/56771/repo/idlspec2d/trunk/templates/bc03_padova1994_chab_z004_ssp.fit.gz
+END
+bc03_padova1994_chab_z008_ssp.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/56770/repo/idlspec2d/trunk/templates/bc03_padova1994_chab_z008_ssp.fit.gz
+END
+ssp_5Myr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_5Myr_z008.spec
+END
+ssp_1.4Gyr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_1.4Gyr_z02.spec
+END
+spEigenGal-53054.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56328/repo/idlspec2d/trunk/templates/spEigenGal-53054.fits
+END
+eigeninput_gal.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53481/repo/idlspec2d/trunk/templates/eigeninput_gal.dat
+END
+ssp_100Myr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_100Myr_z02.spec
+END
+ssp_290Myr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_290Myr_z008.spec
+END
+ssp_11Gyr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_11Gyr_z008.spec
+END
+fluxed_sky_860U.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_860U.fits
+END
+fluxed_sky_564U.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_564U.fits
+END
+spEigenStar-52333.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/54960/repo/idlspec2d/trunk/templates/spEigenStar-52333.fits
+END
+spEigenStar-53054.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/56328/repo/idlspec2d/trunk/templates/spEigenStar-53054.fits
+END
+spArchIndoUS.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/125309/repo/idlspec2d/trunk/templates/spArchIndoUS.fits
+END
+spEigenGal-51846.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53497/repo/idlspec2d/trunk/templates/spEigenGal-51846.fits
+END
+kurucz_stds_raw_v5.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/56153/repo/idlspec2d/trunk/templates/kurucz_stds_raw_v5.fits
+END
+spEigenGal-51838.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53448/repo/idlspec2d/trunk/templates/spEigenGal-51838.fits
+END
+ssp_5Myr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_5Myr_z05.spec
+END
+ssp_900Myr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_900Myr_z02.spec
+END
+spEigenVstnd.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/53379/repo/idlspec2d/trunk/templates/spEigenVstnd.fits
+END
+spEigenGalNew-55399-baw-mean.fits
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/115416/repo/idlspec2d/trunk/templates/spEigenGalNew-55399-baw-mean.fits
+END
+fluxed_sky_346.fits
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_346.fits
+END
+spEigenElodie.fits
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/57035/repo/idlspec2d/trunk/templates/spEigenElodie.fits
+END
+eigeninput_qso_boss.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/125280/repo/idlspec2d/trunk/templates/eigeninput_qso_boss.dat
+END
+wfEigenGal-52223.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56353/repo/idlspec2d/trunk/templates/wfEigenGal-52223.fits
+END
+fluxed_sky_580L.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_580L.fits
+END
+ssp_25Myr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_25Myr_z05.spec
+END
+spEigenQSO-52223.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54505/repo/idlspec2d/trunk/templates/spEigenQSO-52223.fits
+END
+spEigenCVstar-52223.fits
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/54505/repo/idlspec2d/trunk/templates/spEigenCVstar-52223.fits
+END
+spBOSSEigenCVstar-55680.fits
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/125501/repo/idlspec2d/trunk/templates/spBOSSEigenCVstar-55680.fits
+END
+qsolist.27plates
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/53223/repo/idlspec2d/trunk/templates/qsolist.27plates
+END
+ssp_2.5Gyr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_2.5Gyr_z05.spec
+END
+spEigenQSO-53724.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56703/repo/idlspec2d/trunk/templates/spEigenQSO-53724.fits
+END
+README.elg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/146452/repo/idlspec2d/trunk/templates/README.elg
+END
+spEigenCVstar-53724.fits
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/56703/repo/idlspec2d/trunk/templates/spEigenCVstar-53724.fits
+END
+spEigenVdisp.fits
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/53919/repo/idlspec2d/trunk/templates/spEigenVdisp.fits
+END
+spEigenQSO-55732.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125280/repo/idlspec2d/trunk/templates/spEigenQSO-55732.fits
+END
+wfEigenStar-52374.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/56353/repo/idlspec2d/trunk/templates/wfEigenStar-52374.fits
+END
+bc03_padova1994_chab_z02_ssp.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/56770/repo/idlspec2d/trunk/templates/bc03_padova1994_chab_z02_ssp.fit.gz
+END
+ssp_5Myr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_5Myr_z02.spec
+END
+spMLpcaGal-55332.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/templates/spMLpcaGal-55332.fits
+END
+spEigenStar-52374.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/55265/repo/idlspec2d/trunk/templates/spEigenStar-52374.fits
+END
+spEigenGal-51984.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53978/repo/idlspec2d/trunk/templates/spEigenGal-51984.fits
+END
+spEigenStar-55734.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125309/repo/idlspec2d/trunk/templates/spEigenStar-55734.fits
+END
+ssp_640Myr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_640Myr_z05.spec
+END
+ssp_11Gyr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_11Gyr_z05.spec
+END
+spEigenStar-51984.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/53978/repo/idlspec2d/trunk/templates/spEigenStar-51984.fits
+END
+spLRG-52928.fits
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/56005/repo/idlspec2d/trunk/templates/spLRG-52928.fits
+END
+ssp_25Myr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_25Myr_z02.spec
+END
+eigeninput_vstnd.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53380/repo/idlspec2d/trunk/templates/eigeninput_vstnd.dat
+END
+fluxed_sky_800U.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_800U.fits
+END
+spEigenQSO-53054.fits
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56328/repo/idlspec2d/trunk/templates/spEigenQSO-53054.fits
+END
+spEigenCVstar-53054.fits
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/56328/repo/idlspec2d/trunk/templates/spEigenCVstar-53054.fits
+END
+ssp_2.5Gyr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_2.5Gyr_z02.spec
+END
+eigeninput_cvstar.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/54445/repo/idlspec2d/trunk/templates/eigeninput_cvstar.dat
+END
+ssp_640Myr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_640Myr_z008.spec
+END
+fluxed_sky_580U.fits
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_580U.fits
+END
+spBsplineQSO-53115.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/56415/repo/idlspec2d/trunk/templates/spBsplineQSO-53115.fits
+END
+ssp_5Gyr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_5Gyr_z05.spec
+END
+spMLpcaCVstar-55332.fits
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/templates/spMLpcaCVstar-55332.fits
+END
+spEigenGal-56436.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/146452/repo/idlspec2d/trunk/templates/spEigenGal-56436.fits
+END
+bc03_padova1994_chab_z05_ssp.fit.gz
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/56770/repo/idlspec2d/trunk/templates/bc03_padova1994_chab_z05_ssp.fit.gz
+END
+ssp_640Myr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_640Myr_z02.spec
+END
+qso.template
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/53223/repo/idlspec2d/trunk/templates/qso.template
+END
+spMLpcaStar-55332.fits
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/templates/spMLpcaStar-55332.fits
+END
+ssp_11Gyr_z02.spec
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_11Gyr_z02.spec
+END
+spEigenGal-55686.fits
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/125304/repo/idlspec2d/trunk/templates/spEigenGal-55686.fits
+END
+ssp_25Myr_z008.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_25Myr_z008.spec
+END
+fluxed_sky_437.fits
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56791/repo/idlspec2d/trunk/templates/fluxed_sky_437.fits
+END
+ssp_290Myr_z05.spec
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56052/repo/idlspec2d/trunk/templates/ssp_290Myr_z05.spec
+END

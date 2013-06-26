@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/114103/repo/idlspec2d/trunk/pro/fluxfix
+END
+spcoadd_fluxed_frames.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/56146/repo/idlspec2d/trunk/pro/fluxfix/spcoadd_fluxed_frames.pro
+END
+pca_flux_standard.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/pca_flux_standard.pro
+END
+frame_flux_calib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/frame_flux_calib.pro
+END
+frame_flux_tweak.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/frame_flux_tweak.pro
+END
+stype_standard.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/stype_standard.pro
+END
+kurucz_restore.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/kurucz_restore.pro
+END
+djs_sfit_iter.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56538/repo/idlspec2d/trunk/pro/fluxfix/djs_sfit_iter.pro
+END
+newspcombine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/56021/repo/idlspec2d/trunk/pro/fluxfix/newspcombine.pro
+END
+jeg_sphoto_coef.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56150/repo/idlspec2d/trunk/pro/fluxfix/jeg_sphoto_coef.pro
+END
+atmdisp_cor.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/atmdisp_cor.pro
+END
+rectify.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/rectify.pro
+END
+sphoto_calib.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/sphoto_calib.pro
+END
+spread_frames.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/spread_frames.pro
+END
+spdata2model_ratio.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/spdata2model_ratio.pro
+END
+smear_compare.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/smear_compare.pro
+END
+spmedian_rebin.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/55964/repo/idlspec2d/trunk/pro/fluxfix/spmedian_rebin.pro
+END

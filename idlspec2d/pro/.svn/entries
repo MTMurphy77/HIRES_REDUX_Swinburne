@@ -1,0 +1,73 @@
+10
+
+dir
+147196
+https://www.sdss3.org/svn/repo/idlspec2d/trunk/pro
+https://www.sdss3.org/svn
+
+
+
+2013-06-07T23:40:39.407766Z
+146761
+StephenBailey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b00c9580-4927-0410-8824-811d448ea4c7
+
+spec1d
+dir
+
+guider
+dir
+
+spec2d
+dir
+
+photoz
+dir
+
+fluxfix
+dir
+
+testsuite
+dir
+
+plan
+dir
+
+templates
+dir
+
+specdb
+dir
+
+specflat
+dir
+
+plate
+dir
+
+inspect
+dir
+
+config
+dir
+
+apo2d
+dir
+
+science
+dir
+

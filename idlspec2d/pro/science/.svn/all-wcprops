@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/146580/repo/idlspec2d/trunk/pro/science
+END
+sdss_spec_block.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/56519/repo/idlspec2d/trunk/pro/science/sdss_spec_block.pro
+END
+spec_param_str.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53306/repo/idlspec2d/trunk/pro/science/spec_param_str.pro
+END
+spectra_sample.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/53302/repo/idlspec2d/trunk/pro/science/spectra_sample.pro
+END
+bandpassinfo.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/53130/repo/idlspec2d/trunk/pro/science/bandpassinfo.pro
+END
+k_correct.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/53301/repo/idlspec2d/trunk/pro/science/k_correct.pro
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/53117/repo/idlspec2d/trunk/pro/science/README
+END
