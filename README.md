@@ -1,4 +1,4 @@
-HIRES_REDUX_private
-===================
+HIRES_REDUX_Swinburne
+=====================
 
-Private version of the HIRES REDUX code released by Jason Prochaska. Currently private to our Quasar Group at Swinburne.
+Version of the HIRES REDUX code released by J. Xavier Prochaska. Modifications are by the Quasar Group at Swinburne University of Technology, mainly with the aim of improving the wavelength calibration with minimal work after an initial "normal" reduction run.
